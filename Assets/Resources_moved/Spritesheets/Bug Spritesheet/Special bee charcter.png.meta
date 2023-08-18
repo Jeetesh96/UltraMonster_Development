@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 5e28b89ab8c5e8e49adf3c01d56e4a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 594672788633984556
+    second: Special bee charcter_0
+  - first:
+      213: 8355772931659679521
+    second: Special bee charcter_1
+  - first:
+      213: 408258286649473669
+    second: Special bee charcter_2
+  - first:
+      213: -678405159736268125
+    second: Special bee charcter_3
+  - first:
+      213: 6310507973386134435
+    second: Special bee charcter_4
+  - first:
+      213: 7779154300462858902
+    second: Special bee charcter_5
+  - first:
+      213: -8443918489720736650
+    second: Special bee charcter_6
+  - first:
+      213: 137291303861188714
+    second: Special bee charcter_7
+  - first:
+      213: -3272598687336869202
+    second: Special bee charcter_8
+  - first:
+      213: -4200371379474900942
+    second: Special bee charcter_9
+  - first:
+      213: 9085187817426750765
+    second: Special bee charcter_10
+  - first:
+      213: 1122868472597006856
+    second: Special bee charcter_11
+  - first:
+      213: 5978871031158417575
+    second: Special bee charcter_12
+  - first:
+      213: 435875234144740639
+    second: Special bee charcter_13
+  - first:
+      213: 215858739100918350
+    second: Special bee charcter_14
+  - first:
+      213: -6979162271742750626
+    second: Special bee charcter_15
+  - first:
+      213: 6175615062884077658
+    second: Special bee charcter_16
+  - first:
+      213: -5467148877622409865
+    second: Special bee charcter_17
+  - first:
+      213: -5427899291938022802
+    second: Special bee charcter_18
+  - first:
+      213: -1822011272623325454
+    second: Special bee charcter_19
+  - first:
+      213: 691352639624148170
+    second: Special bee charcter_20
+  - first:
+      213: 8389195749553336417
+    second: Special bee charcter_21
+  - first:
+      213: -7741336620969606561
+    second: Special bee charcter_22
+  - first:
+      213: -2917210684061323533
+    second: Special bee charcter_23
+  - first:
+      213: 4784465039341552909
+    second: Special bee charcter_24
+  - first:
+      213: -3078254827552521936
+    second: Special bee charcter_25
+  - first:
+      213: -3902662321144223267
+    second: Special bee charcter_26
+  - first:
+      213: -5925652180427604586
+    second: Special bee charcter_27
+  - first:
+      213: 7274879262290599769
+    second: Special bee charcter_28
+  - first:
+      213: -833039215436353845
+    second: Special bee charcter_29
+  - first:
+      213: -7373164716823489638
+    second: Special bee charcter_30
+  - first:
+      213: 5134284085856563063
+    second: Special bee charcter_31
+  - first:
+      213: 454102539154090117
+    second: Special bee charcter_32
+  - first:
+      213: 1140240831032924778
+    second: Special bee charcter_33
+  - first:
+      213: -402430433873381764
+    second: Special bee charcter_34
+  - first:
+      213: 4252285333129217032
+    second: Special bee charcter_35
+  - first:
+      213: -2129747176342742682
+    second: Special bee charcter_36
+  - first:
+      213: -1973930427811372916
+    second: Special bee charcter_37
+  - first:
+      213: 4483019228917380261
+    second: Special bee charcter_38
+  - first:
+      213: 1690881575596506448
+    second: Special bee charcter_39
+  - first:
+      213: 4358837841165069197
+    second: Special bee charcter_40
+  - first:
+      213: -6402764153534280174
+    second: Special bee charcter_41
+  - first:
+      213: 4233167678470510679
+    second: Special bee charcter_42
+  - first:
+      213: -3086453858546710385
+    second: Special bee charcter_43
+  - first:
+      213: 557993240179044189
+    second: Special bee charcter_44
+  - first:
+      213: -5037899536311550303
+    second: Special bee charcter_45
+  - first:
+      213: 5201550901978841458
+    second: Special bee charcter_46
+  - first:
+      213: 4878263772762713014
+    second: Special bee charcter_47
+  - first:
+      213: 642317035089764137
+    second: Special bee charcter_48
+  - first:
+      213: -7642947707342979885
+    second: Special bee charcter_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special bee charcter_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2285
+        width: 371
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e9e1420c3b04800800000000000000
+      internalID: 594672788633984556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2285
+        width: 371
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1274667e53ba5f370800000000000000
+      internalID: 8355772931659679521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_2
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2285
+        width: 360
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af958afbc6aa500800000000000000
+      internalID: 408258286649473669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2274
+        width: 359
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa0200a12d596f0800000000000000
+      internalID: -678405159736268125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_4
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 2274
+        width: 359
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a363f9319d639750800000000000000
+      internalID: 6310507973386134435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_5
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2274
+        width: 349
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928a0cde9b15fb60800000000000000
+      internalID: 7779154300462858902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_6
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 2274
+        width: 348
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b7d31fdc21da80800000000000000
+      internalID: -8443918489720736650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_7
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 2274
+        width: 347
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687565a6b1c7e100800000000000000
+      internalID: 137291303861188714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_8
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 2274
+        width: 336
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea250e435d46592d0800000000000000
+      internalID: -3272598687336869202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_9
+      rect:
+        serializedVersion: 2
+        x: 5847
+        y: 2274
+        width: 335
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385ea12c7845b5c0800000000000000
+      internalID: -4200371379474900942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1706
+        width: 334
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8d6f3f22151e70800000000000000
+      internalID: 9085187817426750765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1706
+        width: 322
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a41a63dea359f00800000000000000
+      internalID: 1122868472597006856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_12
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1706
+        width: 322
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82212868739f250800000000000000
+      internalID: 5978871031158417575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_13
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1706
+        width: 322
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f156691573a8c0600800000000000000
+      internalID: 435875234144740639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_14
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1706
+        width: 347
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4226c92162eef200800000000000000
+      internalID: 215858739100918350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_15
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1717
+        width: 360
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5017fa14e8052f90800000000000000
+      internalID: -6979162271742750626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_16
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 1717
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d1cc0e2134b550800000000000000
+      internalID: 6175615062884077658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_17
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 1717
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775042fdf09c024b0800000000000000
+      internalID: -5467148877622409865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_18
+      rect:
+        serializedVersion: 2
+        x: 5241
+        y: 1717
+        width: 286
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a907b2a5a3ca4b0800000000000000
+      internalID: -5427899291938022802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_19
+      rect:
+        serializedVersion: 2
+        x: 5873
+        y: 1717
+        width: 285
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7786a66ae6b6e0800000000000000
+      internalID: -1822011272623325454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1149
+        width: 274
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac47353109d289900800000000000000
+      internalID: 691352639624148170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_21
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1149
+        width: 274
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f75b16196c6470800000000000000
+      internalID: 8389195749553336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_22
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1149
+        width: 284
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52426ccb5f319490800000000000000
+      internalID: -7741336620969606561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_23
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1149
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feec81c65cf387d0800000000000000
+      internalID: -2917210684061323533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_24
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1149
+        width: 348
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058a36aa95d56240800000000000000
+      internalID: 4784465039341552909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_25
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 1149
+        width: 348
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c99b2b87d745d0800000000000000
+      internalID: -3078254827552521936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_26
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 1149
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a5edcb45f6d9c0800000000000000
+      internalID: -3902662321144223267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_27
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 1149
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df713ccbad3cda0800000000000000
+      internalID: -5925652180427604586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_28
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 1149
+        width: 285
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdfa4252095f460800000000000000
+      internalID: 7274879262290599769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_29
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 1149
+        width: 273
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce22f74f337074f0800000000000000
+      internalID: -833039215436353845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 580
+        width: 274
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93da4731c14da990800000000000000
+      internalID: -7373164716823489638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 580
+        width: 274
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77feb696c24a04740800000000000000
+      internalID: 5134284085856563063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_32
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 580
+        width: 285
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e1e97adb4d4600800000000000000
+      internalID: 454102539154090117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_33
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 580
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1d1c9ef2f2df00800000000000000
+      internalID: 1140240831032924778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_34
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 580
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bb2e07a74a6af0800000000000000
+      internalID: -402430433873381764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_35
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 580
+        width: 348
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80445cc1bf6230b30800000000000000
+      internalID: 4252285333129217032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_36
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 580
+        width: 347
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66913bc1a3e9172e0800000000000000
+      internalID: -2129747176342742682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_37
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 580
+        width: 322
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e7f6fbb03b94e0800000000000000
+      internalID: -1973930427811372916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_38
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 580
+        width: 323
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4bdd49c32e63e30800000000000000
+      internalID: 4483019228917380261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_39
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 580
+        width: 334
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbea695d7377710800000000000000
+      internalID: 1690881575596506448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 13
+        width: 334
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bac242ce3bd7c30800000000000000
+      internalID: 4358837841165069197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_41
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 13
+        width: 346
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0cf7fcefc427a0800000000000000
+      internalID: -6402764153534280174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_42
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 13
+        width: 346
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75856e5439b3fba30800000000000000
+      internalID: 4233167678470510679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_43
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 13
+        width: 358
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8880b18196ba25d0800000000000000
+      internalID: -3086453858546710385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_44
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 13
+        width: 359
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe0f345e36eb700800000000000000
+      internalID: 557993240179044189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_45
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 13
+        width: 360
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7b0c4019c51ab0800000000000000
+      internalID: -5037899536311550303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_46
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 13
+        width: 359
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271cf818cfe9f2840800000000000000
+      internalID: 5201550901978841458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_47
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 13
+        width: 359
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbad202e0313b340800000000000000
+      internalID: 4878263772762713014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_48
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 13
+        width: 360
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f15b5b0f7f9e800800000000000000
+      internalID: 642317035089764137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special bee charcter_49
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 13
+        width: 360
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7fe2ed8bcee590800000000000000
+      internalID: -7642947707342979885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b44acabcefd6bb54baef0c95729210d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

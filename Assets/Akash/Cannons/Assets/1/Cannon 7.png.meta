@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 71d5307c8eb40f7408fa101a35c58c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8719037527702469047
+    second: Cannon 7_0
+  - first:
+      213: -4571208089180715942
+    second: Cannon 7_1
+  - first:
+      213: -8108953412840532881
+    second: Cannon 7_2
+  - first:
+      213: 6107030097335889769
+    second: Cannon 7_3
+  - first:
+      213: 7182906683735887620
+    second: Cannon 7_4
+  - first:
+      213: 5318755727674728292
+    second: Cannon 7_5
+  - first:
+      213: 8317706563356906152
+    second: Cannon 7_6
+  - first:
+      213: -2225642243953821452
+    second: Cannon 7_7
+  - first:
+      213: 7687529453699077730
+    second: Cannon 7_8
+  - first:
+      213: 7619934083756150284
+    second: Cannon 7_9
+  - first:
+      213: -2180623761014552152
+    second: Cannon 7_10
+  - first:
+      213: -8536808120591613767
+    second: Cannon 7_11
+  - first:
+      213: 8749479158474449081
+    second: Cannon 7_12
+  - first:
+      213: -1282805015300285703
+    second: Cannon 7_13
+  - first:
+      213: 7231382110730162087
+    second: Cannon 7_14
+  - first:
+      213: 3213134281936970031
+    second: Cannon 7_15
+  - first:
+      213: 5021464907562177928
+    second: Cannon 7_16
+  - first:
+      213: -6928904299011089713
+    second: Cannon 7_17
+  - first:
+      213: -8269433754199232181
+    second: Cannon 7_18
+  - first:
+      213: -7054056429970911981
+    second: Cannon 7_19
+  - first:
+      213: 4204302122833991644
+    second: Cannon 7_20
+  - first:
+      213: 8370526665435817912
+    second: Cannon 7_21
+  - first:
+      213: 3504065347676003375
+    second: Cannon 7_22
+  - first:
+      213: -6197812877641026298
+    second: Cannon 7_23
+  - first:
+      213: -1796565459331177516
+    second: Cannon 7_24
+  - first:
+      213: 2579141001763775156
+    second: Cannon 7_25
+  - first:
+      213: 2683811154634034039
+    second: Cannon 7_26
+  - first:
+      213: 3666317066854641142
+    second: Cannon 7_27
+  - first:
+      213: 5500521178534454954
+    second: Cannon 7_28
+  - first:
+      213: -4374713049466504297
+    second: Cannon 7_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cannon 7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2625
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468ef16091cff680800000000000000
+      internalID: -8719037527702469047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2625
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54cdf1567ecf80c0800000000000000
+      internalID: -4571208089180715942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_2
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2625
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64d27785d5377f80800000000000000
+      internalID: -8108953412840532881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_3
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2625
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f2350648780c450800000000000000
+      internalID: 6107030097335889769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_4
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2625
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4bda729fcea360800000000000000
+      internalID: 7182906683735887620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5023872400d940800000000000000
+      internalID: 5318755727674728292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2100
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d2dedc0e6e6370800000000000000
+      internalID: 8317706563356906152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_7
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2100
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8770ccb2eec11e0800000000000000
+      internalID: -2225642243953821452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_8
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2100
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661610de479faa60800000000000000
+      internalID: 7687529453699077730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_9
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2100
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4d225da17fb960800000000000000
+      internalID: 7619934083756150284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a983f72e3edcb1e0800000000000000
+      internalID: -2180623761014552152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1575
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b087788e3a278980800000000000000
+      internalID: -8536808120591613767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1575
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ad8a10f46c6970800000000000000
+      internalID: 8749479158474449081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_13
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1575
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fadfea92af823ee0800000000000000
+      internalID: -1282805015300285703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_14
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1575
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8f2957b70b5460800000000000000
+      internalID: 7231382110730162087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ab720b98579c20800000000000000
+      internalID: 3213134281936970031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_16
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1050
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88555538ab3dfa540800000000000000
+      internalID: 5021464907562177928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_17
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1050
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca54ce304697df90800000000000000
+      internalID: -6928904299011089713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_18
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1050
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41745b50d11d3d80800000000000000
+      internalID: -8269433754199232181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_19
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1050
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d060a0d05fa1e90800000000000000
+      internalID: -7054056429970911981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d0ff518ea85a30800000000000000
+      internalID: 4204302122833991644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_21
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 525
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ac3c37a51a2470800000000000000
+      internalID: 8370526665435817912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_22
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 525
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cdbfd4ed0f0a030800000000000000
+      internalID: 3504065347676003375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_23
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 525
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6057dd37602fcf9a0800000000000000
+      internalID: -6197812877641026298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_24
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 525
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d324dcbb315117e0800000000000000
+      internalID: -1796565459331177516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b266c38313fac320800000000000000
+      internalID: 2579141001763775156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b41349600de3520800000000000000
+      internalID: 2683811154634034039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_27
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fda2d382ff51e230800000000000000
+      internalID: 3666317066854641142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_28
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62f0e6ed6c55c40800000000000000
+      internalID: 5500521178534454954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 7_29
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 0
+        width: 933.4
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b7844e8a5e943c0800000000000000
+      internalID: -4374713049466504297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

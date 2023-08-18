@@ -1,0 +1,30 @@
+Ultra monster backend api
+
+SignUP
+http://ec2-35-154-110-139.ap-south-1.compute.amazonaws.com:3000/api/auth/signUp
+request-
+{
+    "username":"Rajnedra133s",
+    "password":"Rajemdt",
+    "referral_code":"TEST2021"
+}
+MEthod- POST
+
+Login Api
+http://ec2-35-154-110-139.ap-south-1.compute.amazonaws.com:3000/api/auth/login
+request-
+{
+    "username":"Rajnedra133s",
+    "password":"Rajemdt"
+}
+MEthod- POST
+
+
+http://ec2-35-154-110-139.ap-south-1.compute.amazonaws.com:3000/api/auth/resetPassword
+
+{
+    "user_id":"2",
+    "password":"Rajemdt",
+    "confirm_password":"Rajemdt"
+}
+Method- POST

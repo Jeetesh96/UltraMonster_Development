@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 2beed3fcfd9083148939cc3b180f6d6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4923191481502082612
+    second: turtule_0
+  - first:
+      213: 7402924132019931797
+    second: turtule_1
+  - first:
+      213: -8693011416476791264
+    second: turtule_2
+  - first:
+      213: 7841136847415594283
+    second: turtule_3
+  - first:
+      213: 7204410538389889830
+    second: turtule_4
+  - first:
+      213: -2048407370182627579
+    second: turtule_5
+  - first:
+      213: 4714036725512326370
+    second: turtule_6
+  - first:
+      213: -3935923669071920316
+    second: turtule_7
+  - first:
+      213: 7267919770689522479
+    second: turtule_8
+  - first:
+      213: 2686918377336217422
+    second: turtule_9
+  - first:
+      213: 3286002288309583948
+    second: turtule_10
+  - first:
+      213: 7881551887681269972
+    second: turtule_11
+  - first:
+      213: 8484415799553494522
+    second: turtule_12
+  - first:
+      213: -5247445664371530581
+    second: turtule_13
+  - first:
+      213: 7094010438714571812
+    second: turtule_14
+  - first:
+      213: 5591357804127722363
+    second: turtule_15
+  - first:
+      213: 4342221599304734362
+    second: turtule_16
+  - first:
+      213: -7981262692057669481
+    second: turtule_17
+  - first:
+      213: 3467279294478825758
+    second: turtule_18
+  - first:
+      213: 3564807479528784364
+    second: turtule_19
+  - first:
+      213: 3242737768485433375
+    second: turtule_20
+  - first:
+      213: -103523222788475619
+    second: turtule_21
+  - first:
+      213: -1939259643513098503
+    second: turtule_22
+  - first:
+      213: 2233387033445569608
+    second: turtule_23
+  - first:
+      213: 2954173099668696098
+    second: turtule_24
+  - first:
+      213: -3970707453312803434
+    second: turtule_25
+  - first:
+      213: 2486677295387460679
+    second: turtule_26
+  - first:
+      213: -6492202381572256232
+    second: turtule_27
+  - first:
+      213: 8852229698140113707
+    second: turtule_28
+  - first:
+      213: -2293241057315692327
+    second: turtule_29
+  - first:
+      213: 694606523010275898
+    second: turtule_30
+  - first:
+      213: 5303693141721485664
+    second: turtule_31
+  - first:
+      213: 1690346717070233251
+    second: turtule_32
+  - first:
+      213: 9130244663652126461
+    second: turtule_33
+  - first:
+      213: 850108535090947843
+    second: turtule_34
+  - first:
+      213: 4534405250142747036
+    second: turtule_35
+  - first:
+      213: 6010417395370628109
+    second: turtule_36
+  - first:
+      213: 8084032119826032379
+    second: turtule_37
+  - first:
+      213: 1902663046299905284
+    second: turtule_38
+  - first:
+      213: -8690387094604129166
+    second: turtule_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turtule_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1087
+        width: 330
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43629287190b25440800000000000000
+      internalID: 4923191481502082612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1087
+        width: 330
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a073496487cb660800000000000000
+      internalID: 7402924132019931797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_2
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1087
+        width: 332
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4c7c9c283c5780800000000000000
+      internalID: -8693011416476791264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_3
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1087
+        width: 332
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dce692b6051dc60800000000000000
+      internalID: 7841136847415594283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1087
+        width: 334
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236fccc6353bf360800000000000000
+      internalID: 7204410538389889830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_5
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1087
+        width: 338
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fe8f889589293e0800000000000000
+      internalID: -2048407370182627579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_6
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1087
+        width: 339
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecce420d6f9b6140800000000000000
+      internalID: 4714036725512326370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_7
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 1088
+        width: 340
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4438ae1c64ac069c0800000000000000
+      internalID: -3935923669071920316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_8
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 1089
+        width: 340
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bccfb3686dcd460800000000000000
+      internalID: 7267919770689522479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_9
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1089
+        width: 338
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f189d370ad94520800000000000000
+      internalID: 2686918377336217422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 739
+        width: 334
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4040d5dba93a9d20800000000000000
+      internalID: 3286002288309583948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 739
+        width: 325
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03d000fa5e06d60800000000000000
+      internalID: 7881551887681269972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 740
+        width: 316
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0913a733beb570800000000000000
+      internalID: 8484415799553494522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 741
+        width: 303
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a8fc68f35d27b0800000000000000
+      internalID: -5247445664371530581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 741
+        width: 291
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbe7888ecf27260800000000000000
+      internalID: 7094010438714571812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_15
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 743
+        width: 281
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b142f6c4e789d40800000000000000
+      internalID: 5591357804127722363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_16
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 745
+        width: 269
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96569ad98ba24c30800000000000000
+      internalID: 4342221599304734362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_17
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 745
+        width: 262
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79023dc3edbdc3190800000000000000
+      internalID: -7981262692057669481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_18
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 747
+        width: 251
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193a7cd5204e1030800000000000000
+      internalID: 3467279294478825758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_19
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 747
+        width: 245
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce108f5f38db87130800000000000000
+      internalID: 3564807479528784364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 397
+        width: 240
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103156d1d4800d20800000000000000
+      internalID: 3242737768485433375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 397
+        width: 238
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1570b76d26309ef0800000000000000
+      internalID: -103523222788475619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_22
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 397
+        width: 237
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea62df0ad5615e0800000000000000
+      internalID: -1939259643513098503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 397
+        width: 240
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449c768ca59efe10800000000000000
+      internalID: 2233387033445569608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_24
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 396
+        width: 242
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c64c248c45ff820800000000000000
+      internalID: 2954173099668696098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_25
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 395
+        width: 246
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d5b42eb9635e8c0800000000000000
+      internalID: -3970707453312803434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_26
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 394
+        width: 251
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744499e33d3728220800000000000000
+      internalID: 2486677295387460679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_27
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 393
+        width: 260
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec074c45017e5a0800000000000000
+      internalID: -6492202381572256232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_28
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 392
+        width: 268
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0ec3620079da70800000000000000
+      internalID: 8852229698140113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_29
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 391
+        width: 276
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06b529865cc20e0800000000000000
+      internalID: -2293241057315692327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 284
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a52b6d3fcb3a900800000000000000
+      internalID: 694606523010275898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 38
+        width: 293
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0611cfdefc08a9940800000000000000
+      internalID: 5303693141721485664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_32
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 38
+        width: 301
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae08322261557710800000000000000
+      internalID: 1690346717070233251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_33
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 37
+        width: 310
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0461c52525be70800000000000000
+      internalID: 9130244663652126461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_34
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 36
+        width: 318
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307af9665313ccb00800000000000000
+      internalID: 850108535090947843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_35
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 36
+        width: 322
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bc6afc817dee30800000000000000
+      internalID: 4534405250142747036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_36
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 36
+        width: 326
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0415eac6ca496350800000000000000
+      internalID: 6010417395370628109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_37
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 36
+        width: 328
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62417c160403070800000000000000
+      internalID: 8084032119826032379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_38
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 35
+        width: 329
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de7f9b5fd976a10800000000000000
+      internalID: 1902663046299905284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtule_39
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 34
+        width: 330
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5b792bfa856780800000000000000
+      internalID: -8690387094604129166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2e76a0d9134dcb45b21a351ce728bf8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

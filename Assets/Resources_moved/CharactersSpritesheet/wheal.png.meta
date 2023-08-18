@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 692cba52187b6bf4890de902edf6ed9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8881430082962704914
+    second: wheal_0
+  - first:
+      213: 5376972837563917472
+    second: wheal_1
+  - first:
+      213: 6889107850707574559
+    second: wheal_2
+  - first:
+      213: -4575054827945099937
+    second: wheal_3
+  - first:
+      213: -7926409167485543345
+    second: wheal_4
+  - first:
+      213: 7837571251910728467
+    second: wheal_5
+  - first:
+      213: -3533840750284656802
+    second: wheal_6
+  - first:
+      213: -8758574271087354110
+    second: wheal_7
+  - first:
+      213: -1131284377358364104
+    second: wheal_8
+  - first:
+      213: 2629052908944052332
+    second: wheal_9
+  - first:
+      213: -7718475174545132522
+    second: wheal_10
+  - first:
+      213: -7645193684572613314
+    second: wheal_11
+  - first:
+      213: 7636576514361555333
+    second: wheal_12
+  - first:
+      213: 7399190779994905874
+    second: wheal_13
+  - first:
+      213: 3432037209957457044
+    second: wheal_14
+  - first:
+      213: 133957587710649613
+    second: wheal_15
+  - first:
+      213: 5075279185499580855
+    second: wheal_16
+  - first:
+      213: 2366227418267600116
+    second: wheal_17
+  - first:
+      213: 84047073245026129
+    second: wheal_18
+  - first:
+      213: 2411438844732018915
+    second: wheal_19
+  - first:
+      213: 3618622643013414663
+    second: wheal_20
+  - first:
+      213: -7940560036151531194
+    second: wheal_21
+  - first:
+      213: 1715929059466857224
+    second: wheal_22
+  - first:
+      213: -4649689559894594973
+    second: wheal_23
+  - first:
+      213: 1042129277177152921
+    second: wheal_24
+  - first:
+      213: 1237612433468103293
+    second: wheal_25
+  - first:
+      213: 2134778241769085391
+    second: wheal_26
+  - first:
+      213: 6665448733745163434
+    second: wheal_27
+  - first:
+      213: -6063055211504709297
+    second: wheal_28
+  - first:
+      213: 1407025921880289397
+    second: wheal_29
+  - first:
+      213: -2816930983138081645
+    second: wheal_30
+  - first:
+      213: 9007070623895539845
+    second: wheal_31
+  - first:
+      213: -5236570817988771795
+    second: wheal_32
+  - first:
+      213: -2886558474336369993
+    second: wheal_33
+  - first:
+      213: -450673631694138542
+    second: wheal_34
+  - first:
+      213: 6250683220898138063
+    second: wheal_35
+  - first:
+      213: 1332320187239118213
+    second: wheal_36
+  - first:
+      213: -7273876588277368608
+    second: wheal_37
+  - first:
+      213: 1425190651210749384
+    second: wheal_38
+  - first:
+      213: -8619729339186767370
+    second: wheal_39
+  - first:
+      213: 4981076204672579075
+    second: wheal_40
+  - first:
+      213: 7550831902305301501
+    second: wheal_41
+  - first:
+      213: 8811792562714656340
+    second: wheal_42
+  - first:
+      213: -83481707696869058
+    second: wheal_43
+  - first:
+      213: 1919763676740820947
+    second: wheal_44
+  - first:
+      213: 2475591533003545742
+    second: wheal_45
+  - first:
+      213: 7511030636883895660
+    second: wheal_46
+  - first:
+      213: -8206253392052105206
+    second: wheal_47
+  - first:
+      213: -1190592533605395211
+    second: wheal_48
+  - first:
+      213: 8919355073919939248
+    second: wheal_49
+  - first:
+      213: 6225608251777202950
+    second: wheal_50
+  - first:
+      213: -4523716997542570800
+    second: wheal_51
+  - first:
+      213: -8861378707187637752
+    second: wheal_52
+  - first:
+      213: -4208810820642182987
+    second: wheal_53
+  - first:
+      213: -533165189972307617
+    second: wheal_54
+  - first:
+      213: -6076903494144513031
+    second: wheal_55
+  - first:
+      213: -2228591761328836144
+    second: wheal_56
+  - first:
+      213: 5767240706777645354
+    second: wheal_57
+  - first:
+      213: 5510732551491082294
+    second: wheal_58
+  - first:
+      213: 7920085019926801197
+    second: wheal_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wheal_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2538
+        width: 691
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee53a873562deb480800000000000000
+      internalID: -8881430082962704914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_1
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2537
+        width: 687
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ebedae48de9a40800000000000000
+      internalID: 5376972837563917472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_2
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2537
+        width: 686
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f97c417170b9f50800000000000000
+      internalID: 6889107850707574559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_3
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2537
+        width: 682
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7568afd32280c0800000000000000
+      internalID: -4575054827945099937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_4
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2537
+        width: 679
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cdf9babdcbff190800000000000000
+      internalID: -7926409167485543345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_5
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 2537
+        width: 674
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd3f34785a4cc60800000000000000
+      internalID: 7837571251910728467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_6
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 2537
+        width: 678
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fab7a8f8645fec0800000000000000
+      internalID: -3533840750284656802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_7
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 2537
+        width: 678
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f56f8fa1b437680800000000000000
+      internalID: -8758574271087354110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_8
+      rect:
+        serializedVersion: 2
+        x: 6985
+        y: 2537
+        width: 678
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321b934adedc40f0800000000000000
+      internalID: -1131284377358364104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_9
+      rect:
+        serializedVersion: 2
+        x: 7845
+        y: 2537
+        width: 682
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60515df0b54c7420800000000000000
+      internalID: 2629052908944052332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2053
+        width: 683
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f09519b772e490800000000000000
+      internalID: -7718475174545132522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2053
+        width: 687
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355dff89d0d6e590800000000000000
+      internalID: -7645193684572613314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_12
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2057
+        width: 686
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5897c9621e19af960800000000000000
+      internalID: 7636576514361555333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_13
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2057
+        width: 694
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d11f2dfc43fa660800000000000000
+      internalID: 7399190779994905874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_14
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 2057
+        width: 699
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cdf63a8ab01af20800000000000000
+      internalID: 3432037209957457044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_15
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 2058
+        width: 699
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05267e57b9ebd100800000000000000
+      internalID: 133957587710649613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_16
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 2061
+        width: 703
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e2ab77830f6640800000000000000
+      internalID: 5075279185499580855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_17
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 2062
+        width: 707
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f441a3dc4786d020800000000000000
+      internalID: 2366227418267600116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_18
+      rect:
+        serializedVersion: 2
+        x: 6980
+        y: 2066
+        width: 712
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575e292e589a2100800000000000000
+      internalID: 84047073245026129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_19
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 2066
+        width: 712
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e094d95ad6277120800000000000000
+      internalID: 2411438844732018915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1582
+        width: 712
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70feffc1f1ee73230800000000000000
+      internalID: 3618622643013414663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1586
+        width: 712
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649668fc7b67dc190800000000000000
+      internalID: -7940560036151531194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_22
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1586
+        width: 716
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bca41636430d710800000000000000
+      internalID: 1715929059466857224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_23
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1586
+        width: 717
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae3aafafbf87fb0800000000000000
+      internalID: -4649689559894594973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_24
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1590
+        width: 712
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995cd206e03667e00800000000000000
+      internalID: 1042129277177152921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_25
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 1590
+        width: 712
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a197a73f1ec2110800000000000000
+      internalID: 1237612433468103293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_26
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 1577
+        width: 708
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc911e6108140ad10800000000000000
+      internalID: 2134778241769085391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_27
+      rect:
+        serializedVersion: 2
+        x: 6117
+        y: 1565
+        width: 707
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac257bee4e608c50800000000000000
+      internalID: 6665448733745163434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_28
+      rect:
+        serializedVersion: 2
+        x: 6980
+        y: 1553
+        width: 704
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415ea89863bbdba0800000000000000
+      internalID: -6063055211504709297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_29
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 1544
+        width: 700
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f0770f92c68310800000000000000
+      internalID: 1407025921880289397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1051
+        width: 695
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944341123048e8d0800000000000000
+      internalID: -2816930983138081645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1043
+        width: 691
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580562cc20b8ffc70800000000000000
+      internalID: 9007070623895539845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_32
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1038
+        width: 690
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d204a98e596f357b0800000000000000
+      internalID: -5236570817988771795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_33
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1034
+        width: 691
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b289c97c52e0f7d0800000000000000
+      internalID: -2886558474336369993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_34
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1034
+        width: 687
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2535c3148b2eeb9f0800000000000000
+      internalID: -450673631694138542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_35
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 1030
+        width: 683
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c0299543eeb650800000000000000
+      internalID: 6250683220898138063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_36
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 1031
+        width: 682
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585387fb62a5d7210800000000000000
+      internalID: 1332320187239118213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_37
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 1034
+        width: 682
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e872b718cffd0b90800000000000000
+      internalID: -7273876588277368608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_38
+      rect:
+        serializedVersion: 2
+        x: 6981
+        y: 1038
+        width: 686
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5df96a85b47c310800000000000000
+      internalID: 1425190651210749384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_39
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 1042
+        width: 687
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f992c5d5d1906880800000000000000
+      internalID: -8619729339186767370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 562
+        width: 687
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f8a2da66502540800000000000000
+      internalID: 4981076204672579075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_41
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 571
+        width: 691
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3389feb91f9c860800000000000000
+      internalID: 7550831902305301501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_42
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 579
+        width: 691
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e390f16a6c94a70800000000000000
+      internalID: 8811792562714656340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_43
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 589
+        width: 695
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313c7344d967def0800000000000000
+      internalID: -83481707696869058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_44
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 600
+        width: 696
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df95d484ee54aa10800000000000000
+      internalID: 1919763676740820947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_45
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 613
+        width: 704
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c14ad02611b5220800000000000000
+      internalID: 2475591533003545742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_46
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 617
+        width: 703
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656a80b19a8c3860800000000000000
+      internalID: 7511030636883895660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_47
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 617
+        width: 707
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d3edb4088d1e80800000000000000
+      internalID: -8206253392052105206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_48
+      rect:
+        serializedVersion: 2
+        x: 6985
+        y: 617
+        width: 707
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d732166a2a7fe0800000000000000
+      internalID: -1190592533605395211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_49
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 617
+        width: 708
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b27396de2ae7cb70800000000000000
+      internalID: 8919355073919939248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 133
+        width: 708
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbbe568bdc56650800000000000000
+      internalID: 6225608251777202950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_51
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 129
+        width: 710
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41411cb578831c0800000000000000
+      internalID: -4523716997542570800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_52
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 128
+        width: 712
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802eed1f30f060580800000000000000
+      internalID: -8861378707187637752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_53
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 124
+        width: 711
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b86dcc9bdc4795c0800000000000000
+      internalID: -4208810820642182987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_54
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 124
+        width: 708
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51d815a511d998f0800000000000000
+      internalID: -533165189972307617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_55
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 120
+        width: 704
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbaf2908708aaba0800000000000000
+      internalID: -6076903494144513031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_56
+      rect:
+        serializedVersion: 2
+        x: 5261
+        y: 120
+        width: 699
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f1a4c9937211e0800000000000000
+      internalID: -2228591761328836144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_57
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 116
+        width: 697
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2187adddda590050800000000000000
+      internalID: 5767240706777645354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_58
+      rect:
+        serializedVersion: 2
+        x: 6985
+        y: 116
+        width: 695
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638dec7fe0e0a7c40800000000000000
+      internalID: 5510732551491082294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wheal_59
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 116
+        width: 691
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b21abfc5bc9ed60800000000000000
+      internalID: 7920085019926801197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 145f0d0537f6e9e4b9f4274ea23e5b16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

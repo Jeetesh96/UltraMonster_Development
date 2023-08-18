@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 3bac5165a3adb0f40b8476c8b269c3cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1139988386227344587
+    second: Cannon 4_0
+  - first:
+      213: 1632569542823557890
+    second: Cannon 4_1
+  - first:
+      213: 1300569690255900075
+    second: Cannon 4_2
+  - first:
+      213: -2139513912846116709
+    second: Cannon 4_3
+  - first:
+      213: 8932268702136555001
+    second: Cannon 4_4
+  - first:
+      213: -1901003880876104134
+    second: Cannon 4_5
+  - first:
+      213: 8890628077936421068
+    second: Cannon 4_6
+  - first:
+      213: -6288404376101751817
+    second: Cannon 4_7
+  - first:
+      213: 1877076892329632516
+    second: Cannon 4_8
+  - first:
+      213: -5347174273962277270
+    second: Cannon 4_9
+  - first:
+      213: -7938708943538492083
+    second: Cannon 4_10
+  - first:
+      213: 7172576995407628808
+    second: Cannon 4_11
+  - first:
+      213: -8639080149807778714
+    second: Cannon 4_12
+  - first:
+      213: -2033189630770674439
+    second: Cannon 4_13
+  - first:
+      213: -6549214300567522135
+    second: Cannon 4_14
+  - first:
+      213: 2455419543477084379
+    second: Cannon 4_15
+  - first:
+      213: -4334769914249876913
+    second: Cannon 4_16
+  - first:
+      213: -3977778637968302923
+    second: Cannon 4_17
+  - first:
+      213: 1463101180751159602
+    second: Cannon 4_18
+  - first:
+      213: 116176913864039334
+    second: Cannon 4_19
+  - first:
+      213: -8694925828162720166
+    second: Cannon 4_20
+  - first:
+      213: 4697665933758438381
+    second: Cannon 4_21
+  - first:
+      213: 7270852894832854521
+    second: Cannon 4_22
+  - first:
+      213: 1754502209452749549
+    second: Cannon 4_23
+  - first:
+      213: -5379238095665371145
+    second: Cannon 4_24
+  - first:
+      213: 233706030617689671
+    second: Cannon 4_25
+  - first:
+      213: -9158128525312103153
+    second: Cannon 4_26
+  - first:
+      213: -7512374386790460574
+    second: Cannon 4_27
+  - first:
+      213: 1934862948447488634
+    second: Cannon 4_28
+  - first:
+      213: -899819139130832971
+    second: Cannon 4_29
+  - first:
+      213: -4209013011293802111
+    second: Cannon 4_30
+  - first:
+      213: -7150689777426020399
+    second: Cannon 4_31
+  - first:
+      213: 5261583831286690437
+    second: Cannon 4_32
+  - first:
+      213: -7859393649503092233
+    second: Cannon 4_33
+  - first:
+      213: -2780610302016903261
+    second: Cannon 4_34
+  - first:
+      213: -5236351745886809102
+    second: Cannon 4_35
+  - first:
+      213: -3666423770515013345
+    second: Cannon 4_36
+  - first:
+      213: -2766971776599613411
+    second: Cannon 4_37
+  - first:
+      213: 1644746253311426485
+    second: Cannon 4_38
+  - first:
+      213: -6097718002366323091
+    second: Cannon 4_39
+  - first:
+      213: -1434059016197686790
+    second: Cannon 4_40
+  - first:
+      213: -4940874068864085284
+    second: Cannon 4_41
+  - first:
+      213: -8711103959358680915
+    second: Cannon 4_42
+  - first:
+      213: 7186874627167716883
+    second: Cannon 4_43
+  - first:
+      213: -8848058189879846955
+    second: Cannon 4_44
+  - first:
+      213: -5584646343447213651
+    second: Cannon 4_45
+  - first:
+      213: 2958764895367551817
+    second: Cannon 4_46
+  - first:
+      213: -5692763128094261767
+    second: Cannon 4_47
+  - first:
+      213: -8547266431989357563
+    second: Cannon 4_48
+  - first:
+      213: 5750324731972194843
+    second: Cannon 4_49
+  - first:
+      213: 2835691403098635911
+    second: Cannon 4_50
+  - first:
+      213: 4700667920869373163
+    second: Cannon 4_51
+  - first:
+      213: 324831337384337932
+    second: Cannon 4_52
+  - first:
+      213: 5088150723697805320
+    second: Cannon 4_53
+  - first:
+      213: -688736856146016479
+    second: Cannon 4_54
+  - first:
+      213: 5544096032707056686
+    second: Cannon 4_55
+  - first:
+      213: -717492480603215362
+    second: Cannon 4_56
+  - first:
+      213: -6683811991726831781
+    second: Cannon 4_57
+  - first:
+      213: -6275716569624947261
+    second: Cannon 4_58
+  - first:
+      213: -3891128892564726092
+    second: Cannon 4_59
+  - first:
+      213: -9109376196491223657
+    second: Cannon 4_60
+  - first:
+      213: 9021483173735805314
+    second: Cannon 4_61
+  - first:
+      213: 6415898772838032017
+    second: Cannon 4_62
+  - first:
+      213: 7985970228591722310
+    second: Cannon 4_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cannon 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b29d64a92fd20f0800000000000000
+      internalID: -1139988386227344587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bbe17795d08a610800000000000000
+      internalID: 1632569542823557890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_2
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb7591e3d8c0210800000000000000
+      internalID: 1300569690255900075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_3
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b981dc09e6bee42e0800000000000000
+      internalID: -2139513912846116709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_4
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f550353f0bc5fb70800000000000000
+      internalID: 8932268702136555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_5
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36adb3da074e95e0800000000000000
+      internalID: -1901003880876104134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_6
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a38fd12bd16b70800000000000000
+      internalID: 8890628077936421068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_7
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 4183.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3717e89891bb8a0800000000000000
+      internalID: -6288404376101751817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e6670d77bc0a10800000000000000
+      internalID: 1877076892329632516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_9
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660f5014550bc5b0800000000000000
+      internalID: -5347174273962277270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_10
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4deb25e64a04d190800000000000000
+      internalID: -7938708943538492083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_11
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a096f76cc1a8360800000000000000
+      internalID: 7172576995407628808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_12
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66434942062db1880800000000000000
+      internalID: -8639080149807778714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_13
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f408e89dc8a8c3e0800000000000000
+      internalID: -2033189630770674439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_14
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b3c8fa448c15a0800000000000000
+      internalID: -6549214300567522135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_15
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 3586.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e08fb017631220800000000000000
+      internalID: 2455419543477084379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae516cabdc7d3c0800000000000000
+      internalID: -4334769914249876913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_17
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc13c867671cc8c0800000000000000
+      internalID: -3977778637968302923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_18
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a025a5cafd4410800000000000000
+      internalID: 1463101180751159602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_19
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab97f1a94ebc9100800000000000000
+      internalID: 116176913864039334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_20
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eedf7e60b655780800000000000000
+      internalID: -8694925828162720166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_21
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb10270746713140800000000000000
+      internalID: 4697665933758438381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_22
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f502aa6f2247e460800000000000000
+      internalID: 7270852894832854521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_23
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 2989.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2b118b67e395810800000000000000
+      internalID: 1754502209452749549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ed91d37b1955b0800000000000000
+      internalID: -5379238095665371145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_25
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e75d8856a4e3300800000000000000
+      internalID: 233706030617689671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_26
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6669c0aac7e080800000000000000
+      internalID: -9158128525312103153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_27
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639c972c4faeb790800000000000000
+      internalID: -7512374386790460574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_28
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a074ba9930ada10800000000000000
+      internalID: 1934862948447488634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_29
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7420aa2433383f0800000000000000
+      internalID: -899819139130832971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_30
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f5de67f49695c0800000000000000
+      internalID: -4209013011293802111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_31
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 2392.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7418d8885a3cc90800000000000000
+      internalID: -7150689777426020399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58238c31e96e40940800000000000000
+      internalID: 5261583831286690437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_33
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1486bdd13dde290800000000000000
+      internalID: -7859393649503092233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_34
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ad71a9a94969d0800000000000000
+      internalID: -2780610302016903261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_35
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f39b6b94ddb457b0800000000000000
+      internalID: -5236351745886809102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_36
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11876a910f3e1dc0800000000000000
+      internalID: -3666423770515013345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_37
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10af3844ddb999d0800000000000000
+      internalID: -2766971776599613411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_38
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf384ec00053d610800000000000000
+      internalID: 1644746253311426485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_39
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 1795.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d666370b8cd806ba0800000000000000
+      internalID: -6097718002366323091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af937983ce2391ce0800000000000000
+      internalID: -1434059016197686790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_41
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2da65563d7e6bb0800000000000000
+      internalID: -4940874068864085284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_42
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05de43a11fb1780800000000000000
+      internalID: -8711103959358680915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_43
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316899d4568ecb360800000000000000
+      internalID: 7186874627167716883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_44
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7d93094f1653580800000000000000
+      internalID: -8848058189879846955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_45
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da905a64db95f72b0800000000000000
+      internalID: -5584646343447213651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_46
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b57420ff4af0920800000000000000
+      internalID: 2958764895367551817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_47
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 1198.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdff77b81e3ff0b0800000000000000
+      internalID: -5692763128094261767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50467a82772026980800000000000000
+      internalID: -8547266431989357563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_49
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12985090e14dcf40800000000000000
+      internalID: 5750324731972194843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_50
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb2569e466a5720800000000000000
+      internalID: 2835691403098635911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_51
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43e7e91902c3140800000000000000
+      internalID: 4700667920869373163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_52
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0265bc5168028400800000000000000
+      internalID: 324831337384337932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_53
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80887a1002ebc9640800000000000000
+      internalID: 5088150723697805320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_54
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12782b97a7d1176f0800000000000000
+      internalID: -688736856146016479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_55
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 601.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e241826c7f590fc40800000000000000
+      internalID: 5544096032707056686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a1ace364fa06f0800000000000000
+      internalID: -717492480603215362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_57
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5740a7e7645e33a0800000000000000
+      internalID: -6683811991726831781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_58
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d874b70d28e8a0800000000000000
+      internalID: -6275716569624947261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_59
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9b6763eeeff9c0800000000000000
+      internalID: -3891128892564726092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_60
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dddb2ec9ef49180800000000000000
+      internalID: -9109376196491223657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_61
+      rect:
+        serializedVersion: 2
+        x: 5310
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bfad062fb23d70800000000000000
+      internalID: 9021483173735805314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_62
+      rect:
+        serializedVersion: 2
+        x: 6372
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19220e5e0f9d90950800000000000000
+      internalID: 6415898772838032017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon 4_63
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 4.375
+        width: 1062.5
+        height: 597.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ffd068c9dd3de60800000000000000
+      internalID: 7985970228591722310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

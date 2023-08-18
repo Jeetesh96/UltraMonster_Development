@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 1d3f7565d8d681e439666d2462c8d2b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1110435837700435195
+    second: Setting pannel_0
+  - first:
+      213: -6459166634471638001
+    second: Setting pannel_1
+  - first:
+      213: 245884887841421313
+    second: Setting pannel_2
+  - first:
+      213: -2537207876000429507
+    second: Setting pannel_3
+  - first:
+      213: 8265463578792575991
+    second: Setting pannel_4
+  - first:
+      213: -6018282227270952359
+    second: Setting pannel_5
+  - first:
+      213: 2261656334718514154
+    second: Setting pannel_6
+  - first:
+      213: 7966910031895645625
+    second: Setting pannel_7
+  - first:
+      213: 8377493597365068214
+    second: Setting pannel_8
+  - first:
+      213: -8070558418907464644
+    second: Setting pannel_9
+  - first:
+      213: -139623217059418322
+    second: Setting pannel_10
+  - first:
+      213: -441179001463590632
+    second: Setting pannel_11
+  - first:
+      213: -8768655651906361829
+    second: Setting pannel_12
+  - first:
+      213: 1094936676625694979
+    second: Setting pannel_13
+  - first:
+      213: 6744560846129670314
+    second: Setting pannel_14
+  - first:
+      213: -277320321847018565
+    second: Setting pannel_15
+  - first:
+      213: 3725048197342955255
+    second: Setting pannel_16
+  - first:
+      213: 7530890376704712221
+    second: Setting pannel_17
+  - first:
+      213: -6476261527543631798
+    second: Setting pannel_18
+  - first:
+      213: -5859990306735461190
+    second: Setting pannel_19
+  - first:
+      213: 7501140979765089168
+    second: Setting pannel_20
+  - first:
+      213: 1082184164334764975
+    second: Setting pannel_21
+  - first:
+      213: -5471476951912669095
+    second: Setting pannel_22
+  - first:
+      213: 7330636500049335707
+    second: Setting pannel_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Setting pannel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2868
+        width: 415
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6ff3d28f096f00800000000000000
+      internalID: 1110435837700435195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 405
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c33470b2e6c56a0800000000000000
+      internalID: -6459166634471638001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 404
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108bc63b00f896300800000000000000
+      internalID: 245884887841421313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 401
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3acba521e60accd0800000000000000
+      internalID: -2537207876000429507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2873
+        width: 402
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34cd52553d4b270800000000000000
+      internalID: 8265463578792575991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2878
+        width: 407
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad7755334ca7ca0800000000000000
+      internalID: -6018282227270952359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_6
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2878
+        width: 431
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b8e22474036f10800000000000000
+      internalID: 2261656334718514154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2878
+        width: 374
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc2a8a676209e60800000000000000
+      internalID: 7966910031895645625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_8
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2877
+        width: 400
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ed0b7a06d24470800000000000000
+      internalID: 8377493597365068214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1921
+        width: 412
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c7bfda0ed9fff80800000000000000
+      internalID: -8070558418907464644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1921
+        width: 415
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa6c08c65ff0ef0800000000000000
+      internalID: -139623217059418322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_11
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1921
+        width: 428
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811b66f190e90e9f0800000000000000
+      internalID: -441179001463590632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_12
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1921
+        width: 380
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b166666942a7f4680800000000000000
+      internalID: -8768655651906361829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_13
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1924
+        width: 402
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30142dd2b1ff13f00800000000000000
+      internalID: 1094936676625694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 933
+        width: 422
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa82197fa5e799d50800000000000000
+      internalID: 6744560846129670314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 929
+        width: 411
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbf47f2a2c62cf0800000000000000
+      internalID: -277320321847018565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_16
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 933
+        width: 433
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f606dd699702b330800000000000000
+      internalID: 3725048197342955255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_17
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 933
+        width: 382
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e54e1b5e8138860800000000000000
+      internalID: 7530890376704712221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_18
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 933
+        width: 402
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40bb321472bf16a0800000000000000
+      internalID: -6476261527543631798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 21
+        width: 429
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcecc31dd12daea0800000000000000
+      internalID: -5859990306735461190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 26
+        width: 421
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09316057af7691860800000000000000
+      internalID: 7501140979765089168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_21
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 26
+        width: 426
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa30ab883c0b40f00800000000000000
+      internalID: 1082184164334764975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_22
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 35
+        width: 395
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950228c83b86114b0800000000000000
+      internalID: -5471476951912669095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting pannel_23
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 30
+        width: 390
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9514f2be07abb560800000000000000
+      internalID: 7330636500049335707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eeaf694d8467dd341879e5ad15778480
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

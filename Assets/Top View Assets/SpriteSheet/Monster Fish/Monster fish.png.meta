@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 2024ff76a3432484896ff0edcaedcb18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3987941752614698927
+    second: Monster fish_0
+  - first:
+      213: -7265796842738318221
+    second: Monster fish_1
+  - first:
+      213: 3956531559260401234
+    second: Monster fish_2
+  - first:
+      213: -3075700819662353217
+    second: Monster fish_3
+  - first:
+      213: 3674325728116216923
+    second: Monster fish_4
+  - first:
+      213: 7998113667535048255
+    second: Monster fish_5
+  - first:
+      213: -1719080226633274640
+    second: Monster fish_6
+  - first:
+      213: 2791565176234019527
+    second: Monster fish_7
+  - first:
+      213: 1372861845101104142
+    second: Monster fish_8
+  - first:
+      213: 7508598614791464600
+    second: Monster fish_9
+  - first:
+      213: -2401986939780442857
+    second: Monster fish_10
+  - first:
+      213: 4982983012460525935
+    second: Monster fish_11
+  - first:
+      213: -8325093646627114626
+    second: Monster fish_12
+  - first:
+      213: 3227992259451189204
+    second: Monster fish_13
+  - first:
+      213: 3478617120854579286
+    second: Monster fish_14
+  - first:
+      213: 1981412444942336971
+    second: Monster fish_15
+  - first:
+      213: -280086877298533579
+    second: Monster fish_16
+  - first:
+      213: -4489614056959338945
+    second: Monster fish_17
+  - first:
+      213: 6271908308443800093
+    second: Monster fish_18
+  - first:
+      213: 8558561130293133039
+    second: Monster fish_19
+  - first:
+      213: 2513676913078549359
+    second: Monster fish_20
+  - first:
+      213: -8449442478339294158
+    second: Monster fish_21
+  - first:
+      213: -3199287963235250394
+    second: Monster fish_22
+  - first:
+      213: -829102844397873718
+    second: Monster fish_23
+  - first:
+      213: -6395251127527909187
+    second: Monster fish_24
+  - first:
+      213: 662951059692498461
+    second: Monster fish_25
+  - first:
+      213: -5213323325007096255
+    second: Monster fish_26
+  - first:
+      213: -2010566469353476907
+    second: Monster fish_27
+  - first:
+      213: -1644350706893783297
+    second: Monster fish_28
+  - first:
+      213: -5937705881093572413
+    second: Monster fish_29
+  - first:
+      213: 5100669360475123083
+    second: Monster fish_30
+  - first:
+      213: 3124571176959046775
+    second: Monster fish_31
+  - first:
+      213: -5784405641743205913
+    second: Monster fish_32
+  - first:
+      213: -6754898315277542025
+    second: Monster fish_33
+  - first:
+      213: 2321684384026825783
+    second: Monster fish_34
+  - first:
+      213: 6718241990885589756
+    second: Monster fish_35
+  - first:
+      213: 6938182363315437312
+    second: Monster fish_36
+  - first:
+      213: 3637517732693881933
+    second: Monster fish_37
+  - first:
+      213: -2831663145983200230
+    second: Monster fish_38
+  - first:
+      213: -6107518794735280469
+    second: Monster fish_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster fish_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2145
+        width: 335
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150c372ea1cf7a8c0800000000000000
+      internalID: -3987941752614698927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2148
+        width: 339
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748d627444ba2b90800000000000000
+      internalID: -7265796842738318221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_2
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2151
+        width: 342
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea6549d7c68e630800000000000000
+      internalID: 3956531559260401234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2153
+        width: 341
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc5a8766ae055d0800000000000000
+      internalID: -3075700819662353217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_4
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2155
+        width: 345
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54127548c3ddf230800000000000000
+      internalID: 3674325728116216923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_5
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 2157
+        width: 345
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8f9a31020ffe60800000000000000
+      internalID: 7998113667535048255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_6
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 2157
+        width: 344
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa202754a99428e0800000000000000
+      internalID: -1719080226633274640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_7
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 2158
+        width: 344
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca87c8ccb1adb620800000000000000
+      internalID: 2791565176234019527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_8
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 2157
+        width: 343
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c40fa03926d0310800000000000000
+      internalID: 1372861845101104142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2155
+        width: 342
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a2ab68a6e33860800000000000000
+      internalID: 7508598614791464600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1454
+        width: 339
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155243ca9d6aaed0800000000000000
+      internalID: -2401986939780442857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1452
+        width: 337
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f38b16ac172540800000000000000
+      internalID: 4982983012460525935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_12
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1449
+        width: 332
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fde6cf63577c80800000000000000
+      internalID: -8325093646627114626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_13
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1445
+        width: 329
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77c4a7bd12ccc20800000000000000
+      internalID: 3227992259451189204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_14
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1443
+        width: 325
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658112647d7864030800000000000000
+      internalID: 3478617120854579286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_15
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1440
+        width: 320
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc38356ee146f7b10800000000000000
+      internalID: 1981412444942336971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_16
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1437
+        width: 315
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5f54187eec1cf0800000000000000
+      internalID: -280086877298533579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_17
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 1435
+        width: 310
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36965c5dcfa1b1c0800000000000000
+      internalID: -4489614056959338945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_18
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 1434
+        width: 305
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d122d94606b4a0750800000000000000
+      internalID: 6271908308443800093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_19
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 1432
+        width: 301
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7697b00e16c670800000000000000
+      internalID: 8558561130293133039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 732
+        width: 298
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb52c95df52e220800000000000000
+      internalID: 2513676913078549359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 731
+        width: 295
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7d7045dc8dba80800000000000000
+      internalID: -8449442478339294158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_22
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 731
+        width: 298
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f0e294c88d993d0800000000000000
+      internalID: -3199287963235250394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_23
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 732
+        width: 297
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac516651b5f6e74f0800000000000000
+      internalID: -829102844397873718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_24
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 732
+        width: 295
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85846abf08f37a0800000000000000
+      internalID: -6395251127527909187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_25
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 734
+        width: 291
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea070f976433900800000000000000
+      internalID: 662951059692498461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_26
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 734
+        width: 288
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14691b9ae0e86a7b0800000000000000
+      internalID: -5213323325007096255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_27
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 734
+        width: 287
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcefd4d2780914e0800000000000000
+      internalID: -2010566469353476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_28
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 734
+        width: 288
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefe658eb71e29e0800000000000000
+      internalID: -1644350706893783297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_29
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 734
+        width: 290
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87ba0e5f7099da0800000000000000
+      internalID: -5937705881093572413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 293
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da6d342c739c640800000000000000
+      internalID: 5100669360475123083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 34
+        width: 298
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77471164ee4bc5b20800000000000000
+      internalID: 3124571176959046775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_32
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 33
+        width: 301
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9712747b9a9bfa0800000000000000
+      internalID: -5784405641743205913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_33
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 34
+        width: 305
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5fff65c7c142a0800000000000000
+      internalID: -6754898315277542025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_34
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 34
+        width: 310
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349d7e75a7483020800000000000000
+      internalID: 2321684384026825783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_35
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 34
+        width: 315
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf249d5fe7dfb3d50800000000000000
+      internalID: 6718241990885589756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_36
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 36
+        width: 319
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ffb407910694060800000000000000
+      internalID: 6938182363315437312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_37
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 39
+        width: 324
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4437610b1f0b7230800000000000000
+      internalID: 3637517732693881933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_38
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 41
+        width: 329
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143b1c1f59e3b8d0800000000000000
+      internalID: -2831663145983200230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster fish_39
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 43
+        width: 330
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae18c4e30cbd3ba0800000000000000
+      internalID: -6107518794735280469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 940046fdfade1de47a382a98b6509645
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

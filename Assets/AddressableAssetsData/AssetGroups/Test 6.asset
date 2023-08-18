@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Test 6
+  m_EditorClassIdentifier: 
+  m_GroupName: Test 6
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f763c042f9c37ce47b5fb523cfa77e71
+  m_SerializeEntries:
+  - m_GUID: 42bca33cbd75c0b4bbd85fb24b8c7b8a
+    m_Address: Assets/Test 6/Fishes/squid 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08819969c6e6a8143a3a06c9e8fae8a7
+    m_Address: Assets/Test 6/Fishes/squid 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9949faf51c0f08b4fa09d16ee1897454
+    m_Address: Assets/Test 6/Fishes/octopus.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 340dd2be530146c4cb0cdab3663d5234
+    m_Address: Assets/Test 6/Fishes/jelly fish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50af545e74a16da4ab993b703b42884e
+    m_Address: Assets/Test 6/Fishes/creature.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 365dd349c3cbb7242908b9c08e8f9a77
+    m_Address: Assets/Test 6/Fishes/boat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b2464b031019b44daefc621ed3972e2
+    m_Address: Assets/Test 6/Fishes/spike fish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a349976e81bb2840992e84ebdffafaf
+    m_Address: Assets/Test 6/Fishes/Whale 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 148e9cde4a85d1a4d913ac93ff41fc95
+    m_Address: Assets/Test 6/Fishes/angular fish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea819f44f94d38e4aa1311e890395194
+    m_Address: Assets/Test 6/Fishes/seahorse.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fda90ea292067644aa239425ca2b5b05
+    m_Address: Assets/Test 6/Fishes/ray fish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07f2f1e3ec1048a459342b4a5c6c3373
+    m_Address: Assets/Test 6/Fishes/turtle 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 112285039c371524c8f5ba7a1e5d9703
+    m_Address: Assets/Test 6/Fishes/Lobster 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d92949e9c0554b439b6bd52abb2093d
+    m_Address: Assets/Test 6/Fishes/Tropical4 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76eccff318214994ea13c32aa23e03f6
+    m_Address: Assets/Test 6/Fishes/Tropical6 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18a8d858825084f4cb63dd12933d2575
+    m_Address: Assets/Test 6/Fishes/1 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2baea866ff10b3409720da8572e5ac5
+    m_Address: Assets/Test 6/Fishes/Whale 3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47bbb3c775f12894b9e4d070b27c5a6d
+    m_Address: Assets/Test 6/Fishes/Long Headed Fish 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 674b72c7cdffc964aa5bdece32cebdbd
+    m_Address: Assets/Test 6/Fishes/Whale 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 220d96b6b7a92964e8236bed2f693636
+    m_Address: Assets/Test 6/Fishes/star fish.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2a3a03b113565f4bab1aebbba793359
+    m_Address: Assets/Test 6/Fishes/special octopus.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8e26948cc1c11ab4e9b8bbd7e1825a50, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e3e8dba969cb07941a159908c5ba3659, type: 2}
+    - {fileID: 11400000, guid: 1b76654620d615c41a062cdff0bd4ea3, type: 2}

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 5f30fbef67b662b44b004f2bbc092c35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6580070455620736340
+    second: Mermaid 2_0
+  - first:
+      213: 5401190159063608910
+    second: Mermaid 2_1
+  - first:
+      213: 6281546655930020007
+    second: Mermaid 2_2
+  - first:
+      213: 2795015144707033723
+    second: Mermaid 2_3
+  - first:
+      213: -1594652097244912149
+    second: Mermaid 2_4
+  - first:
+      213: -5697614292715141918
+    second: Mermaid 2_5
+  - first:
+      213: 7612641726116008130
+    second: Mermaid 2_6
+  - first:
+      213: -373525129541467790
+    second: Mermaid 2_7
+  - first:
+      213: 4947328214177358690
+    second: Mermaid 2_8
+  - first:
+      213: -7606448076327957567
+    second: Mermaid 2_9
+  - first:
+      213: 2100738161953715556
+    second: Mermaid 2_10
+  - first:
+      213: 5628527493892057810
+    second: Mermaid 2_11
+  - first:
+      213: -3243291510040851686
+    second: Mermaid 2_12
+  - first:
+      213: -3046549499853523678
+    second: Mermaid 2_13
+  - first:
+      213: -405690574585647357
+    second: Mermaid 2_14
+  - first:
+      213: -7545058061592116671
+    second: Mermaid 2_15
+  - first:
+      213: 5382251170237105
+    second: Mermaid 2_16
+  - first:
+      213: -3001931976131587287
+    second: Mermaid 2_17
+  - first:
+      213: -7443529547989203953
+    second: Mermaid 2_18
+  - first:
+      213: -4239775536014940335
+    second: Mermaid 2_19
+  - first:
+      213: 152705276551057135
+    second: Mermaid 2_20
+  - first:
+      213: 7040972631155151420
+    second: Mermaid 2_21
+  - first:
+      213: -3676942813839856810
+    second: Mermaid 2_22
+  - first:
+      213: 7587713754048818265
+    second: Mermaid 2_23
+  - first:
+      213: 2717745932800821362
+    second: Mermaid 2_24
+  - first:
+      213: -4226156112437873490
+    second: Mermaid 2_25
+  - first:
+      213: -4200344520778052591
+    second: Mermaid 2_26
+  - first:
+      213: -493892820134714551
+    second: Mermaid 2_27
+  - first:
+      213: 4768173896999687753
+    second: Mermaid 2_28
+  - first:
+      213: -3216408443645315612
+    second: Mermaid 2_29
+  - first:
+      213: -3084028277194593190
+    second: Mermaid 2_30
+  - first:
+      213: -2263485493195899120
+    second: Mermaid 2_31
+  - first:
+      213: 8704476866492279716
+    second: Mermaid 2_32
+  - first:
+      213: -7109987270832710026
+    second: Mermaid 2_33
+  - first:
+      213: 8456861668719771814
+    second: Mermaid 2_34
+  - first:
+      213: 2730927255882190331
+    second: Mermaid 2_35
+  - first:
+      213: -1964982381342005471
+    second: Mermaid 2_36
+  - first:
+      213: 8106752445908290209
+    second: Mermaid 2_37
+  - first:
+      213: 698530913708148372
+    second: Mermaid 2_38
+  - first:
+      213: 1406664297667112097
+    second: Mermaid 2_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mermaid 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551158773b115b50800000000000000
+      internalID: 6580070455620736340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e625b35d1e4fa40800000000000000
+      internalID: 5401190159063608910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a070ca07698c2750800000000000000
+      internalID: 6281546655930020007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a891a2773e9c620800000000000000
+      internalID: 2795015144707033723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a26bcd58aed9e0800000000000000
+      internalID: -1594652097244912149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4868fecf10ee0b0800000000000000
+      internalID: -5697614292715141918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0167ff05985a960800000000000000
+      internalID: 7612641726116008130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271cffaafd8f0daf0800000000000000
+      internalID: -373525129541467790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632f497cc078a440800000000000000
+      internalID: 4947328214177358690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_9
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 3600
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc40876c7707690800000000000000
+      internalID: -7606448076327957567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465bb556a32572d10800000000000000
+      internalID: 2100738161953715556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa4f93feb8c1e40800000000000000
+      internalID: 5628527493892057810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b89f82e838df2d0800000000000000
+      internalID: -3243291510040851686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_13
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22536960f5b78b5d0800000000000000
+      internalID: -3046549499853523678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_14
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f29156292be5af0800000000000000
+      internalID: -405690574585647357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_15
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ca1d1ba19a4790800000000000000
+      internalID: -7545058061592116671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_16
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0811012f131000800000000000000
+      internalID: 5382251170237105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_17
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235acac5cef656d0800000000000000
+      internalID: -3001931976131587287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_18
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04caf8405543b890800000000000000
+      internalID: -7443529547989203953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_19
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2400
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15720700d9a4925c0800000000000000
+      internalID: -4239775536014940335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee4724d3a48e1200800000000000000
+      internalID: 152705276551057135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321049ad4f86b160800000000000000
+      internalID: 7040972631155151420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_22
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b66a9fdffd8fcc0800000000000000
+      internalID: -3676942813839856810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_23
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cec673579fc4960800000000000000
+      internalID: 7587713754048818265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_24
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780b52d68f57b520800000000000000
+      internalID: 2717745932800821362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_25
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea47bc8286da955c0800000000000000
+      internalID: -4226156112437873490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_26
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c04c8a9e065b5c0800000000000000
+      internalID: -4200344520778052591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_27
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94321cac8175529f0800000000000000
+      internalID: -493892820134714551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_28
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d4fd75e4fb2240800000000000000
+      internalID: 4768173896999687753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_29
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1200
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e534ffcf850d53d0800000000000000
+      internalID: -3216408443645315612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c6e8c2f945335d0800000000000000
+      internalID: -3084028277194593190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_31
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ffec7bfeb7690e0800000000000000
+      internalID: -2263485493195899120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba0ee77938cc870800000000000000
+      internalID: 8704476866492279716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_33
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e977c5f30445d90800000000000000
+      internalID: -7109987270832710026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_34
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0c8ae91eecc5570800000000000000
+      internalID: 8456861668719771814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_35
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4a42ced336e520800000000000000
+      internalID: 2730927255882190331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_36
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12765326feafab4e0800000000000000
+      internalID: -1964982381342005471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_37
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa846ce568f08070800000000000000
+      internalID: 8106752445908290209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_38
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49604304a2ea1b900800000000000000
+      internalID: 698530913708148372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid 2_39
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1080
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2ca4d9b9758310800000000000000
+      internalID: 1406664297667112097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c80421ef6e93ce34983e43bdeaac956a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

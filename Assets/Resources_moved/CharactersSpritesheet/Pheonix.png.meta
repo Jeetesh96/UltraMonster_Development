@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: eea80e4598a85f742aabe935acc00ed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3889175450088442396
+    second: Pheonix_0
+  - first:
+      213: -6494680994344801911
+    second: Pheonix_1
+  - first:
+      213: 1780785641763404297
+    second: Pheonix_2
+  - first:
+      213: -243764575774071658
+    second: Pheonix_3
+  - first:
+      213: -5851422415119280767
+    second: Pheonix_4
+  - first:
+      213: 6770854938202924210
+    second: Pheonix_5
+  - first:
+      213: -6196357031527437065
+    second: Pheonix_6
+  - first:
+      213: -7646641805185924345
+    second: Pheonix_7
+  - first:
+      213: 1968194721839591651
+    second: Pheonix_8
+  - first:
+      213: -2410377772824076174
+    second: Pheonix_9
+  - first:
+      213: -2377907232129610632
+    second: Pheonix_10
+  - first:
+      213: 8391441729873347428
+    second: Pheonix_11
+  - first:
+      213: 990890260389275987
+    second: Pheonix_12
+  - first:
+      213: -8953313879991796266
+    second: Pheonix_13
+  - first:
+      213: -7482616873590736775
+    second: Pheonix_14
+  - first:
+      213: 4367534037806106052
+    second: Pheonix_15
+  - first:
+      213: -7721652924607379260
+    second: Pheonix_16
+  - first:
+      213: 6727930925908031234
+    second: Pheonix_17
+  - first:
+      213: 6939118515445946265
+    second: Pheonix_18
+  - first:
+      213: 9009989229752159177
+    second: Pheonix_19
+  - first:
+      213: 8535534586618982982
+    second: Pheonix_20
+  - first:
+      213: 7967768851486481680
+    second: Pheonix_21
+  - first:
+      213: -7626024019722364257
+    second: Pheonix_22
+  - first:
+      213: -7991257846795033688
+    second: Pheonix_23
+  - first:
+      213: -3181093299521098738
+    second: Pheonix_24
+  - first:
+      213: -8794866936135007049
+    second: Pheonix_25
+  - first:
+      213: 3089985873575353640
+    second: Pheonix_26
+  - first:
+      213: -6456865952455140834
+    second: Pheonix_27
+  - first:
+      213: 4561974914222221443
+    second: Pheonix_28
+  - first:
+      213: -475733364106099312
+    second: Pheonix_29
+  - first:
+      213: -4398686975707517879
+    second: Pheonix_30
+  - first:
+      213: 179068380575296520
+    second: Pheonix_31
+  - first:
+      213: -7953686030010717399
+    second: Pheonix_32
+  - first:
+      213: 1420111011815673579
+    second: Pheonix_33
+  - first:
+      213: 7473014104572214495
+    second: Pheonix_34
+  - first:
+      213: 650099482695002437
+    second: Pheonix_35
+  - first:
+      213: -811076114129979230
+    second: Pheonix_36
+  - first:
+      213: 5131168359627752997
+    second: Pheonix_37
+  - first:
+      213: -5003304302776882255
+    second: Pheonix_38
+  - first:
+      213: -4221903275720136363
+    second: Pheonix_39
+  - first:
+      213: 1317321096219890118
+    second: Pheonix_40
+  - first:
+      213: -3136596543291490627
+    second: Pheonix_41
+  - first:
+      213: -352440887351136491
+    second: Pheonix_42
+  - first:
+      213: -3518282332561803429
+    second: Pheonix_43
+  - first:
+      213: 8871086756330802688
+    second: Pheonix_44
+  - first:
+      213: -8351512227227409137
+    second: Pheonix_45
+  - first:
+      213: 7351534151807266418
+    second: Pheonix_46
+  - first:
+      213: -2590175852716157214
+    second: Pheonix_47
+  - first:
+      213: -2237863234338874848
+    second: Pheonix_48
+  - first:
+      213: 5500933661392098078
+    second: Pheonix_49
+  - first:
+      213: -7426275228781894641
+    second: Pheonix_50
+  - first:
+      213: 3211631711311592047
+    second: Pheonix_51
+  - first:
+      213: -9051438969777889322
+    second: Pheonix_52
+  - first:
+      213: 88434226587053645
+    second: Pheonix_53
+  - first:
+      213: 3760517688746101931
+    second: Pheonix_54
+  - first:
+      213: 2399856705141300075
+    second: Pheonix_55
+  - first:
+      213: -5739192478187743934
+    second: Pheonix_56
+  - first:
+      213: -7793455911095131757
+    second: Pheonix_57
+  - first:
+      213: 1245351016395974679
+    second: Pheonix_58
+  - first:
+      213: -8150409921435571462
+    second: Pheonix_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pheonix_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3488
+        width: 713
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a01b3577029f530800000000000000
+      internalID: 3889175450088442396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_1
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3488
+        width: 714
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e892cb024ed5a0800000000000000
+      internalID: -6494680994344801911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_2
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 3488
+        width: 713
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a7c6e2b1f96b810800000000000000
+      internalID: 1780785641763404297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_3
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 3488
+        width: 708
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694a92ce869fd9cf0800000000000000
+      internalID: -243764575774071658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_4
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 3488
+        width: 713
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1859e0cc0529bcea0800000000000000
+      internalID: -5851422415119280767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_5
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 3488
+        width: 713
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e84951b8e6fd50800000000000000
+      internalID: 6770854938202924210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_6
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 3489
+        width: 714
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc205a0c1e120aa0800000000000000
+      internalID: -6196357031527437065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_7
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 3489
+        width: 713
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703cd35bacba1e590800000000000000
+      internalID: -7646641805185924345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_8
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 3489
+        width: 714
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03c0cebae605b10800000000000000
+      internalID: 1968194721839591651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_9
+      rect:
+        serializedVersion: 2
+        x: 10817
+        y: 3489
+        width: 713
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e254bf2e9c8ed0800000000000000
+      internalID: -2410377772824076174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2823
+        width: 714
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c051898f9fffed0800000000000000
+      internalID: -2377907232129610632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_11
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2823
+        width: 735
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638d762bc3647470800000000000000
+      internalID: 8391441729873347428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_12
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 2824
+        width: 715
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a5ed117950cd00800000000000000
+      internalID: 990890260389275987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_13
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 2823
+        width: 714
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb38c76707fb380800000000000000
+      internalID: -8953313879991796266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_14
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2823
+        width: 709
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b74b1997682890800000000000000
+      internalID: -7482616873590736775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_15
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 2823
+        width: 714
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54cd331199c9c30800000000000000
+      internalID: 4367534037806106052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_16
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 2823
+        width: 735
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8cbed739d27d490800000000000000
+      internalID: -7721652924607379260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_17
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 2823
+        width: 713
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fc10f7896e5d50800000000000000
+      internalID: 6727930925908031234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_18
+      rect:
+        serializedVersion: 2
+        x: 9645
+        y: 2823
+        width: 715
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997dd775683bc4060800000000000000
+      internalID: 6939118515445946265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_19
+      rect:
+        serializedVersion: 2
+        x: 10819
+        y: 2823
+        width: 713
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb097da779e90d70800000000000000
+      internalID: 9009989229752159177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2136
+        width: 714
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423c7bbb7f447670800000000000000
+      internalID: 8535534586618982982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2133
+        width: 735
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d164d2e83339e60800000000000000
+      internalID: 7967768851486481680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_22
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2111
+        width: 714
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a1ad7fe8bea2690800000000000000
+      internalID: -7626024019722364257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_23
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 2090
+        width: 714
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3aa3de359591190800000000000000
+      internalID: -7991257846795033688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_24
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 2065
+        width: 715
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c6bac8f7c7ad3d0800000000000000
+      internalID: -3181093299521098738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_25
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2044
+        width: 715
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b448d86e1b52f580800000000000000
+      internalID: -8794866936135007049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_26
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2041
+        width: 715
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1f63d7c5d1ea20800000000000000
+      internalID: 3089985873575353640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_27
+      rect:
+        serializedVersion: 2
+        x: 8453
+        y: 2021
+        width: 734
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad89d40aa9466a0800000000000000
+      internalID: -6456865952455140834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_28
+      rect:
+        serializedVersion: 2
+        x: 9645
+        y: 2021
+        width: 714
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388657c93046f4f30800000000000000
+      internalID: 4561974914222221443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_29
+      rect:
+        serializedVersion: 2
+        x: 10817
+        y: 2021
+        width: 715
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09587a0a60bd569f0800000000000000
+      internalID: -475733364106099312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1375
+        width: 711
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ce0d63089b4f2c0800000000000000
+      internalID: -4398686975707517879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_31
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1375
+        width: 714
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce1be4ebd2c7200800000000000000
+      internalID: 179068380575296520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_32
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1375
+        width: 734
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b693632b4de9190800000000000000
+      internalID: -7953686030010717399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_33
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 1375
+        width: 713
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beec4e0f07f35b310800000000000000
+      internalID: 1420111011815673579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_34
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1376
+        width: 714
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb2800cba75b760800000000000000
+      internalID: 7473014104572214495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_35
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 1376
+        width: 715
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54963bef80e950900800000000000000
+      internalID: 650099482695002437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_36
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 1376
+        width: 713
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87a7b429a7eb4f0800000000000000
+      internalID: -811076114129979230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_37
+      rect:
+        serializedVersion: 2
+        x: 8473
+        y: 1376
+        width: 693
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526065edf62953740800000000000000
+      internalID: 5131168359627752997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_38
+      rect:
+        serializedVersion: 2
+        x: 9645
+        y: 1376
+        width: 691
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbecc9ce31b09ab0800000000000000
+      internalID: -5003304302776882255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_39
+      rect:
+        serializedVersion: 2
+        x: 10816
+        y: 1378
+        width: 693
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a4aed659c865c0800000000000000
+      internalID: -4221903275720136363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 733
+        width: 713
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1905bbe80184210800000000000000
+      internalID: 1317321096219890118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_41
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 733
+        width: 712
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7461ff029874d0800000000000000
+      internalID: -3136596543291490627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_42
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 735
+        width: 693
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fac1951e0eb1bf0800000000000000
+      internalID: -352440887351136491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_43
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 756
+        width: 691
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57fe14fbdc8c2fc0800000000000000
+      internalID: -3518282332561803429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_44
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 762
+        width: 692
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e05c2676e6c1b70800000000000000
+      internalID: 8871086756330802688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_45
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 758
+        width: 713
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0567c6a0e7791c80800000000000000
+      internalID: -8351512227227409137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_46
+      rect:
+        serializedVersion: 2
+        x: 7281
+        y: 779
+        width: 713
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eef986c55e50660800000000000000
+      internalID: 7351534151807266418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_47
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 802
+        width: 690
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61f0909c8dd0cd0800000000000000
+      internalID: -2590175852716157214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_48
+      rect:
+        serializedVersion: 2
+        x: 9647
+        y: 804
+        width: 691
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a135dbe3381f0e0800000000000000
+      internalID: -2237863234338874848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_49
+      rect:
+        serializedVersion: 2
+        x: 10817
+        y: 804
+        width: 713
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d344150e375c40800000000000000
+      internalID: 5500933661392098078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 158
+        width: 713
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042c28860290f890800000000000000
+      internalID: -7426275228781894641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_51
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 159
+        width: 713
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7b168602029c20800000000000000
+      internalID: 3211631711311592047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_52
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 159
+        width: 713
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfd24ca634d26280800000000000000
+      internalID: -9051438969777889322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_53
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 160
+        width: 713
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e25b5e57e2a3100800000000000000
+      internalID: 88434226587053645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_54
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 159
+        width: 713
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc841f9ea003430800000000000000
+      internalID: 3760517688746101931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_55
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 159
+        width: 711
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b59c555f00e4120800000000000000
+      internalID: 2399856705141300075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_56
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 159
+        width: 693
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245960049da4a50b0800000000000000
+      internalID: -5739192478187743934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_57
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 159
+        width: 713
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a18ee32518d390800000000000000
+      internalID: -7793455911095131757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_58
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 159
+        width: 714
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71824f8b620684110800000000000000
+      internalID: 1245351016395974679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pheonix_59
+      rect:
+        serializedVersion: 2
+        x: 10817
+        y: 159
+        width: 715
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6303fb5de3ee80800000000000000
+      internalID: -8150409921435571462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3029737eba85d143bb17355827f7e4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

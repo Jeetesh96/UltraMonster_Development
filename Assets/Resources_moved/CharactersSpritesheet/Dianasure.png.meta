@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 07bd8be5a6546f14fbe19bd87b40089b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5001089275116441536
+    second: Dianasure_0
+  - first:
+      213: -5817247410768680233
+    second: Dianasure_1
+  - first:
+      213: -1526402670295621980
+    second: Dianasure_2
+  - first:
+      213: -4069137378692261321
+    second: Dianasure_3
+  - first:
+      213: -5469702465241162832
+    second: Dianasure_4
+  - first:
+      213: 914125267785404252
+    second: Dianasure_5
+  - first:
+      213: 4928149522880476236
+    second: Dianasure_6
+  - first:
+      213: -7924228269778357428
+    second: Dianasure_7
+  - first:
+      213: 6448023332829457107
+    second: Dianasure_8
+  - first:
+      213: 386122840334292628
+    second: Dianasure_9
+  - first:
+      213: -5468824234327730950
+    second: Dianasure_10
+  - first:
+      213: -1764827825118280456
+    second: Dianasure_11
+  - first:
+      213: 6392298349991673406
+    second: Dianasure_12
+  - first:
+      213: -2427806447718931911
+    second: Dianasure_13
+  - first:
+      213: -8724556529781073574
+    second: Dianasure_14
+  - first:
+      213: -4667264745063541093
+    second: Dianasure_15
+  - first:
+      213: -4112275231684368129
+    second: Dianasure_16
+  - first:
+      213: 3470383426015420137
+    second: Dianasure_17
+  - first:
+      213: -2230714769106814588
+    second: Dianasure_18
+  - first:
+      213: -5082803179532161028
+    second: Dianasure_19
+  - first:
+      213: 3226121517652783289
+    second: Dianasure_20
+  - first:
+      213: 6868258735942787524
+    second: Dianasure_21
+  - first:
+      213: 3084586389840688311
+    second: Dianasure_22
+  - first:
+      213: 1880063690831062968
+    second: Dianasure_23
+  - first:
+      213: 1792597574067300123
+    second: Dianasure_24
+  - first:
+      213: 5011292942469902152
+    second: Dianasure_25
+  - first:
+      213: -6352784254477759029
+    second: Dianasure_26
+  - first:
+      213: 7667566529142188797
+    second: Dianasure_27
+  - first:
+      213: -1213378673387796542
+    second: Dianasure_28
+  - first:
+      213: -5487490351648025876
+    second: Dianasure_29
+  - first:
+      213: -2021154583891430328
+    second: Dianasure_30
+  - first:
+      213: -646379073313340528
+    second: Dianasure_31
+  - first:
+      213: 2217148279257573570
+    second: Dianasure_32
+  - first:
+      213: 1282019769355962727
+    second: Dianasure_33
+  - first:
+      213: 5623705022747256222
+    second: Dianasure_34
+  - first:
+      213: -1076243751606922560
+    second: Dianasure_35
+  - first:
+      213: -3415396626811226142
+    second: Dianasure_36
+  - first:
+      213: -898566647792622902
+    second: Dianasure_37
+  - first:
+      213: 2517860855453119992
+    second: Dianasure_38
+  - first:
+      213: -4864008452482467712
+    second: Dianasure_39
+  - first:
+      213: 4984740837866306820
+    second: Dianasure_40
+  - first:
+      213: -1699277342453504162
+    second: Dianasure_41
+  - first:
+      213: -6138036818223539122
+    second: Dianasure_42
+  - first:
+      213: -4882658654949345191
+    second: Dianasure_43
+  - first:
+      213: -7292878760995319929
+    second: Dianasure_44
+  - first:
+      213: -3465267491385320561
+    second: Dianasure_45
+  - first:
+      213: 7788132219701314030
+    second: Dianasure_46
+  - first:
+      213: -6065495472627924966
+    second: Dianasure_47
+  - first:
+      213: 838433968353213222
+    second: Dianasure_48
+  - first:
+      213: -8327859499524925152
+    second: Dianasure_49
+  - first:
+      213: -6637862890019986301
+    second: Dianasure_50
+  - first:
+      213: -4999614166806673784
+    second: Dianasure_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dianasure_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc455e230776540800000000000000
+      internalID: 5001089275116441536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da629e0d4cf44fa0800000000000000
+      internalID: -5817247410768680233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_2
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 7200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae52dccbd021dae0800000000000000
+      internalID: -1526402670295621980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_3
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 7200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a98c00d158787c0800000000000000
+      internalID: -4069137378692261321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd83c6696b714b0800000000000000
+      internalID: -5469702465241162832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fce8a7610afac00800000000000000
+      internalID: 914125267785404252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_6
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443d4f61ed446440800000000000000
+      internalID: 4928149522880476236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_7
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 6600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b0cc7f5c770290800000000000000
+      internalID: -7924228269778357428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daeab0ee0bfb7950800000000000000
+      internalID: 6448023332829457107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_9
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965ac17da8cb5500800000000000000
+      internalID: 386122840334292628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af419dd7555da14b0800000000000000
+      internalID: -5468824234327730950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 6000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4891a81721287e0800000000000000
+      internalID: -1764827825118280456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb1914b7106b850800000000000000
+      internalID: 6392298349991673406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 5400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9326f4c16e2be4ed0800000000000000
+      internalID: -2427806447718931911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 5400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5995939f062ce680800000000000000
+      internalID: -8724556529781073574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_15
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 5400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9698cd417b8a3fb0800000000000000
+      internalID: -4667264745063541093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e0dce6734ee6c0800000000000000
+      internalID: -4112275231684368129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee5d0ec657492030800000000000000
+      internalID: 3470383426015420137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_18
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bb208cb8ea01e0800000000000000
+      internalID: -2230714769106814588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_19
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 4800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff62c420714679b0800000000000000
+      internalID: -5082803179532161028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b030f57d6c75cc20800000000000000
+      internalID: 3226121517652783289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_21
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 4200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e7554ee4f05f50800000000000000
+      internalID: 6868258735942787524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 4200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4757d8af6aeca20800000000000000
+      internalID: 3084586389840688311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_23
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 4200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7681f37f3571a10800000000000000
+      internalID: 1880063690831062968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17228bfef590e810800000000000000
+      internalID: 1792597574067300123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f27555160bb8540800000000000000
+      internalID: 5011292942469902152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_26
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8829016066d7a0800000000000000
+      internalID: -6352784254477759029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_27
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae13d322ba86a60800000000000000
+      internalID: 7667566529142188797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c78faa7686392fe0800000000000000
+      internalID: -1213378673387796542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_29
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d2a1699488d3b0800000000000000
+      internalID: -5487490351648025876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_30
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844bffe4d9a63f3e0800000000000000
+      internalID: -2021154583891430328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_31
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3000
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09389e058a99707f0800000000000000
+      internalID: -646379073313340528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8248fec94e4ce10800000000000000
+      internalID: 2217148279257573570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_33
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698d731036aac110800000000000000
+      internalID: 1282019769355962727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_34
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952e6a2ce96b0e40800000000000000
+      internalID: 5623705022747256222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_35
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2400
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25cb5920a6011f0800000000000000
+      internalID: -1076243751606922560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e779db0dd21a90d0800000000000000
+      internalID: -3415396626811226142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_37
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ae470566a783f0800000000000000
+      internalID: -898566647792622902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_38
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f42b9b1d31f220800000000000000
+      internalID: 2517860855453119992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_39
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1800
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f84545129f7cb0800000000000000
+      internalID: -4864008452482467712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d776ab16b5d2540800000000000000
+      internalID: 4984740837866306820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_41
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57603c9244fa68e0800000000000000
+      internalID: -1699277342453504162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_42
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c5487d80051daa0800000000000000
+      internalID: -6138036818223539122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_43
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1200
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f140a2df4d3cb0800000000000000
+      internalID: -4882658654949345191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f02ecf76d7aca90800000000000000
+      internalID: -7292878760995319929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_45
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd44c8395e8efc0800000000000000
+      internalID: -3465267491385320561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_46
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee142139df0051c60800000000000000
+      internalID: 7788132219701314030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_47
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10c547010803dba0800000000000000
+      internalID: -6065495472627924966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b70538047b2ab00800000000000000
+      internalID: 838433968353213222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029547778ef7d6c80800000000000000
+      internalID: -8327859499524925152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_50
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846c94ded291e3a0800000000000000
+      internalID: -6637862890019986301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dianasure_51
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 1100
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864a75876dcd9ab0800000000000000
+      internalID: -4999614166806673784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef9a757d1277b9d4d8986814cdde9d7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

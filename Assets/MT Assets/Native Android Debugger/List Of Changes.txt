@@ -1,0 +1,29 @@
+
+/////////////////////
+	  MT ASSETS
+	  CHANGELOG
+/////////////////////
+
+v1.0.3
+    - In this small update, the tool has been updated to include links to the new MT Assets Community on Discord. You
+	  can join the community for support, ask your questions, submit suggestions, and interact with the dev
+	  community! Come be part of the community and make it even better!
+	  MT Assets Community on Discord: https://discord.gg/44aGAt4Sv4
+
+v1.0.2
+	- Fixed a bug that caused the Native Android Debugger to not monitor the SDK path in some cases.
+
+v1.0.1
+	- Now the officially supported minimum version is Unity 2019.4 or higher. Support for this version of Unity or
+	  higher will make it possible to add different new features and improvements in the future. This change also aims
+	  to ensure that the tool can always have mature, stable and continuous update support!
+
+v1.0.0
+	- The Native Android Debugger has just been released! I will always be working to support and add new features!
+	  Do you have any suggestions, Bug reports or any problems with using this asset? Contact by email!
+	  (mtassets@windsoft.xyz)
+
+/////////////////////
+  Email for support
+mtassets@windsoft.xyz
+/////////////////////

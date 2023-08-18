@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: c4559a38ef816eb41b714a6cb69d05df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 986506142884784662
+    second: Shark 1_0
+  - first:
+      213: -6276977986601472475
+    second: Shark 1_1
+  - first:
+      213: -1803356452661019298
+    second: Shark 1_2
+  - first:
+      213: -1200108115621925366
+    second: Shark 1_3
+  - first:
+      213: -778740543107574022
+    second: Shark 1_4
+  - first:
+      213: -3219155374825280097
+    second: Shark 1_5
+  - first:
+      213: -1343314185921134987
+    second: Shark 1_6
+  - first:
+      213: 8504620281732571575
+    second: Shark 1_7
+  - first:
+      213: 8069303496346115874
+    second: Shark 1_8
+  - first:
+      213: -139746957838589266
+    second: Shark 1_9
+  - first:
+      213: -430378965331824670
+    second: Shark 1_10
+  - first:
+      213: -4326743354565747121
+    second: Shark 1_11
+  - first:
+      213: 5473082853835636690
+    second: Shark 1_12
+  - first:
+      213: -4464745096959018799
+    second: Shark 1_13
+  - first:
+      213: -3282033584302214272
+    second: Shark 1_14
+  - first:
+      213: -6345033835162811700
+    second: Shark 1_15
+  - first:
+      213: -5225949265420417847
+    second: Shark 1_16
+  - first:
+      213: -7583494541739122882
+    second: Shark 1_17
+  - first:
+      213: -8735434480776418812
+    second: Shark 1_18
+  - first:
+      213: -1081131256291408664
+    second: Shark 1_19
+  - first:
+      213: -7825599533929484069
+    second: Shark 1_20
+  - first:
+      213: 4641848974871420283
+    second: Shark 1_21
+  - first:
+      213: -3501169098362516468
+    second: Shark 1_22
+  - first:
+      213: 5560095804669466649
+    second: Shark 1_23
+  - first:
+      213: 691353884825977055
+    second: Shark 1_24
+  - first:
+      213: 805687907952322557
+    second: Shark 1_25
+  - first:
+      213: -2645758837777625284
+    second: Shark 1_26
+  - first:
+      213: 1611471674729167981
+    second: Shark 1_27
+  - first:
+      213: -5962880095375545525
+    second: Shark 1_28
+  - first:
+      213: 154788936355665025
+    second: Shark 1_29
+  - first:
+      213: 3364196100794071140
+    second: Shark 1_30
+  - first:
+      213: 3939432386550244791
+    second: Shark 1_31
+  - first:
+      213: -806214980365378108
+    second: Shark 1_32
+  - first:
+      213: -6102598661343528372
+    second: Shark 1_33
+  - first:
+      213: -5441739328225138122
+    second: Shark 1_34
+  - first:
+      213: -7133173399427282322
+    second: Shark 1_35
+  - first:
+      213: 2788792449006307815
+    second: Shark 1_36
+  - first:
+      213: 1793530041650379649
+    second: Shark 1_37
+  - first:
+      213: -779291132551968883
+    second: Shark 1_38
+  - first:
+      213: 905589552963704308
+    second: Shark 1_39
+  - first:
+      213: 6189626089598877208
+    second: Shark 1_40
+  - first:
+      213: 1037517888001776771
+    second: Shark 1_41
+  - first:
+      213: 1744879458189581538
+    second: Shark 1_42
+  - first:
+      213: -6744247795061868718
+    second: Shark 1_43
+  - first:
+      213: -6973229328987140681
+    second: Shark 1_44
+  - first:
+      213: -7253524397181287981
+    second: Shark 1_45
+  - first:
+      213: -1822464223336046328
+    second: Shark 1_46
+  - first:
+      213: 2703542607555813042
+    second: Shark 1_47
+  - first:
+      213: 6309959292063687662
+    second: Shark 1_48
+  - first:
+      213: -7806518971816829493
+    second: Shark 1_49
+  - first:
+      213: -6445544535671032101
+    second: Shark 1_50
+  - first:
+      213: -8907996638709143157
+    second: Shark 1_51
+  - first:
+      213: 2826075989495678709
+    second: Shark 1_52
+  - first:
+      213: -3552414995359790056
+    second: Shark 1_53
+  - first:
+      213: -4121851605927255445
+    second: Shark 1_54
+  - first:
+      213: -350546060686064366
+    second: Shark 1_55
+  - first:
+      213: 2978504582893438604
+    second: Shark 1_56
+  - first:
+      213: -9143226141637257169
+    second: Shark 1_57
+  - first:
+      213: 1162296588934126509
+    second: Shark 1_58
+  - first:
+      213: 6398333461074648935
+    second: Shark 1_59
+  - first:
+      213: 3236292412301348704
+    second: Shark 1_60
+  - first:
+      213: 5979880360327292189
+    second: Shark 1_61
+  - first:
+      213: 1058576037945014260
+    second: Shark 1_62
+  - first:
+      213: 3275306657933014062
+    second: Shark 1_63
+  - first:
+      213: -519278717818375502
+    second: Shark 1_64
+  - first:
+      213: -5842646319968817992
+    second: Shark 1_65
+  - first:
+      213: -949888304615315552
+    second: Shark 1_66
+  - first:
+      213: 7607897399141762718
+    second: Shark 1_67
+  - first:
+      213: -7069292822195017180
+    second: Shark 1_68
+  - first:
+      213: -2191014418150281561
+    second: Shark 1_69
+  - first:
+      213: -57650442872697432
+    second: Shark 1_70
+  - first:
+      213: -6429350042979405515
+    second: Shark 1_71
+  - first:
+      213: 7010799947398107159
+    second: Shark 1_72
+  - first:
+      213: -6217689164854167115
+    second: Shark 1_73
+  - first:
+      213: -6890331929687292483
+    second: Shark 1_74
+  - first:
+      213: -2792705921165598637
+    second: Shark 1_75
+  - first:
+      213: 6711666830384380505
+    second: Shark 1_76
+  - first:
+      213: 3871240488471389018
+    second: Shark 1_77
+  - first:
+      213: -1148723682102074053
+    second: Shark 1_78
+  - first:
+      213: 7418222226085556440
+    second: Shark 1_79
+  - first:
+      213: -3832816876799347733
+    second: Shark 1_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shark 1_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3259
+        width: 434
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a63673c16c0bd00800000000000000
+      internalID: 986506142884784662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3256
+        width: 429
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2cad27c1b3e8a0800000000000000
+      internalID: -6276977986601472475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3253
+        width: 427
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d3bb36cd039f6e0800000000000000
+      internalID: -1803356452661019298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_3
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3251
+        width: 422
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eaa4cf60c585fe0800000000000000
+      internalID: -1200108115621925366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_4
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 3250
+        width: 422
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6d0eb1a9b5135f0800000000000000
+      internalID: -778740543107574022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_5
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 3248
+        width: 419
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9defbe0e334353d0800000000000000
+      internalID: -3219155374825280097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_6
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 3248
+        width: 418
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7d667dd69b5de0800000000000000
+      internalID: -1343314185921134987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_7
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3247
+        width: 419
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a04a361b760670800000000000000
+      internalID: 8504620281732571575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_8
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 3248
+        width: 418
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1784e6ccebff60800000000000000
+      internalID: 8069303496346115874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2849
+        width: 418
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2e69bd1e48f0ef0800000000000000
+      internalID: -139746957838589266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2850
+        width: 419
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efa89c7c9cf60af0800000000000000
+      internalID: -430378965331824670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_11
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2850
+        width: 423
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e93d4d7d154f3c0800000000000000
+      internalID: -4326743354565747121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_12
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2852
+        width: 426
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7721abdb44fb40800000000000000
+      internalID: 5473082853835636690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_13
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2854
+        width: 429
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d837135df90a02c0800000000000000
+      internalID: -4464745096959018799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_14
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2858
+        width: 435
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b3c218dfd372d0800000000000000
+      internalID: -3282033584302214272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_15
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2862
+        width: 439
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc249472859e1f7a0800000000000000
+      internalID: -6345033835162811700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_16
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2866
+        width: 445
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c40764d4d2b977b0800000000000000
+      internalID: -5225949265420417847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_17
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 2873
+        width: 449
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f9683b4e302c690800000000000000
+      internalID: -7583494541739122882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2481
+        width: 454
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6f9e3f9085c680800000000000000
+      internalID: -8735434480776418812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2486
+        width: 460
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4cd29b9dc0ff0f0800000000000000
+      internalID: -1081131256291408664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_20
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2483
+        width: 464
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bba98fa2e56390800000000000000
+      internalID: -7825599533929484069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_21
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2483
+        width: 470
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd8309c092b6040800000000000000
+      internalID: 4641848974871420283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_22
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2483
+        width: 474
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c07894149596fc0800000000000000
+      internalID: -3501169098362516468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_23
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2483
+        width: 480
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918967afcad692d40800000000000000
+      internalID: 5560095804669466649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_24
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2481
+        width: 483
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0832ff1be289900800000000000000
+      internalID: 691353884825977055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_25
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2480
+        width: 488
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7635132e06e2b00800000000000000
+      internalID: 805687907952322557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_26
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 2480
+        width: 490
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0ae8da50684bd0800000000000000
+      internalID: -2645758837777625284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2080
+        width: 493
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf5d143f81d5610800000000000000
+      internalID: 1611471674729167981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_28
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2080
+        width: 493
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba4ec55289f3da0800000000000000
+      internalID: -5962880095375545525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_29
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2080
+        width: 494
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d3aea7bbe52200800000000000000
+      internalID: 154788936355665025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_30
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2080
+        width: 494
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b596878600be20800000000000000
+      internalID: 3364196100794071140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_31
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2080
+        width: 492
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52ff032ecaba630800000000000000
+      internalID: 3939432386550244791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_32
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2080
+        width: 493
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd19b23fbfbfc4f0800000000000000
+      internalID: -806214980365378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_33
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2080
+        width: 490
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a38d7b9d63f4ba0800000000000000
+      internalID: -6102598661343528372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_34
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2080
+        width: 489
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2edc99ee0b74b0800000000000000
+      internalID: -5441739328225138122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_35
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 2080
+        width: 485
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0fdd1690e10d90800000000000000
+      internalID: -7133173399427282322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1679
+        width: 484
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9005be4f7c3b620800000000000000
+      internalID: 2788792449006307815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_37
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1679
+        width: 480
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bff820216e3e810800000000000000
+      internalID: 1793530041650379649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_38
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1681
+        width: 475
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c0a308d66f25f0800000000000000
+      internalID: -779291132551968883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_39
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1681
+        width: 474
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d4b086ec419c00800000000000000
+      internalID: 905589552963704308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_40
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1681
+        width: 469
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ef70b6228f5e550800000000000000
+      internalID: 6189626089598877208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_41
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1682
+        width: 466
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c957aa501066e00800000000000000
+      internalID: 1037517888001776771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_42
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 1684
+        width: 465
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec14495f9e073810800000000000000
+      internalID: 1744879458189581538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_43
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1684
+        width: 461
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257302aec5e9762a0800000000000000
+      internalID: -6744247795061868718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_44
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 1684
+        width: 461
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc26cfedc1a3f90800000000000000
+      internalID: -6973229328987140681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1286
+        width: 460
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14168ddfd465b90800000000000000
+      internalID: -7253524397181287981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_46
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1288
+        width: 458
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016238d17e45b6e0800000000000000
+      internalID: -1822464223336046328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_47
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1288
+        width: 459
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5f767da9e48520800000000000000
+      internalID: 2703542607555813042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_48
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1289
+        width: 459
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a1a66b8a719750800000000000000
+      internalID: 6309959292063687662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_49
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1291
+        width: 461
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd92881b5ca9a390800000000000000
+      internalID: -7806518971816829493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_50
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1291
+        width: 461
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd63e5f0563dc86a0800000000000000
+      internalID: -6445544535671032101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_51
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 1292
+        width: 461
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892e51f040706480800000000000000
+      internalID: -8907996638709143157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_52
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 1294
+        width: 464
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f68626a32d383720800000000000000
+      internalID: 2826075989495678709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_53
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1294
+        width: 465
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0fca126943bec0800000000000000
+      internalID: -3552414995359790056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 895
+        width: 468
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6225db8dcd3cc6c0800000000000000
+      internalID: -4121851605927255445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 895
+        width: 470
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215056f073c922bf0800000000000000
+      internalID: -350546060686064366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_56
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 895
+        width: 471
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868c392326c55920800000000000000
+      internalID: 2978504582893438604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_57
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 896
+        width: 477
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2855ae544cbc1180800000000000000
+      internalID: -9143226141637257169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_58
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 896
+        width: 480
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab111be69e412010800000000000000
+      internalID: 1162296588934126509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_59
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 898
+        width: 484
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f99dd02627bc850800000000000000
+      internalID: 6398333461074648935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_60
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 898
+        width: 486
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f83886dce99ec20800000000000000
+      internalID: 3236292412301348704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_61
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 898
+        width: 490
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a4a4418dccf250800000000000000
+      internalID: 5979880360327292189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_62
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 898
+        width: 490
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f3754c41d0be00800000000000000
+      internalID: 1058576037945014260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_63
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 497
+        width: 493
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b1945d0a347d20800000000000000
+      internalID: 3275306657933014062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_64
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 497
+        width: 492
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f305e1c62bc8f0800000000000000
+      internalID: -519278717818375502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_65
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 497
+        width: 493
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce30ea020caeea0800000000000000
+      internalID: -5842646319968817992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_66
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 497
+        width: 493
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a72b13ae9151d2f0800000000000000
+      internalID: -949888304615315552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_67
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 497
+        width: 490
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96867b406ea49960800000000000000
+      internalID: 7607897399141762718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_68
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 497
+        width: 489
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae8d702a3d4ed90800000000000000
+      internalID: -7069292822195017180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_69
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 497
+        width: 486
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea464cef3f791e0800000000000000
+      internalID: -2191014418150281561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_70
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 497
+        width: 483
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adcd674a3f233ff0800000000000000
+      internalID: -57650442872697432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_71
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 495
+        width: 479
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f197333c56c6a0800000000000000
+      internalID: -6429350042979405515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_72
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 96
+        width: 474
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710ddf7486d5b4160800000000000000
+      internalID: 7010799947398107159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_73
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 94
+        width: 469
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b97215b5a456b9a0800000000000000
+      internalID: -6217689164854167115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_74
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 89
+        width: 464
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50572dd9f9060a0800000000000000
+      internalID: -6890331929687292483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_75
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 83
+        width: 458
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3506bc6d2c05e39d0800000000000000
+      internalID: -2792705921165598637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_76
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 76
+        width: 455
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a35db1c61a42d50800000000000000
+      internalID: 6711666830384380505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_77
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 71
+        width: 448
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53627ba6b869b530800000000000000
+      internalID: 3871240488471389018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_78
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 67
+        width: 445
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352a37b5e9ee00f0800000000000000
+      internalID: -1148723682102074053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_79
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 62
+        width: 439
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bcbaafc1d2f660800000000000000
+      internalID: 7418222226085556440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark 1_80
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 59
+        width: 434
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b0419b591fcac0800000000000000
+      internalID: -3832816876799347733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48092047ff03b534baa2b40981bb01e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

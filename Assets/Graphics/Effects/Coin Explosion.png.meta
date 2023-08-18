@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: 2e9d79d84cde35e43ac2d6b5955e1f03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7359702109535630460
+    second: Coin Explosion_0
+  - first:
+      213: -6321636591379309238
+    second: Coin Explosion_1
+  - first:
+      213: 4392221326873476727
+    second: Coin Explosion_2
+  - first:
+      213: 3673984683735724467
+    second: Coin Explosion_3
+  - first:
+      213: -199867756554285824
+    second: Coin Explosion_4
+  - first:
+      213: -6534799534154467202
+    second: Coin Explosion_5
+  - first:
+      213: -4416536421958308470
+    second: Coin Explosion_6
+  - first:
+      213: -3858201484235879938
+    second: Coin Explosion_7
+  - first:
+      213: 883869891617425820
+    second: Coin Explosion_8
+  - first:
+      213: -2023180908075682731
+    second: Coin Explosion_9
+  - first:
+      213: 7198816719608966019
+    second: Coin Explosion_10
+  - first:
+      213: 4268727472664599686
+    second: Coin Explosion_11
+  - first:
+      213: -621181733829653402
+    second: Coin Explosion_12
+  - first:
+      213: -5692481594346478617
+    second: Coin Explosion_13
+  - first:
+      213: 1236146145048486396
+    second: Coin Explosion_14
+  - first:
+      213: -2014116341723876088
+    second: Coin Explosion_15
+  - first:
+      213: 1546131583060438718
+    second: Coin Explosion_16
+  - first:
+      213: -3047620168724270283
+    second: Coin Explosion_17
+  - first:
+      213: -3558175480018422433
+    second: Coin Explosion_18
+  - first:
+      213: -6237278239021581623
+    second: Coin Explosion_19
+  - first:
+      213: -4684840382399797347
+    second: Coin Explosion_20
+  - first:
+      213: 2518678788864541751
+    second: Coin Explosion_21
+  - first:
+      213: -8793219378987098854
+    second: Coin Explosion_22
+  - first:
+      213: -1102199759751107817
+    second: Coin Explosion_23
+  - first:
+      213: -7653222797020498013
+    second: Coin Explosion_24
+  - first:
+      213: 2211971617296209832
+    second: Coin Explosion_25
+  - first:
+      213: 1825348978503166816
+    second: Coin Explosion_26
+  - first:
+      213: 7159882643673930880
+    second: Coin Explosion_27
+  - first:
+      213: -3630586245592531228
+    second: Coin Explosion_28
+  - first:
+      213: 5602522700269015204
+    second: Coin Explosion_29
+  - first:
+      213: 4674229881068444239
+    second: Coin Explosion_30
+  - first:
+      213: 8106042029941953611
+    second: Coin Explosion_31
+  - first:
+      213: -75612186808385766
+    second: Coin Explosion_32
+  - first:
+      213: -6264558141202213684
+    second: Coin Explosion_33
+  - first:
+      213: 6934305575735935973
+    second: Coin Explosion_34
+  - first:
+      213: -6021735345738173087
+    second: Coin Explosion_35
+  - first:
+      213: 831348021378433238
+    second: Coin Explosion_36
+  - first:
+      213: 5911096430130197440
+    second: Coin Explosion_37
+  - first:
+      213: -2157979762399068311
+    second: Coin Explosion_38
+  - first:
+      213: 8838747552020857908
+    second: Coin Explosion_39
+  - first:
+      213: 2764452813069657009
+    second: Coin Explosion_40
+  - first:
+      213: -4955895121961437858
+    second: Coin Explosion_41
+  - first:
+      213: -6772316936743862472
+    second: Coin Explosion_42
+  - first:
+      213: -7297474190210283243
+    second: Coin Explosion_43
+  - first:
+      213: 3207655419180957342
+    second: Coin Explosion_44
+  - first:
+      213: 4574393743809492133
+    second: Coin Explosion_45
+  - first:
+      213: -1927627112361309133
+    second: Coin Explosion_46
+  - first:
+      213: -158868865184645452
+    second: Coin Explosion_47
+  - first:
+      213: -3034297309744258944
+    second: Coin Explosion_48
+  - first:
+      213: -4068108531900398966
+    second: Coin Explosion_49
+  - first:
+      213: 7622878858989650788
+    second: Coin Explosion_50
+  - first:
+      213: 6751880075802799469
+    second: Coin Explosion_51
+  - first:
+      213: 1528421338467127414
+    second: Coin Explosion_52
+  - first:
+      213: 2472765844860478183
+    second: Coin Explosion_53
+  - first:
+      213: 3576694834224739384
+    second: Coin Explosion_54
+  - first:
+      213: -8030587018781063819
+    second: Coin Explosion_55
+  - first:
+      213: 2635172156250894594
+    second: Coin Explosion_56
+  - first:
+      213: 2888890596883267086
+    second: Coin Explosion_57
+  - first:
+      213: -3538485888537656959
+    second: Coin Explosion_58
+  - first:
+      213: 8987826439677708369
+    second: Coin Explosion_59
+  - first:
+      213: 3683755448402213945
+    second: Coin Explosion_60
+  - first:
+      213: 2879439613012100908
+    second: Coin Explosion_61
+  - first:
+      213: 6784494237832541060
+    second: Coin Explosion_62
+  - first:
+      213: 1590497408446009775
+    second: Coin Explosion_63
+  - first:
+      213: -7641140473096413361
+    second: Coin Explosion_64
+  - first:
+      213: -524064597441518570
+    second: Coin Explosion_65
+  - first:
+      213: -5474481729133597759
+    second: Coin Explosion_66
+  - first:
+      213: 3500893264609922705
+    second: Coin Explosion_67
+  - first:
+      213: 8651145178362951625
+    second: Coin Explosion_68
+  - first:
+      213: -5761917860488269129
+    second: Coin Explosion_69
+  - first:
+      213: -591375798662481034
+    second: Coin Explosion_70
+  - first:
+      213: -4319502665986548978
+    second: Coin Explosion_71
+  - first:
+      213: 4719232575622463203
+    second: Coin Explosion_72
+  - first:
+      213: -2377589586003678929
+    second: Coin Explosion_73
+  - first:
+      213: 1778706421460572768
+    second: Coin Explosion_74
+  - first:
+      213: 1573003880083130494
+    second: Coin Explosion_75
+  - first:
+      213: -4320505986276068039
+    second: Coin Explosion_76
+  - first:
+      213: -7868822011940526655
+    second: Coin Explosion_77
+  - first:
+      213: -6552682310766484923
+    second: Coin Explosion_78
+  - first:
+      213: -3178399592659630281
+    second: Coin Explosion_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8f6cbce51dd990800000000000000
+      internalID: -7359702109535630460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d99bb73090548a0800000000000000
+      internalID: -6321636591379309238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e303b960e44fc30800000000000000
+      internalID: 4392221326873476727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b13b40ba9d9cf230800000000000000
+      internalID: 3673984683735724467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d0788955de93df0800000000000000
+      internalID: -199867756554285824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b550527abf45a0800000000000000
+      internalID: -6534799534154467202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da997268f45b2c0800000000000000
+      internalID: -4416536421958308470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94c34113ae47ac0800000000000000
+      internalID: -3858201484235879938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990585cbf2244c00800000000000000
+      internalID: 883869891617425820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554fbc1fea73ce3e0800000000000000
+      internalID: -2023180908075682731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b6f6f5aa557e360800000000000000
+      internalID: 7198816719608966019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdf1b05019d3b30800000000000000
+      internalID: 4268727472664599686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4f16118e1167f0800000000000000
+      internalID: -621181733829653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36786662e3001b0800000000000000
+      internalID: -5692481594346478617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1651a9e5ca72110800000000000000
+      internalID: 1236146145048486396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8053d33cbdb6c04e0800000000000000
+      internalID: -2014116341723876088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6458ab76f47510800000000000000
+      internalID: 1546131583060438718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533bfd08a9da4b5d0800000000000000
+      internalID: -3047620168724270283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553ff0c042de9ec0800000000000000
+      internalID: -3558175480018422433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca38d5fc7cb079a0800000000000000
+      internalID: -6237278239021581623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a7a95e7a1cfeb0800000000000000
+      internalID: -4684840382399797347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340591930524f220800000000000000
+      internalID: 2518678788864541751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9463309538f580800000000000000
+      internalID: -8793219378987098854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba380882334b0f0800000000000000
+      internalID: -1102199759751107817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7fba42a6a4ac590800000000000000
+      internalID: -7653222797020498013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7df26677082be10800000000000000
+      internalID: 2211971617296209832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06badce8931f45910800000000000000
+      internalID: 1825348978503166816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c5ba964530d5360800000000000000
+      internalID: 7159882643673930880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 120
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb9099b019d9dc0800000000000000
+      internalID: -3630586245592531228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d89366b820cd40800000000000000
+      internalID: 5602522700269015204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad99bcf433ed040800000000000000
+      internalID: 4674229881068444239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44931157427e7070800000000000000
+      internalID: 8106042029941953611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7890ed1f53fef0800000000000000
+      internalID: -75612186808385766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1020
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45cd6cf81df09a0800000000000000
+      internalID: -6264558141202213684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e340cd7e2a9b3060800000000000000
+      internalID: 6934305575735935973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165bcd98b9f7e6ca0800000000000000
+      internalID: -6021735345738173087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04cfaee9a898b00800000000000000
+      internalID: 831348021378433238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c37df682ee680250800000000000000
+      internalID: 5911096430130197440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 1920
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb8bde6d05d02e0800000000000000
+      internalID: -2157979762399068311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348e81a11a89aa70800000000000000
+      internalID: 8838747552020857908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 9080
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a851df2f4d5620800000000000000
+      internalID: 2764452813069657009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 9080
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55b56fd4af193bb0800000000000000
+      internalID: -4955895121961437858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 9080
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f350790a5e302a0800000000000000
+      internalID: -6772316936743862472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_43
+      rect:
+        serializedVersion: 2
+        x: 9080
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5194fee33e92aba90800000000000000
+      internalID: -7297474190210283243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_44
+      rect:
+        serializedVersion: 2
+        x: 9980
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e332edb91e38c20800000000000000
+      internalID: 3207655419180957342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_45
+      rect:
+        serializedVersion: 2
+        x: 9980
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b882bfd28b7f30800000000000000
+      internalID: 4574393743809492133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_46
+      rect:
+        serializedVersion: 2
+        x: 9980
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cca44ba51bf35e0800000000000000
+      internalID: -1927627112361309133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_47
+      rect:
+        serializedVersion: 2
+        x: 9980
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bebcccdb959bcdf0800000000000000
+      internalID: -158868865184645452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_48
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08025c55ca204e5d0800000000000000
+      internalID: -3034297309744258944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_49
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82475018dc2b87c0800000000000000
+      internalID: -4068108531900398966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_50
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c9eb3fe7e9c960800000000000000
+      internalID: 7622878858989650788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_51
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d634ce72f73bd50800000000000000
+      internalID: 6751880075802799469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_52
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d5720c1b063510800000000000000
+      internalID: 1528421338467127414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_53
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a0a34f67015220800000000000000
+      internalID: 2472765844860478183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_54
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b0f76009f2a130800000000000000
+      internalID: 3576694834224739384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_55
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57501bf77af9d8090800000000000000
+      internalID: -8030587018781063819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_56
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b5574d13029420800000000000000
+      internalID: 2635172156250894594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_57
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e713e11b6671820800000000000000
+      internalID: 2888890596883267086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_58
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810bf205d5c4eec0800000000000000
+      internalID: -3538485888537656959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_59
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1588adff68c2bbc70800000000000000
+      internalID: 8987826439677708369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_60
+      rect:
+        serializedVersion: 2
+        x: 13580
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7c6d10145f1330800000000000000
+      internalID: 3683755448402213945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_61
+      rect:
+        serializedVersion: 2
+        x: 13580
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2746c57213d5f720800000000000000
+      internalID: 2879439613012100908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_62
+      rect:
+        serializedVersion: 2
+        x: 13580
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48371b2409d572e50800000000000000
+      internalID: 6784494237832541060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_63
+      rect:
+        serializedVersion: 2
+        x: 13580
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19a9657f4921610800000000000000
+      internalID: 1590497408446009775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_64
+      rect:
+        serializedVersion: 2
+        x: 14480
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5a36693735f590800000000000000
+      internalID: -7641140473096413361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_65
+      rect:
+        serializedVersion: 2
+        x: 14480
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e32676062ab8f0800000000000000
+      internalID: -524064597441518570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_66
+      rect:
+        serializedVersion: 2
+        x: 14480
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb20a55fdbb604b0800000000000000
+      internalID: -5474481729133597759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_67
+      rect:
+        serializedVersion: 2
+        x: 14480
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec1a920eba59030800000000000000
+      internalID: 3500893264609922705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_68
+      rect:
+        serializedVersion: 2
+        x: 15380
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c738a834ba0f0870800000000000000
+      internalID: 8651145178362951625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_69
+      rect:
+        serializedVersion: 2
+        x: 15380
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23e9cdb3e8900b0800000000000000
+      internalID: -5761917860488269129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_70
+      rect:
+        serializedVersion: 2
+        x: 15380
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb5f728d20bc7f0800000000000000
+      internalID: -591375798662481034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_71
+      rect:
+        serializedVersion: 2
+        x: 15380
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd483063b0e04c0800000000000000
+      internalID: -4319502665986548978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_72
+      rect:
+        serializedVersion: 2
+        x: 16280
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eebd6226051e7140800000000000000
+      internalID: 4719232575622463203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_73
+      rect:
+        serializedVersion: 2
+        x: 16280
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2925985eda110fd0800000000000000
+      internalID: -2377589586003678929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_74
+      rect:
+        serializedVersion: 2
+        x: 16280
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1ddaf01c3fa810800000000000000
+      internalID: 1778706421460572768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_75
+      rect:
+        serializedVersion: 2
+        x: 16280
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e788aaed1be64d510800000000000000
+      internalID: 1573003880083130494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_76
+      rect:
+        serializedVersion: 2
+        x: 17180
+        y: 115
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f01e42ba7a04c0800000000000000
+      internalID: -4320505986276068039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_77
+      rect:
+        serializedVersion: 2
+        x: 17180
+        y: 1025
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a28922145cc290800000000000000
+      internalID: -7868822011940526655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_78
+      rect:
+        serializedVersion: 2
+        x: 17180
+        y: 1924
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54227cce7223015a0800000000000000
+      internalID: -6552682310766484923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Explosion_79
+      rect:
+        serializedVersion: 2
+        x: 17180
+        y: 2820
+        width: 720
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c64d096e04e3d0800000000000000
+      internalID: -3178399592659630281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

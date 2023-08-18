@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - Bullet
+  - Path
+  - TropicalFish
+  - Turtle
+  - Dragon
+  - Shark
+  - RayFish
+  - Mermaid
+  - Group
+  - BotBullet
+  - PlayerCannon
+  - MainCanvas
+  - Crab
+  - Ant
+  - Bee
+  - Butterfly
+  - Caterpiller
+  - Grasshoper
+  - Ladybug
+  - Spider
+  - Scorpion
+  - Beatless
+  - Wizard
+  - Panda
+  - Crocodile
+  - AngularFish
+  - Octopus
+  - Phoenix
+  - Seahorse
+  - Whale
+  - Bull
+  - Bubble
+  - SpikeFish
+  - Dolphin
+  - Dianasure
+  - MonsterFish
+  - Emperior
+  - bg
+  - MermaidPattern1
+  - MermaidPattern2
+  - MermaidPattern3
+  - MermaidPattern4
+  - MermaidPattern5
+  - MermaidPattern6
+  - MermaidPattern7
+  - Emperior2
+  - MermaidPattern8
+  - MermaidPattern9
+  - MermaidPattern10
+  - MermaidPattern11
+  - MermaidPattern12
+  - MermaidPattern13
+  - FishPattern1
+  - FishPattern2
+  - FishPattern3
+  - FishPattern4
+  - FishPattern5
+  - FishPattern6
+  - FishPattern7
+  - FishPattern8
+  - FishPattern9
+  - FishPattern10
+  - FishPattern11
+  - FishPattern12
+  - FishPattern13
+  - FishPattern14
+  - FishPattern15
+  - CrabStrike1
+  - CrabStrike2
+  - PatternRayFish1
+  - PatternRayFish2
+  - PatternRayFish3
+  - PatternRayFish4
+  - PatternRayFish5
+  - PatternWhale1
+  - PatternWhale2
+  - PatternWhale3
+  - PatternWhale4
+  - PatternWhale5
+  - RushFishRed1
+  - RushFishRed2
+  - RushFishRed3
+  - RushFishRed4
+  - RushFishRed5
+  - RushFishRed6
+  - RushFishRed7
+  - RushFishRed8
+  - RushFishRed9
+  - RushFishRed10
+  - RushFishRed11
+  - RushFishRed12
+  - RushFishRed13
+  - RushFishRed14
+  - RushFishRed15
+  - RushFishRed16
+  - RushFishRed17
+  - RushFishRed18
+  - RushFishRed19
+  - RushFishRed20
+  - RushFishRed21
+  - RushFishRed22
+  - RushFishRed23
+  - RushFishRed24
+  - RushFishRed25
+  - RushFishRed26
+  - RushFishRed27
+  - RushFishRed28
+  - RushFishRayFish1
+  - RushFishRayFish2
+  - RushFishWhale1
+  - RushFishWhale2
+  - RushFishRay1
+  - RushFishRay2
+  - GreenDragon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Fish
+  - Effect
+  - UIParticle
+  - NoPost
+  - Ripple
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4021130539
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG 1
+    uniqueID: 1188772051
+    locked: 0
+  - name: Monsters
+    uniqueID: 3704384603
+    locked: 0
+  - name: Ripple Effect
+    uniqueID: 3475597211
+    locked: 0

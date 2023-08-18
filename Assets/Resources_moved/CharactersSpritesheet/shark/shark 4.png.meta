@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 2ab585ff1c758a04f96db6af513f27fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6092836646497253545
+    second: shark 4_0
+  - first:
+      213: 1422205642334832662
+    second: shark 4_1
+  - first:
+      213: -7340405180338445682
+    second: shark 4_2
+  - first:
+      213: 7590890961974426159
+    second: shark 4_3
+  - first:
+      213: -8259795205082591480
+    second: shark 4_4
+  - first:
+      213: -7288534800607089693
+    second: shark 4_5
+  - first:
+      213: -8308506740329312840
+    second: shark 4_6
+  - first:
+      213: -9125558158041549738
+    second: shark 4_7
+  - first:
+      213: 3625603677413850108
+    second: shark 4_8
+  - first:
+      213: 5559416130232624475
+    second: shark 4_9
+  - first:
+      213: -7582462285687697595
+    second: shark 4_10
+  - first:
+      213: -8498303524048728693
+    second: shark 4_11
+  - first:
+      213: -5127255997385087230
+    second: shark 4_12
+  - first:
+      213: -3026527256450078290
+    second: shark 4_13
+  - first:
+      213: 4460922792501103381
+    second: shark 4_14
+  - first:
+      213: -1561104167875481873
+    second: shark 4_15
+  - first:
+      213: -6284633321128870148
+    second: shark 4_16
+  - first:
+      213: -7635138421471552828
+    second: shark 4_17
+  - first:
+      213: -5953827620468572375
+    second: shark 4_18
+  - first:
+      213: 5703047028231926777
+    second: shark 4_19
+  - first:
+      213: 7791565282727671018
+    second: shark 4_20
+  - first:
+      213: 9205618031915233542
+    second: shark 4_21
+  - first:
+      213: -610601212155072135
+    second: shark 4_22
+  - first:
+      213: 7077024828948047561
+    second: shark 4_23
+  - first:
+      213: -2320374206614681408
+    second: shark 4_24
+  - first:
+      213: 5427074204769369020
+    second: shark 4_25
+  - first:
+      213: -1531819973695256108
+    second: shark 4_26
+  - first:
+      213: -1424852339080274254
+    second: shark 4_27
+  - first:
+      213: -1954330418839157102
+    second: shark 4_28
+  - first:
+      213: 5463083372433761807
+    second: shark 4_29
+  - first:
+      213: -3371925963323204162
+    second: shark 4_30
+  - first:
+      213: -2647208539410996749
+    second: shark 4_31
+  - first:
+      213: 2823853008222603081
+    second: shark 4_32
+  - first:
+      213: 4707961249742903908
+    second: shark 4_33
+  - first:
+      213: -3517280255613509056
+    second: shark 4_34
+  - first:
+      213: -3458950781685759141
+    second: shark 4_35
+  - first:
+      213: 7999021690867013905
+    second: shark 4_36
+  - first:
+      213: -3714497961699625757
+    second: shark 4_37
+  - first:
+      213: -5275383718507027337
+    second: shark 4_38
+  - first:
+      213: -8062638423720273156
+    second: shark 4_39
+  - first:
+      213: -9183165178380764245
+    second: shark 4_40
+  - first:
+      213: 7634640688747892507
+    second: shark 4_41
+  - first:
+      213: 1555822781090125993
+    second: shark 4_42
+  - first:
+      213: -7591079541298313394
+    second: shark 4_43
+  - first:
+      213: 6053996560248304645
+    second: shark 4_44
+  - first:
+      213: -3534049484453705491
+    second: shark 4_45
+  - first:
+      213: -1180229704635906539
+    second: shark 4_46
+  - first:
+      213: -5514084550197880351
+    second: shark 4_47
+  - first:
+      213: 2697048294223206427
+    second: shark 4_48
+  - first:
+      213: 8995846292318038877
+    second: shark 4_49
+  - first:
+      213: 7528396421928658131
+    second: shark 4_50
+  - first:
+      213: -2416295441690536802
+    second: shark 4_51
+  - first:
+      213: 5265074373061124988
+    second: shark 4_52
+  - first:
+      213: -1049451487758134382
+    second: shark 4_53
+  - first:
+      213: 6212440878665438024
+    second: shark 4_54
+  - first:
+      213: 491857854323255443
+    second: shark 4_55
+  - first:
+      213: -2420103643004574901
+    second: shark 4_56
+  - first:
+      213: 4714099839279686646
+    second: shark 4_57
+  - first:
+      213: -4660561584853861770
+    second: shark 4_58
+  - first:
+      213: -8900119594830356407
+    second: shark 4_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shark 4_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2497
+        width: 942
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a873f416aa1e8450800000000000000
+      internalID: 6092836646497253545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2497
+        width: 937
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188cec1f70bcb310800000000000000
+      internalID: 1422205642334832662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_2
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2497
+        width: 932
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e826d7e2164a12a90800000000000000
+      internalID: -7340405180338445682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_3
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 2497
+        width: 932
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a75359c13485960800000000000000
+      internalID: 7590890961974426159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_4
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2497
+        width: 927
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc393f5005f5d80800000000000000
+      internalID: -8259795205082591480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_5
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 2497
+        width: 932
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebedb4173ce9da90800000000000000
+      internalID: -7288534800607089693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_6
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 2497
+        width: 937
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8bb8d32142bc80800000000000000
+      internalID: -8308506740329312840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_7
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 2497
+        width: 937
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f3cc54318b5180800000000000000
+      internalID: -9125558158041549738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_8
+      rect:
+        serializedVersion: 2
+        x: 8013
+        y: 2497
+        width: 937
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3a98d55bb05230800000000000000
+      internalID: 3625603677413850108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_9
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 2497
+        width: 937
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a711f383072d40800000000000000
+      internalID: 5559416130232624475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1997
+        width: 932
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc9ca89bea5c690800000000000000
+      internalID: -7582462285687697595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1997
+        width: 932
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d00a788f5ff0a80800000000000000
+      internalID: -8498303524048728693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_12
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1997
+        width: 932
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ee53f5d358d8b0800000000000000
+      internalID: -5127255997385087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_13
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1997
+        width: 927
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96148de7d9ff5d0800000000000000
+      internalID: -3026527256450078290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_14
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 1997
+        width: 932
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc87115a168ed30800000000000000
+      internalID: 4460922792501103381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_15
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 1997
+        width: 922
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6668c708d55ae0800000000000000
+      internalID: -1561104167875481873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_16
+      rect:
+        serializedVersion: 2
+        x: 6021
+        y: 1997
+        width: 922
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb786ba4f78c8a0800000000000000
+      internalID: -6284633321128870148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_17
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 1997
+        width: 917
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5041fe0a8a0690800000000000000
+      internalID: -7635138421471552828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_18
+      rect:
+        serializedVersion: 2
+        x: 8018
+        y: 1997
+        width: 917
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbf0ce251cf5da0800000000000000
+      internalID: -5953827620468572375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_19
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 1997
+        width: 917
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37c1f5e0b452f40800000000000000
+      internalID: 5703047028231926777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1498
+        width: 912
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bf39d753312c60800000000000000
+      internalID: 7791565282727671018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1498
+        width: 908
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fc3a93dce0cf70800000000000000
+      internalID: 9205618031915233542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_22
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1499
+        width: 903
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f212ce65b687f0800000000000000
+      internalID: -610601212155072135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_23
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1499
+        width: 898
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c661141694a63260800000000000000
+      internalID: 7077024828948047561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_24
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 1499
+        width: 893
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c0c4f3ff5ccfd0800000000000000
+      internalID: -2320374206614681408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_25
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1499
+        width: 898
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb6f04c37d05b40800000000000000
+      internalID: 5427074204769369020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_26
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1499
+        width: 893
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9cb0099d1edbae0800000000000000
+      internalID: -1531819973695256108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_27
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 1500
+        width: 893
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be5cb7c858e93ce0800000000000000
+      internalID: -1424852339080274254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_28
+      rect:
+        serializedVersion: 2
+        x: 8008
+        y: 1500
+        width: 888
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2960a5ba6d2d0e4e0800000000000000
+      internalID: -1954330418839157102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_29
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 1505
+        width: 883
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e140f165c0db40800000000000000
+      internalID: 5463083372433761807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1012
+        width: 878
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd143b93338431d0800000000000000
+      internalID: -3371925963323204162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1017
+        width: 878
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e602ebd9334bd0800000000000000
+      internalID: -2647208539410996749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_32
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1021
+        width: 878
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c60d7957503720800000000000000
+      internalID: 2823853008222603081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_33
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1021
+        width: 883
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ada3310d9065140800000000000000
+      internalID: 4707961249742903908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_34
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 1021
+        width: 885
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04269ac2e3c103fc0800000000000000
+      internalID: -3517280255613509056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_35
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 1017
+        width: 893
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538f0227965fffc0800000000000000
+      internalID: -3458950781685759141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_36
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 1017
+        width: 898
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d5c2e8db320f60800000000000000
+      internalID: 7999021690867013905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_37
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 1017
+        width: 903
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43bf9b8c3737cc0800000000000000
+      internalID: -3714497961699625757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_38
+      rect:
+        serializedVersion: 2
+        x: 8013
+        y: 1017
+        width: 908
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774628c45721ac6b0800000000000000
+      internalID: -5275383718507027337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_39
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 1017
+        width: 917
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfadcb14211cb1090800000000000000
+      internalID: -8062638423720273156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 942
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb0ecbce7de8080800000000000000
+      internalID: -9183165178380764245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_41
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 518
+        width: 937
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fcf80a141b3f960800000000000000
+      internalID: 7634640688747892507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_42
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 513
+        width: 947
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a856588394679510800000000000000
+      internalID: 1555822781090125993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_43
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 513
+        width: 954
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47cd2f506117a690800000000000000
+      internalID: -7591079541298313394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_44
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 509
+        width: 966
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504790dcbcd140450800000000000000
+      internalID: 6053996560248304645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_45
+      rect:
+        serializedVersion: 2
+        x: 5015
+        y: 508
+        width: 976
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80c74d7b884fec0800000000000000
+      internalID: -3534049484453705491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_46
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 507
+        width: 981
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51600d5365bfe9fe0800000000000000
+      internalID: -1180229704635906539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_47
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 504
+        width: 981
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95cf301590a73b0800000000000000
+      internalID: -5514084550197880351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_48
+      rect:
+        serializedVersion: 2
+        x: 8013
+        y: 499
+        width: 986
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b185f3f4227dd6520800000000000000
+      internalID: 2697048294223206427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_49
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 499
+        width: 986
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba1a37a8aa7dc70800000000000000
+      internalID: 8995846292318038877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 986
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4216998ac3a7860800000000000000
+      internalID: 7528396421928658131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_51
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 986
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d3ad0918977ed0800000000000000
+      internalID: -2416295441690536802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_52
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 0
+        width: 981
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73225a2f3d411940800000000000000
+      internalID: 5265074373061124988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_53
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 0
+        width: 977
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293db2f9e699f61f0800000000000000
+      internalID: -1049451487758134382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_54
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 0
+        width: 976
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84318f07016073650800000000000000
+      internalID: 6212440878665438024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_55
+      rect:
+        serializedVersion: 2
+        x: 5015
+        y: 0
+        width: 971
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986ceecc1e63d600800000000000000
+      internalID: 491857854323255443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_56
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 0
+        width: 966
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4365171f801a6ed0800000000000000
+      internalID: -2420103643004574901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_57
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 0
+        width: 951
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3edf3d3d8db6140800000000000000
+      internalID: 4714099839279686646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_58
+      rect:
+        serializedVersion: 2
+        x: 8018
+        y: 0
+        width: 946
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a34f86eeb525fb0800000000000000
+      internalID: -4660561584853861770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shark 4_59
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 0
+        width: 942
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a4a3226c6c7480800000000000000
+      internalID: -8900119594830356407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bfaa57cafcd7674d8c14a12537c3740
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

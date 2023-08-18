@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3f9e158340cd4ba298bc7979001f395, type: 3}
+  m_Name: EgyptPays
+  m_EditorClassIdentifier: 
+  m_stringStringDictionary:
+    m_keys:
+    - Icon1-3
+    - Icon1-4
+    - Icon1-5
+    - Icon2-3
+    - Icon2-4
+    - Icon2-5
+    - Icon3-3
+    - Icon3-4
+    - Icon3-5
+    - Icon4-3
+    - Icon4-4
+    - Icon4-5
+    - Icon5-3
+    - Icon5-4
+    - Icon5-5
+    - A-3
+    - A-4
+    - A-5
+    - K-3
+    - K-4
+    - K-5
+    - Q-3
+    - Q-4
+    - Q-5
+    - J-3
+    - J-4
+    - J-5
+    - 10-3
+    - 10-4
+    - 10-5
+    - 9-3
+    - 9-4
+    - 9-5
+    - empty
+    m_values:
+    - 40
+    - 60
+    - 200
+    - 40
+    - 60
+    - 200
+    - 20
+    - 60
+    - 120
+    - 15
+    - 35
+    - 130
+    - 10
+    - 20
+    - 120
+    - 5
+    - 10
+    - 25
+    - 5
+    - 10
+    - 25
+    - 5
+    - 10
+    - 25
+    - 5
+    - 10
+    - 25
+    - 5
+    - 10
+    - 25
+    - 0
+    - 0
+    - 0
+    - 0

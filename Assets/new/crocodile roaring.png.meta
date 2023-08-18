@@ -1,0 +1,3012 @@
+fileFormatVersion: 2
+guid: a30424798b4736d488bbaf7ec46447ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2039046044660327855
+    second: crocodile roaring_0
+  - first:
+      213: -379275206115064615
+    second: crocodile roaring_1
+  - first:
+      213: -8737709800739706111
+    second: crocodile roaring_2
+  - first:
+      213: -2797336181266587224
+    second: crocodile roaring_3
+  - first:
+      213: -970192189807131933
+    second: crocodile roaring_4
+  - first:
+      213: -8809839780619082401
+    second: crocodile roaring_5
+  - first:
+      213: -9144455439371988854
+    second: crocodile roaring_6
+  - first:
+      213: -7072033718626323502
+    second: crocodile roaring_7
+  - first:
+      213: -324277428552477645
+    second: crocodile roaring_8
+  - first:
+      213: 4149293843489282495
+    second: crocodile roaring_9
+  - first:
+      213: -4796142027445337898
+    second: crocodile roaring_10
+  - first:
+      213: 3294111428520210415
+    second: crocodile roaring_11
+  - first:
+      213: 6107054331070748873
+    second: crocodile roaring_12
+  - first:
+      213: 1319272414685133155
+    second: crocodile roaring_13
+  - first:
+      213: 6032441202956769317
+    second: crocodile roaring_14
+  - first:
+      213: 1341270929717834688
+    second: crocodile roaring_15
+  - first:
+      213: 3382852712911704118
+    second: crocodile roaring_16
+  - first:
+      213: 5183412906127094084
+    second: crocodile roaring_17
+  - first:
+      213: -5451407923156143313
+    second: crocodile roaring_18
+  - first:
+      213: -4815178849474324476
+    second: crocodile roaring_19
+  - first:
+      213: 1266374136173690344
+    second: crocodile roaring_20
+  - first:
+      213: 8901839082240482749
+    second: crocodile roaring_21
+  - first:
+      213: 4254570430997666102
+    second: crocodile roaring_22
+  - first:
+      213: 452848084400697720
+    second: crocodile roaring_23
+  - first:
+      213: -8915718162069330064
+    second: crocodile roaring_24
+  - first:
+      213: 8590308669427320169
+    second: crocodile roaring_25
+  - first:
+      213: 5578304796307894944
+    second: crocodile roaring_26
+  - first:
+      213: -285579163154072480
+    second: crocodile roaring_27
+  - first:
+      213: -7096028741596699169
+    second: crocodile roaring_28
+  - first:
+      213: -2651410214150816038
+    second: crocodile roaring_29
+  - first:
+      213: -1006091727912160846
+    second: crocodile roaring_30
+  - first:
+      213: 629166418572199347
+    second: crocodile roaring_31
+  - first:
+      213: -4348313111752099502
+    second: crocodile roaring_32
+  - first:
+      213: -6590674562885373969
+    second: crocodile roaring_33
+  - first:
+      213: -6454437846108790031
+    second: crocodile roaring_34
+  - first:
+      213: -2164714989587361419
+    second: crocodile roaring_35
+  - first:
+      213: -6005961125744126543
+    second: crocodile roaring_36
+  - first:
+      213: 2798314839157909644
+    second: crocodile roaring_37
+  - first:
+      213: -6971946317863863510
+    second: crocodile roaring_38
+  - first:
+      213: 4795077091656480769
+    second: crocodile roaring_39
+  - first:
+      213: 4947315989389363897
+    second: crocodile roaring_40
+  - first:
+      213: 1205110516311342831
+    second: crocodile roaring_41
+  - first:
+      213: -2117935146839411595
+    second: crocodile roaring_42
+  - first:
+      213: -4022992930222960840
+    second: crocodile roaring_43
+  - first:
+      213: -4095118485261330438
+    second: crocodile roaring_44
+  - first:
+      213: 3226392699317957166
+    second: crocodile roaring_45
+  - first:
+      213: 2285508093181081328
+    second: crocodile roaring_46
+  - first:
+      213: 2112334132876193523
+    second: crocodile roaring_47
+  - first:
+      213: -6457107415566147672
+    second: crocodile roaring_48
+  - first:
+      213: -2357251765689748130
+    second: crocodile roaring_49
+  - first:
+      213: 3271768359102444614
+    second: crocodile roaring_50
+  - first:
+      213: 8828064891677386793
+    second: crocodile roaring_51
+  - first:
+      213: 1438892534945956236
+    second: crocodile roaring_52
+  - first:
+      213: 8397461440404591498
+    second: crocodile roaring_53
+  - first:
+      213: 6637941543485643086
+    second: crocodile roaring_54
+  - first:
+      213: 2369878321422922623
+    second: crocodile roaring_55
+  - first:
+      213: 1816630544532845202
+    second: crocodile roaring_56
+  - first:
+      213: 155434860565578689
+    second: crocodile roaring_57
+  - first:
+      213: 8364121945974834857
+    second: crocodile roaring_58
+  - first:
+      213: -7107692574285479305
+    second: crocodile roaring_59
+  - first:
+      213: 6906636534850802292
+    second: crocodile roaring_60
+  - first:
+      213: -8375713495570508802
+    second: crocodile roaring_61
+  - first:
+      213: 8455746536085980004
+    second: crocodile roaring_62
+  - first:
+      213: 8873090043543059006
+    second: crocodile roaring_63
+  - first:
+      213: -1253270178518592411
+    second: crocodile roaring_64
+  - first:
+      213: 7580932310563311450
+    second: crocodile roaring_65
+  - first:
+      213: 3473494775284020296
+    second: crocodile roaring_66
+  - first:
+      213: -3544615709937695987
+    second: crocodile roaring_67
+  - first:
+      213: -4525033547321568439
+    second: crocodile roaring_68
+  - first:
+      213: -7704128546973491469
+    second: crocodile roaring_69
+  - first:
+      213: -8130015425060899032
+    second: crocodile roaring_70
+  - first:
+      213: -4206727289265927588
+    second: crocodile roaring_71
+  - first:
+      213: 8156077138776783724
+    second: crocodile roaring_72
+  - first:
+      213: 3893813118686903482
+    second: crocodile roaring_73
+  - first:
+      213: 1740409522994673387
+    second: crocodile roaring_74
+  - first:
+      213: 7270603545274143170
+    second: crocodile roaring_75
+  - first:
+      213: 2534811689983847218
+    second: crocodile roaring_76
+  - first:
+      213: 7907250255281009553
+    second: crocodile roaring_77
+  - first:
+      213: 468725358956400923
+    second: crocodile roaring_78
+  - first:
+      213: -2089665693712780417
+    second: crocodile roaring_79
+  - first:
+      213: 826645615653125260
+    second: crocodile roaring_80
+  - first:
+      213: -33381780511047888
+    second: crocodile roaring_81
+  - first:
+      213: -5677893825243739535
+    second: crocodile roaring_82
+  - first:
+      213: 5595856807285009011
+    second: crocodile roaring_83
+  - first:
+      213: 8069574614816113388
+    second: crocodile roaring_84
+  - first:
+      213: 3382867236195719183
+    second: crocodile roaring_85
+  - first:
+      213: -7440743251216176251
+    second: crocodile roaring_86
+  - first:
+      213: 7292455482382529088
+    second: crocodile roaring_87
+  - first:
+      213: -6654258897631734285
+    second: crocodile roaring_88
+  - first:
+      213: -5787527904721747766
+    second: crocodile roaring_89
+  - first:
+      213: -2756031065800739519
+    second: crocodile roaring_90
+  - first:
+      213: -179393162465571003
+    second: crocodile roaring_91
+  - first:
+      213: 5964528510755579156
+    second: crocodile roaring_92
+  - first:
+      213: 170520015203542368
+    second: crocodile roaring_93
+  - first:
+      213: 3138949303106915488
+    second: crocodile roaring_94
+  - first:
+      213: 5490147206705623911
+    second: crocodile roaring_95
+  - first:
+      213: 2134794719346905718
+    second: crocodile roaring_96
+  - first:
+      213: 7924888570412171676
+    second: crocodile roaring_97
+  - first:
+      213: -4545400676647355571
+    second: crocodile roaring_98
+  - first:
+      213: -8606541470752473596
+    second: crocodile roaring_99
+  - first:
+      213: -8365678942704978474
+    second: crocodile roaring_100
+  - first:
+      213: 5957195464587308539
+    second: crocodile roaring_101
+  - first:
+      213: -963527583090725650
+    second: crocodile roaring_102
+  - first:
+      213: 5586825257683139577
+    second: crocodile roaring_103
+  - first:
+      213: 4812267193521604519
+    second: crocodile roaring_104
+  - first:
+      213: -493018742116638895
+    second: crocodile roaring_105
+  - first:
+      213: -1988262522052807785
+    second: crocodile roaring_106
+  - first:
+      213: 5265223432873135825
+    second: crocodile roaring_107
+  - first:
+      213: 2019592269996969435
+    second: crocodile roaring_108
+  - first:
+      213: -6278759091353375128
+    second: crocodile roaring_109
+  - first:
+      213: 8204157120452692226
+    second: crocodile roaring_110
+  - first:
+      213: 2519813418059064739
+    second: crocodile roaring_111
+  - first:
+      213: -8791922787446525501
+    second: crocodile roaring_112
+  - first:
+      213: 7217124914127680921
+    second: crocodile roaring_113
+  - first:
+      213: 6439494911372886404
+    second: crocodile roaring_114
+  - first:
+      213: 7005549899235733306
+    second: crocodile roaring_115
+  - first:
+      213: 3862667004523181225
+    second: crocodile roaring_116
+  - first:
+      213: -7302165495925726870
+    second: crocodile roaring_117
+  - first:
+      213: -5009474637924633322
+    second: crocodile roaring_118
+  - first:
+      213: 632614190765260986
+    second: crocodile roaring_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crocodile roaring_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11954
+        width: 285
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1b5bfc6ad3b3e0800000000000000
+      internalID: -2039046044660327855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 11960
+        width: 298
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40663a53b8cbaf0800000000000000
+      internalID: -379275206115064615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_2
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 11966
+        width: 316
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be5780b3b6db680800000000000000
+      internalID: -8737709800739706111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_3
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 11966
+        width: 329
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e146609ddd29d0800000000000000
+      internalID: -2797336181266587224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_4
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 11973
+        width: 342
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e200baf75f2982f0800000000000000
+      internalID: -970192189807131933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_5
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 11979
+        width: 354
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55281465692db580800000000000000
+      internalID: -8809839780619082401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_6
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 11985
+        width: 355
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8018df2a3e581180800000000000000
+      internalID: -9144455439371988854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_7
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 11985
+        width: 361
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d371b95dc61bdd90800000000000000
+      internalID: -7072033718626323502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_8
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 11992
+        width: 368
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d376956fef7bf0800000000000000
+      internalID: -324277428552477645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_9
+      rect:
+        serializedVersion: 2
+        x: 6462
+        y: 11992
+        width: 367
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d4e944c0459930800000000000000
+      internalID: 4149293843489282495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10910
+        width: 367
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d08cc1bc3ea07db0800000000000000
+      internalID: -4796142027445337898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_11
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 10910
+        width: 367
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef608b24e807bd20800000000000000
+      internalID: 3294111428520210415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_12
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 10910
+        width: 361
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c89b7bbe8d90c450800000000000000
+      internalID: 6107054331070748873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_13
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 10910
+        width: 354
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3697747754ffe4210800000000000000
+      internalID: 1319272414685133155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10903
+        width: 342
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281ba6105987b350800000000000000
+      internalID: 6032441202956769317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_15
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 10897
+        width: 335
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b361edc62d9210800000000000000
+      internalID: 1341270929717834688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_16
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 10897
+        width: 323
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63091988e9e42fe20800000000000000
+      internalID: 3382852712911704118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_17
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 10891
+        width: 310
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44171e1439e2fe740800000000000000
+      internalID: 5183412906127094084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_18
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 10884
+        width: 311
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23378e6065b854b0800000000000000
+      internalID: -5451407923156143313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_19
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 10884
+        width: 310
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408db1b295c0d2db0800000000000000
+      internalID: -4815178849474324476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 9802
+        width: 310
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edff5b3190139110800000000000000
+      internalID: 1266374136173690344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_21
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 9796
+        width: 310
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd12a83b7fa98b70800000000000000
+      internalID: 8901839082240482749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_22
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 9796
+        width: 303
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391f7be3454b0b30800000000000000
+      internalID: 4254570430997666102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_23
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 9796
+        width: 310
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717be7fee6d84600800000000000000
+      internalID: 452848084400697720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_24
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 9796
+        width: 310
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077eb50b191054480800000000000000
+      internalID: -8915718162069330064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_25
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 9796
+        width: 304
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658c20b838e63770800000000000000
+      internalID: 8590308669427320169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_26
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 9802
+        width: 304
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a23ac838ae1a6d40800000000000000
+      internalID: 5578304796307894944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_27
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 9809
+        width: 303
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb2f0a34b690cf0800000000000000
+      internalID: -285579163154072480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_28
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 9815
+        width: 323
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5aa25b477d58d90800000000000000
+      internalID: -7096028741596699169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_29
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 9821
+        width: 341
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb2bf357c443bd0800000000000000
+      internalID: -2651410214150816038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8752
+        width: 361
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1365a67e4a902f0800000000000000
+      internalID: -1006091727912160846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_31
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 8758
+        width: 374
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c993368f3bb800800000000000000
+      internalID: 629166418572199347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_32
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 8764
+        width: 386
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b7d16340b7a3c0800000000000000
+      internalID: -4348313111752099502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_33
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 8777
+        width: 399
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa30967683984a0800000000000000
+      internalID: -6590674562885373969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_34
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 8783
+        width: 405
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f229ddd9fa3d66a0800000000000000
+      internalID: -6454437846108790031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_35
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 8790
+        width: 412
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5719ea5af2365f1e0800000000000000
+      internalID: -2164714989587361419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_36
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 8802
+        width: 418
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b557355d2a86aca0800000000000000
+      internalID: -6005961125744126543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_37
+      rect:
+        serializedVersion: 2
+        x: 5152
+        y: 8809
+        width: 418
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8826b5258c95d620800000000000000
+      internalID: 2798314839157909644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_38
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 8809
+        width: 424
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb1aa43cbae3f90800000000000000
+      internalID: -6971946317863863510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_39
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 8815
+        width: 417
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083cce95398b8240800000000000000
+      internalID: 4795077091656480769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7739
+        width: 418
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac92b2ea568a440800000000000000
+      internalID: 4947315989389363897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_41
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 7739
+        width: 418
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee33df21a969b010800000000000000
+      internalID: 1205110516311342831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_42
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 7739
+        width: 412
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574725b84359b92e0800000000000000
+      internalID: -2117935146839411595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_43
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 7733
+        width: 406
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0724ae357b28c0800000000000000
+      internalID: -4022992930222960840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_44
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 7733
+        width: 392
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7dcdc3f673b27c0800000000000000
+      internalID: -4095118485261330438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_45
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 7727
+        width: 386
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b2ccd01376cc20800000000000000
+      internalID: 3226392699317957166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_46
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 7727
+        width: 374
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b6596081c7bf10800000000000000
+      internalID: 2285508093181081328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_47
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 7727
+        width: 360
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea405c3b4805d10800000000000000
+      internalID: 2112334132876193523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_48
+      rect:
+        serializedVersion: 2
+        x: 5829
+        y: 7727
+        width: 342
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af93aa440fb366a0800000000000000
+      internalID: -6457107415566147672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_49
+      rect:
+        serializedVersion: 2
+        x: 6525
+        y: 7727
+        width: 323
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5576e3220c594fd0800000000000000
+      internalID: -2357251765689748130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6651
+        width: 310
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644f9afecf7a76d20800000000000000
+      internalID: 3271768359102444614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_51
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 6657
+        width: 298
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9282782fe36938a70800000000000000
+      internalID: 8828064891677386793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_52
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 6664
+        width: 298
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814a6f0329f7f310800000000000000
+      internalID: 1438892534945956236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_53
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 6676
+        width: 291
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831b5a30b6c98470800000000000000
+      internalID: 8397461440404591498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_54
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 6683
+        width: 297
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49154b1aa4be1c50800000000000000
+      internalID: 6637941543485643086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_55
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 6695
+        width: 291
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ff45f6cf73e020800000000000000
+      internalID: 2369878321422922623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_56
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 6708
+        width: 291
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923107fad7f53910800000000000000
+      internalID: 1816630544532845202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_57
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6714
+        width: 291
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c349b1ae27382200800000000000000
+      internalID: 155434860565578689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_58
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 6727
+        width: 291
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a601e74894531470800000000000000
+      internalID: 8364121945974834857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_59
+      rect:
+        serializedVersion: 2
+        x: 6525
+        y: 6733
+        width: 285
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772480903476c5d90800000000000000
+      internalID: -7107692574285479305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5657
+        width: 285
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725484e55d49df50800000000000000
+      internalID: 6906636534850802292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_61
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 5657
+        width: 304
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef31314c3fc73cb80800000000000000
+      internalID: -8375713495570508802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_62
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5664
+        width: 316
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305229ca8d85570800000000000000
+      internalID: 8455746536085980004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_63
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 5670
+        width: 329
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a7079026c832b70800000000000000
+      internalID: 8873090043543059006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_64
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 5670
+        width: 341
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641fc9a96d7b9ee0800000000000000
+      internalID: -1253270178518592411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_65
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 5676
+        width: 348
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f486d55c1e43960800000000000000
+      internalID: 7580932310563311450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_66
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 5676
+        width: 354
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844baf14815543030800000000000000
+      internalID: 3473494775284020296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_67
+      rect:
+        serializedVersion: 2
+        x: 5057
+        y: 5676
+        width: 361
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0305efbacefecec0800000000000000
+      internalID: -3544615709937695987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_68
+      rect:
+        serializedVersion: 2
+        x: 5753
+        y: 5683
+        width: 367
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431c2f96f9d331c0800000000000000
+      internalID: -4525033547321568439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_69
+      rect:
+        serializedVersion: 2
+        x: 6456
+        y: 5683
+        width: 367
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed2bd97ef651590800000000000000
+      internalID: -7704128546973491469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 4601
+        width: 367
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277ccaab026c2f80800000000000000
+      internalID: -8130015425060899032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_71
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 4601
+        width: 367
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acc5091d3be95c0800000000000000
+      internalID: -4206727289265927588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_72
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 4594
+        width: 360
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b7979e1f4303170800000000000000
+      internalID: 8156077138776783724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_73
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 4594
+        width: 355
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb611b66a990630800000000000000
+      internalID: 3893813118686903482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_74
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 4594
+        width: 342
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fdc57d3d272810800000000000000
+      internalID: 1740409522994673387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_75
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 4588
+        width: 329
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d2c2376f56e460800000000000000
+      internalID: 7270603545274143170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_76
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 4582
+        width: 316
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23baef15dc57d2320800000000000000
+      internalID: 2534811689983847218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_77
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 4582
+        width: 304
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193342876323cbd60800000000000000
+      internalID: 7907250255281009553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_78
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 4575
+        width: 304
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1150d50b3f318600800000000000000
+      internalID: 468725358956400923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_79
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 4575
+        width: 304
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73fde28f140003e0800000000000000
+      internalID: -2089665693712780417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3487
+        width: 303
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7324cec5d87b00800000000000000
+      internalID: 826645615653125260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_81
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 3487
+        width: 304
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f3bae8277698ff0800000000000000
+      internalID: -33381780511047888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_82
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3480
+        width: 304
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a86f116a11431b0800000000000000
+      internalID: -5677893825243739535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_83
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 3480
+        width: 304
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aac2c3e1a78ad40800000000000000
+      internalID: 5595856807285009011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_84
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 3480
+        width: 298
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cf949b53ecff60800000000000000
+      internalID: 8069574614816113388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_85
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3480
+        width: 303
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d0cff3db52fe20800000000000000
+      internalID: 3382867236195719183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_86
+      rect:
+        serializedVersion: 2
+        x: 4443
+        y: 3480
+        width: 304
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bef5e8f6b2db890800000000000000
+      internalID: -7440743251216176251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_87
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 3480
+        width: 297
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b2c7cf91043560800000000000000
+      internalID: 7292455482382529088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_88
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 3487
+        width: 298
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59d23d9c257a3a0800000000000000
+      internalID: -6654258897631734285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_89
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 3487
+        width: 310
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04667c8029eafa0800000000000000
+      internalID: -5787527904721747766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_90
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2411
+        width: 329
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1457105095c90c9d0800000000000000
+      internalID: -2756031065800739519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2411
+        width: 342
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0b148edaa28df0800000000000000
+      internalID: -179393162465571003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_92
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2417
+        width: 367
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415a640441346c250800000000000000
+      internalID: 5964528510755579156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_93
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2417
+        width: 380
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652d45ec0fcd5200800000000000000
+      internalID: 170520015203542368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_94
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 2417
+        width: 392
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc5a3a2c9cf8b20800000000000000
+      internalID: 3138949303106915488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_95
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2424
+        width: 399
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763ba44ebcbe03c40800000000000000
+      internalID: 5490147206705623911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_96
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 2417
+        width: 412
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725d039c7050ad10800000000000000
+      internalID: 2134794719346905718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_97
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 2417
+        width: 417
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9188fbba2cdafd60800000000000000
+      internalID: 7924888570412171676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_98
+      rect:
+        serializedVersion: 2
+        x: 5829
+        y: 2417
+        width: 418
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3d9aca2e7be0c0800000000000000
+      internalID: -4545400676647355571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_99
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 2411
+        width: 417
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e712bb12c6f8880800000000000000
+      internalID: -8606541470752473596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_100
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1329
+        width: 412
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ba1b235327eb80800000000000000
+      internalID: -8365678942704978474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_101
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1316
+        width: 405
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd6b4466b53ca250800000000000000
+      internalID: 5957195464587308539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_102
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1310
+        width: 399
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2696a4ccd0a2f0800000000000000
+      internalID: -963527583090725650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_103
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1304
+        width: 392
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb326ab8f3688d40800000000000000
+      internalID: 5586825257683139577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_104
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1291
+        width: 386
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a70f1a148b98c240800000000000000
+      internalID: 4812267193521604519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_105
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1278
+        width: 380
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1780f0127829f0800000000000000
+      internalID: -493018742116638895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_106
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1266
+        width: 367
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f1dc35c54864e0800000000000000
+      internalID: -1988262522052807785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_107
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 1253
+        width: 354
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de477bd0d4d11940800000000000000
+      internalID: 5265223432873135825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_108
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 1240
+        width: 342
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd4b442878070c10800000000000000
+      internalID: 2019592269996969435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_109
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 1228
+        width: 329
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ea0a96fdd5dd8a0800000000000000
+      internalID: -6278759091353375128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_110
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 133
+        width: 304
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209031efe650bd170800000000000000
+      internalID: 8204157120452692226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_111
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 120
+        width: 292
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56ca304fc28f220800000000000000
+      internalID: 2519813418059064739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_112
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 108
+        width: 291
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c176917ec0dcf580800000000000000
+      internalID: -8791922787446525501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_113
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 101
+        width: 291
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b3361fd0682460800000000000000
+      internalID: 7217124914127680921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_114
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 89
+        width: 291
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4810155018ead5950800000000000000
+      internalID: 6439494911372886404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_115
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 82
+        width: 285
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f28303486b83160800000000000000
+      internalID: 7005549899235733306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_116
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 82
+        width: 285
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f932ec23fa9530800000000000000
+      internalID: 3862667004523181225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_117
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 76
+        width: 285
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ab348b2f79aa90800000000000000
+      internalID: -7302165495925726870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_118
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 76
+        width: 285
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6157c2fab55ca7ab0800000000000000
+      internalID: -5009474637924633322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile roaring_119
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 76
+        width: 285
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04f68314f77c800800000000000000
+      internalID: 632614190765260986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 445e0ea934f184a4eb4598a59e0c3d22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

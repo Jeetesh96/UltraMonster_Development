@@ -1,0 +1,398 @@
+<html lang="en-US">
+
+    <head>
+        <!-- #region HEAD -->
+        <title>Native Android Debugger</title>
+        <link rel="shortcut icon" type="image/png" href="DocumentationFiles/favicon/favicon" />
+        <link rel="shortcut icon" type="image/png" href="DocumentationFiles/favicon/favicon" />
+        <link rel="stylesheet" type="text/css" href="DocumentationFiles/css/rainbow-dreamweaver.css">
+        <link rel="stylesheet" type="text/css" href="DocumentationFiles/css/all-css-content.css">
+        <script src="DocumentationFiles/js/rainbow-custom-min"></script>
+        <script src="DocumentationFiles/js/javascript-core"></script>
+        <meta name="viewport" content="width=device-width">
+        <meta charset="UTF-8">
+        <!-- #endregion -->
+    </head>
+
+    <body>
+        <!-- #region TOPBAR -->
+        <div class="topBar">
+            <div class="topBarLogoIcon"><img src="DocumentationFiles/logo/logo" height="100%" /></div>
+            <div class="topBarLogoTextContainer">
+                <div class="topBarLogoText">Native Android Debugger Documentation</div>
+            </div>
+            <div class="topBarItemContainer"><a href="https://www.youtube.com/channel/UCqAgiYBwAWajjFUqyJ6_xyw" target="_blank" title="MT Assets On Youtube"><img src="DocumentationFiles/topbar/youtube" /></a></div>
+            <div class="topBarItemContainer"><a href="https://windsoft.xyz/mtassets" target="_blank" title="MT Assets Website"><img src="DocumentationFiles/topbar/generic" /></a></div>
+            <div class="topBarItemContainer"><a href="https://discord.gg/44aGAt4Sv4" target="_blank" title="MT Assets Community"><img src="DocumentationFiles/topbar/discord" /></a></div>
+            <div class="topBarItemContainer"><a href="https://assetstore.unity.com/publishers/40306" target="_blank" title="See More Assets From MT Assets!"><img src="DocumentationFiles/topbar/shop" /></a></div>
+            <div class="topBarItemDivider"></div>
+            <div class="topBarSupportTextContainer">
+                <div class="topBarSupportText">For support and contact</div>
+                <div class="topBarSupportTextEmail">mtassets@windsoft.xyz</div>
+            </div>
+        </div>
+        <div class="readProgressContainer">
+            <div class="readProgressBar" id="readProgressBar"></div>
+        </div>
+        <div class="fullscreenImageBackground" id="fullScreenImageViewerBg" onclick="CloseImageFullScreenViewer();"></div>
+        <div class="fullscreenImagePopupContent" id="fullScreenImageViewerPop">
+            <div class="fullscreenImagePopup">
+                <div class="fullscreenImagePopupClose"><img src="DocumentationFiles/tools/close.webp" id="fullScreenImageClose" title="Click here to close Viewer." onclick="CloseImageFullScreenViewer();" /></div>
+                <img src="" id="fullScreenImageViewerImg" />
+            </div>
+        </div>
+        <div class="fullscreenLoadingContent" id="fullscreenLoadingBlock">
+            <div class="fullscreenLoadingBg">
+                <div class="fullscreenLoading">
+                    <div><img src="DocumentationFiles/tools/loading.webp" /></div>
+                    <div></div>
+                    <div>Loading Documentation</div>
+                </div>
+            </div>
+        </div>
+        <!-- #endregion -->
+        <!-- SUBBODY -->
+        <div class="subBody">
+            <!-- SUMMARY -->
+            <div class="subBodySummary" id="summary" onscroll="OnScrollSummary(this);" onmouseover="isMouseOverTheSummary(this, true);" onmouseout="isMouseOverTheSummary(this, false);">
+                <div class="subBodySummaryTitle">Summary of Documentation</div>
+                <!-- -------------------------------------------------------------------------- START OF SUMMARY CONTENT -------------------------------------------------------------------------- -->
+                <ul>
+                    <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="1">What is the Native Android Debugger?</a></li>
+                    <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="2">First steps to use</a></li>
+                    <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="3">How to use this tool</a></li>
+                    <li class="summarySubItem">Debugger Tool</li>
+                    <ul>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="4">Explaining the Interface</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="5">What is the ADB or Android SDK that Native Android Debugger so often mentions?</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="6">How to connect your Android device</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="7">How to list all currently connected devices</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="8">How to disconnect your Android device</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="9">How to Check/Change device DOZE state</a></li>
+                        <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="10">How to Start/Stop the ADB Server</a></li>
+                    </ul>
+                    <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="11">Demo Scene</a></li>
+                    <li><a class="summaryItem" onclick="GoToDivSmoothly(this);" correspondentTopicId="12">Contact and Support</a></li>
+                </ul>
+                <!-- -------------------------------------------------------------------------- END OF SUMMARY CONTENT -------------------------------------------------------------------------- -->
+            </div>
+            <div class="subBodyDivider" id="divider">
+                <div id="summaryScrollIndicador" class="summaryScrollDownIndicator"><img src="DocumentationFiles/tools/scroll-down.webp" /></div>
+            </div>
+
+            <!-- DOCUMENTATION CONTENT -->
+            <div class="subBodyContent" id="content">
+                <!-- -------------------------------------------------------------------------- START OF DOCUMENTATION CONTENT -------------------------------------------------------------------------- -->
+
+                <!-- #region Welcome to Native Android Debugger Documentation! -->
+                <doc.topic>
+                    <doc.topictitle>Welcome to Native Android Debugger Documentation!</doc.topictitle>
+
+                    By reading this documentation, you will understand how Native Android Debugger works and how to use it and get the most out of it. Come on! Make sure that this HTML file is in the same directory as the
+                    "DocumentationFiles" folder. This way you will not have problems with formatting and displaying the videos and image on the page.
+                    <doc.info>
+                        If you still have problems with the tool, even after consulting this documentation, please contact <doc.detach>mtassets@windsoft.xyz</doc.detach> for help and support. If you have any questions, problems or feedback,
+                        feel free to contact me!
+                        <br>
+                        <br>
+                        I am always willing to help, open to suggestions and always do my best to offer a quick and useful service to my customers! 😀
+                    </doc.info>
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region What is the Native Android Debugger? -->
+                <doc.topic topicid="1">
+                    <doc.topictitle>What is the Native Android Debugger?</doc.topictitle>
+
+                    Native Android Debugger is a tool that will give you better control over your Unity Editor's ADB, giving you the possibility to connect your device over Wi-Fi and send your Builds directly to your Android device without
+                    the need for USB Cables over example. You can also do other interesting things.
+                    <doc.video src="DocumentationFiles/videos/what-is" thumbnail="DocumentationFiles/thumbs/what-is"></doc.video>
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region First steps to use -->
+                <doc.topic topicid="2">
+                    <doc.topictitle>First steps to use</doc.topictitle>
+
+                    Before starting to use Native Android Debugger, you need to fill some preferences necessary for the tool to work. See below for the necessary settings.
+
+                    <doc.topicsubtitle>Fill in "Device Settings"</doc.topicsubtitle>
+
+                    The Native Android Debugger needs to know some information from your device so it can connect your Unity Editor ADB to your Android device over Wi-Fi and thus execute the commands and enable your Unity Editor to send
+                    your APKs directly to yours device over Wi-Fi.
+                    <br>
+                    <br>
+                    You need to tell Native Android Debugger the IP address of your Android device on the local network. You can read the help topics under "Device Settings" to understand more and learn how to configure these settings.
+
+                    <doc.topicsubtitle>Fill in "SDK Settings"</doc.topicsubtitle>
+
+                    In this part, we need to tell the Native Android Debugger, where is the same Android SDK that your Unity Editor uses. Native Android Debugger needs to know where the same Android SDK is located that your Unity Editor
+                    uses, so Native Android Debugger can manage it, and connect or disconnect your device to it over Wi-Fi for example.
+                    <br>
+                    <br>
+                    You can perform these settings in "SDK Settings" and again, on this same screen you can read topics to understand more about it and know better how to configure.
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region How to use this tool -->
+                <doc.topic topicid="3">
+                    <doc.topictitle>How to use this tool</doc.topictitle>
+
+                    Follow the step by step below to use this tool.
+
+                    <doc.warn>
+                        Note that the main purpose of this tool is to give you the possibility and control so that you can connect your Android device to Unity's ADB via Wi-Fi and then execute ADB commands, send your APKs (Builds) and etc,
+                        all over Wi-Fi.
+                    </doc.warn>
+
+                    <b>Step 1 -</b> Open the Native Android Debugger window by clicking "Tools > MT Assets > Native Android Debugger > Open Android Debugger Tool", if the window is not already open.
+                    <br>
+                    <br>
+                    <b>Step 2 -</b> Make sure the settings in the "Device Settings" and "SDK Settings" tabs have been made.
+                    <br>
+                    <br>
+                    <b>Step 3 -</b> Connect your device to Unity's ADB using Native Android Debugger. To do this, go to the "Quick Debug" tab and click on "Connect To Device". When you click on this button, you will be shown a step by step
+                    of what to do to connect your device. You can also read the help topics on the "Quick Debug" tab to better understand everything and how to connect your device.
+                    <br>
+                    <br>
+                    <b>Step 4 -</b> Once your device is connected, it will be displayed under "Currently Connected Devices", or you can manually check which devices are currently connected by clicking on "List Connected Devices". You can
+                    use the buttons in the "Connect Or Disconnect device" and "Device TWELVE System Debug" sections to send these commands to your device.
+                    <br>
+                    <br>
+                    <b>Step 5 -</b> Once your device appears as connected in the Native Android Debugger, you can also send your Builds to it directly via Wi-Fi. To do this, go to "File > Build Settings". Make sure the target platform is
+                    Android. In "Run Device" select the device you want to send your Build and click "Build And Run".
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: Explaining the Interface -->
+                <doc.topic topicid="4">
+                    <doc.topictitle>Debugger Tool: Explaining the Interface</doc.topictitle>
+
+                    See below for a brief explanation of each part of the Native Android Debugger interface.
+
+                    <doc.topicsubtitle>Quick Debug Tab</doc.topicsubtitle>
+                    In this tab you can perform quick actions with your Unity Editor's ADB and you can even do some checks.
+                    <br>
+                    <br>
+                    <b>ADB Commands Section -</b> In this section, you can connect or disconnect your device, from the ADB, check the device's current DOZE status, list which and how many devices are connected, and so on.
+                    <doc.image src="DocumentationFiles/images/1"></doc.image>
+                    <br>
+                    <b>Commands Logs Section -</b> In this section you can see the output of each command you executed by clicking the buttons above. From this log you can see the result of the command you executed, always.
+                    <doc.image src="DocumentationFiles/images/2"></doc.image>
+                    <br>
+                    <b>Currently Connecteds Section -</b> In this section you can always see which devices are currently connected to the Unity Editor ADB. The list is automatically updated, except when you disable auto-refresh or when the
+                    Native Android Debugger detects a certain slowdown in ADB, which can cause Editor slowdowns.
+                    <doc.image src="DocumentationFiles/images/3"></doc.image>
+
+                    <doc.topicsubtitle>ADB Terminal Tab</doc.topicsubtitle>
+                    In this tab, you can run manual commands directly in your Unity Editor's ADB. You can type the desired command yourself and it will be executed normally, as if you were using a Command Prompt to execute them.
+                    <br>
+                    <br>
+                    <b>ADB Terminal Section -</b> This is the terminal in which you can manually type your commands into the ADB, see the results of previous commands and still use useful command presets.
+                    <doc.image src="DocumentationFiles/images/4"></doc.image>
+                    <br>
+                    <b>Last Runned Commands Section -</b> Here you can see the last executed commands and rerun them if you prefer.
+                    <doc.image src="DocumentationFiles/images/5"></doc.image>
+
+                    <doc.topicsubtitle>Device Settings and SDK Settings</doc.topicsubtitle>
+
+                    These are the Native Android Debugger configuration tabs. Through these tabs you can set your important preferences and settings for Native Android Debugger.
+
+                    <doc.topicsubtitle>Bottom Bar</doc.topicsubtitle>
+
+                    <b>Bottom Bar -</b> This is a status bar. Through this status bar you can see quick and useful information about Native Android Debugger stuff. You for example can see the current latency between your computer and your
+                    registered Android device, check if your Unity Editor's ADB server is currently running or not, and so on.
+                    <doc.image src="DocumentationFiles/images/6"></doc.image>
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: What is the ADB or Android SDK that Native Android Debugger so often mentions? -->
+                <doc.topic topicid="5">
+                    <doc.topictitle>Debugger Tool: What is the ADB or Android SDK that Native Android Debugger so often mentions?</doc.topictitle>
+
+                    <doc.topicsubtitle>A little about Android SDK</doc.topicsubtitle>
+
+                    If you're developing for Android, you probably already know the Android SDK and know how to configure it in Unity and so on. This topic is here for clarification purposes, but if you are already familiar with the Android
+                    SDK, just skip to the next topic!
+                    <br>
+                    <br>
+                    Android SDK is a Development Kit for Android system. The Android SDK has a number of libraries, tools and other utilities that are sorely needed when building applications. Whenever you're going to develop something for
+                    the Android system, you'll need the Android SDK, whether it's an app or a game. The same goes for Unity. A while ago you needed to provide Unity, an Android SDK so that it could build your APKs for your game, these days,
+                    when you download a version of Unity Editor, through Unity Hub, Unity already comes with one Customized version of the Android SDK for Unity's use so you no longer need to download an Android SDK for Unity to use, as it
+                    will already have its own Android SDK.
+                    <doc.info>
+                        When downloading the Unity Editor via Unity Hub and adding the Android module, Unity Hub will ask you if you want to install the Android SDK along with the Editor. This is the most recommended, because then Unity
+                        will have an Android SDK recommended for it and customized and that will always keep up with what is necessary for that version of Unity Editor.
+                        <br>
+                        <br>
+                        Normally your Unity Editor's Android SDK can be found in the following directory...
+                        <br>
+                        {Installation Location}/20XX.X.XfX/Editor/Data/PlaybackEngines/AndroidPlayer/SDK
+                    </doc.info>
+                    Native Android Debugger needs to know where your Unity Editor's Android SDK is so that Native Android Debugger will help you manage it and everything will work as expected! When the Native Android Debugger knows where
+                    your Unity Editor's Android SDK is, it can check build information, check if the ADB server is running, execute whatever commands you want, directly in your Unity Editor's Android SDK, and so on.
+                    <doc.info>
+                        Click <a href="https://en.wikipedia.org/wiki/Android_software_development" target="_blank">here</a> to learn more about Android SDK.
+                    </doc.info>
+
+                    <doc.topicsubtitle>A little about the ADB</doc.topicsubtitle>
+
+                    Android Debug Bridge. ADB is the debugging bridge between your computer and your Android device. ADB is sorely needed for all Native Android Debugger functions to run. ADB is already included in every Android SDK,
+                    including the Android SDK that your Unity Editor uses. When you provide the Android SDK path from your Unity Editor to the Native Android Debugger, it will already be able to know where your Android SDK's ADB is. Once
+                    the Native Android Debugger knows where the ADB is, it can do everything you want, like running commands, checking if the ADB server is running, connecting or disconnecting your device and so on.
+                    <br>
+                    <br>
+                    Unity Editor also uses ADB to send your APK builds directly to your Android device (if you've already used the "Build and Run" option you may have noticed this already). Unity Editor uses ADB to check which devices are
+                    connected via USB, and thus send your APK Build directly to your device. Native Android Debugger will help you so that you can connect your device via Wi-Fi, eliminating the use of USB cables, it will help you to see
+                    which devices are connected, disconnect certain devices, connect new ones and so on. Once you've taken care of everything with the help of Native Android Debugger, you can use Unity Editor's "Build Settings" window as
+                    usual to upload your APKs!
+                    <doc.info>
+                        Click <a href="https://developer.android.com/studio/command-line/adb" target="_blank">here</a> to learn more about ADB.
+                    </doc.info>
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: How to connect your Android device -->
+                <doc.topic topicid="6">
+                    <doc.topictitle>Debugger Tool: How to connect your Android device</doc.topictitle>
+
+                    With Native Android Debugger you can connect your Android device to your Unity Editor's ADB via Wi-Fi. To connect your device to your Unity Editor's ADB, click on the "Connect To Device" button on the tab "Quick Debug"
+                    from Native Android Debugger.
+                    <doc.info>
+                        Once your Android device is connected, it will appear as an available device in your Unity Editor's "Build Settings" window.
+                    </doc.info>
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: How to list all currently connected devices -->
+                <doc.topic topicid="7">
+                    <doc.topictitle>Debugger Tool: How to list all currently connected devices</doc.topictitle>
+
+                    You can see which devices are currently connected to your Unity Editor's ADB through the "Currently Connected Devices" section in the "Quick Debug" tab of your Native Android Debugger.
+                    <br>
+                    <br>
+                    If you prefer, you can click the "List Connected Devices" button to run the command to list the devices currently connected to the ADB, then just look at the output of this command to see which devices are currently
+                    connected.
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: How to disconnect your Android device -->
+                <doc.topic topicid="8">
+                    <doc.topictitle>Debugger Tool: How to disconnect your Android device</doc.topictitle>
+
+                    In Native Android Debugger you can disconnect all ADB devices from your Unity Editor and if you prefer you can disconnect specific devices. The disconnect function only applies to devices that are connected via Wi-Fi and
+                    will not disconnect Android devices connected via USB.
+                    <br>
+                    <br>
+                    You can click "Disconnect All Devices" in the "Quick Debug" tab to disconnect all devices, if you click the "Disconnect From Device" button, Native Android Debugger will disconnect the device that is using the IP
+                    registered in the settings.
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: How to Check/Change device DOZE state -->
+                <doc.topic topicid="9">
+                    <doc.topictitle>Debugger Tool: How to Check/Change device DOZE state</doc.topictitle>
+
+                    Android's DOZE feature was introduced for the purpose of prolonging users' battery life by postponing or scheduling app processes. The device goes into DOZE when it is unplugged from the charger and not in use (with the
+                    screen locked) for an extended period of time. This feature can affect the functioning of your app's process, if your app has tasks that run in the background, such as delivery of notifications, scans, network access and
+                    so on.
+                    <br>
+                    <br>
+                    DOZE has several levels, and at deep sleep levels the app's activities are even more restricted. With Native Android Debugger you will be able to see the current DOZE level of your device, as well as force the advance
+                    of DOZE and etc levels, so you can debug and see how your app will behave when the Android device is in these DOZE stages.
+                    <br>
+                    <br>
+                    Read the topic "What is the function of each of the Buttons (Commands) above?" and look up the explanation for the DOZE management buttons to learn more about each level of DOZE.
+
+                    <doc.info>
+                        Click <a href="https://developer.android.com/training/monitoring-device-state/doze-standby" target="_blank">here</a> to learn more about Android DOZE.
+                    </doc.info>
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Debugger Tool: How to Start/Stop the ADB Server -->
+                <doc.topic topicid="10">
+                    <doc.topictitle>Debugger Tool: How to Start/Stop the ADB Server</doc.topictitle>
+
+                    In order for ADB to communicate with your Android device, it creates a Server so that your device can connect and thus communicate with your computer and ADB. In order to be able to send commands to the ADB and
+                    consequently to your device, the ADB Server must be online and running.
+                    <br>
+                    <br>
+                    If you open Native Android Debugger, and the server is not running, NAD will ask you to start the server and you will see a button to start it so you can manage ADB and so on.
+                    <br>
+                    The ADB Server can also be started automatically by your Unity Editor, if you do a Build, or open the "Build Settings" window.
+                    <br>
+                    <br>
+                    To shut down the ADB server, just click on "Stop Server of Current ADB" in the "Quick Debug" tab. This can be useful if you want to manage the ADB from another Android SDK other than your Unity Editor, as it is not
+                    recommended that 2 ADBs run at the same time.
+
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Demo Scene -->
+                <doc.topic topicid="11">
+                    <doc.topictitle>Demo Scene</doc.topictitle>
+
+                    The Native Android Debugger has some demonstration scenes. The demo scenes start with the prefix "DemoScene".
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- #region Contact and Support -->
+                <doc.topic topicid="12">
+                    <doc.topictitle>Contact and Support</doc.topictitle>
+
+                    <center>
+                        <font style="font-size: 18px; color: #00771d;">mtassets@windsoft.xyz</font>
+                    </center>
+                    <br>
+                    <doc.achiev>
+                        Congratulations, you have reached the end of the documentation! Thanks for reading!
+                        <br>
+                        <br>
+                        If you need to contact me for any difficulty, feature suggestion, bug fix, question or support, just contact me through my email above!
+                    </doc.achiev>
+                </doc.topic>
+                <!-- #endregion -->
+
+                <!-- --------------------------------------------------------------------------- END OF DOCUMENTATION CONTENT --------------------------------------------------------------------------- -->
+            </div>
+        </div>
+
+        <div class="endOfBodyContentPoint" id="contentEndPoint"></div>
+        <!-- #region FOOTER -->
+        <div class="footer">
+            <center>
+                <small>
+                    <b>Developed with ❤ by Marcos Tomaz (MT Assets)</b>
+                    <br>
+                    <div class="processingTimeResult">
+                        Page processed in <div id="processingTime">0</div> ms
+                    </div>
+                    <br>
+                    <a href="https://assetstore.unity.com/publishers/40306" target="_blank">See More Assets From MT Assets</a>
+                    •
+                    <a href="https://windsoft.xyz/mtassets" target="_blank">MT Assets Website</a>
+                    •
+                    <a href="https://www.youtube.com/channel/UCqAgiYBwAWajjFUqyJ6_xyw" target="_blank">MT Assets On YouTube</a>
+
+
+                    <div style="display: inline; margin-left: 8px; margin-right: 8px;">|</div>
+                    <a href="https://github.com/marcos4503/documentation-template" target="_blank">
+                        <div style="display: inline;"><img src="DocumentationFiles/footer/github" style="width: 14px; height: 14px; border-radius: 14px; transform: translateY(2px);"></div> See This Documentation Template On GitHub!
+                    </a>
+                </small>
+            </center>
+        </div>
+        <div class="footerSpacement"></div>
+        <div class="gotoTopButton" id="gotoTopButtonItem" onclick="GoToToButton();"><img src="DocumentationFiles/tools/up.webp" title="Click here to go to top of page." /></div>
+        <!-- #endregion -->
+    </body>
+
+</html>

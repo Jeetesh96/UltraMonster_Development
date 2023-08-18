@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 4dca30004e21daa45bf8955757614376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7014456257557432772
+    second: ray fish 1_0
+  - first:
+      213: 6207202845426601489
+    second: ray fish 1_1
+  - first:
+      213: -7783742100268108991
+    second: ray fish 1_2
+  - first:
+      213: 2971373777725360116
+    second: ray fish 1_3
+  - first:
+      213: 8977699458528049685
+    second: ray fish 1_4
+  - first:
+      213: 6434872014915754314
+    second: ray fish 1_5
+  - first:
+      213: 5161239026383270136
+    second: ray fish 1_6
+  - first:
+      213: -8985490735866876532
+    second: ray fish 1_7
+  - first:
+      213: -6001821420793875406
+    second: ray fish 1_8
+  - first:
+      213: -5656284491448278636
+    second: ray fish 1_9
+  - first:
+      213: -6579478192179045012
+    second: ray fish 1_10
+  - first:
+      213: 5825773358359883175
+    second: ray fish 1_11
+  - first:
+      213: 1051552447167836582
+    second: ray fish 1_12
+  - first:
+      213: 6225759652525997329
+    second: ray fish 1_13
+  - first:
+      213: 1448424213818427005
+    second: ray fish 1_14
+  - first:
+      213: -8858273231629844997
+    second: ray fish 1_15
+  - first:
+      213: -9040429636097416067
+    second: ray fish 1_16
+  - first:
+      213: 9000827407582399264
+    second: ray fish 1_17
+  - first:
+      213: 6081548969301261121
+    second: ray fish 1_18
+  - first:
+      213: -4713803510585162684
+    second: ray fish 1_19
+  - first:
+      213: -6976891054384498284
+    second: ray fish 1_20
+  - first:
+      213: 4850830283859872993
+    second: ray fish 1_21
+  - first:
+      213: 2105565872987778164
+    second: ray fish 1_22
+  - first:
+      213: 1899841220878860978
+    second: ray fish 1_23
+  - first:
+      213: -4282810879271471153
+    second: ray fish 1_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ray fish 1_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 838
+        width: 269
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90a345dca585160800000000000000
+      internalID: 7014456257557432772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 836
+        width: 266
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e427ac91a642650800000000000000
+      internalID: 6207202845426601489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 834
+        width: 262
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433442ccc79af390800000000000000
+      internalID: -7783742100268108991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_3
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 832
+        width: 258
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70b3435b07c3920800000000000000
+      internalID: 2971373777725360116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_4
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 825
+        width: 249
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af7c57712379c70800000000000000
+      internalID: 8977699458528049685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 630
+        width: 248
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d72011024d4950800000000000000
+      internalID: 6434872014915754314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 629
+        width: 249
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f035709c8760a740800000000000000
+      internalID: 5161239026383270136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_7
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 628
+        width: 253
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d671c68cf1d4380800000000000000
+      internalID: -8985490735866876532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_8
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 630
+        width: 260
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343040873f35bca0800000000000000
+      internalID: -6001821420793875406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 631
+        width: 264
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491acaa2937d081b0800000000000000
+      internalID: -5656284491448278636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 442
+        width: 270
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1dbb917ff0b4a0800000000000000
+      internalID: -6579478192179045012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 442
+        width: 271
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada9fec00e49d050800000000000000
+      internalID: 5825773358359883175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 440
+        width: 271
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b12c116dd79e00800000000000000
+      internalID: 1051552447167836582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_13
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 440
+        width: 267
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d75c12b67566650800000000000000
+      internalID: 6225759652525997329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_14
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 441
+        width: 263
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c8bcf526d91410800000000000000
+      internalID: 1448424213818427005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 248
+        width: 260
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdf951dd67111580800000000000000
+      internalID: -8858273231629844997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 246
+        width: 248
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ef7be421f98280800000000000000
+      internalID: -9040429636097416067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 248
+        width: 247
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8c89b6dc59ec70800000000000000
+      internalID: 9000827407582399264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_18
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 251
+        width: 246
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b385fe090066450800000000000000
+      internalID: 6081548969301261121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_19
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 254
+        width: 247
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44405929ea4359eb0800000000000000
+      internalID: -4713803510585162684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 256
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499bfca1d8a1d2f90800000000000000
+      internalID: -6976891054384498284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 71
+        width: 260
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccc2f317c915340800000000000000
+      internalID: 4850830283859872993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 72
+        width: 265
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2f967109783d10800000000000000
+      internalID: 2105565872987778164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_23
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 71
+        width: 271
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2012c46879d5a10800000000000000
+      internalID: 1899841220878860978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ray fish 1_24
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 70
+        width: 274
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc778d452366094c0800000000000000
+      internalID: -4282810879271471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d56313db8d3acd4692c9e53372dd741
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

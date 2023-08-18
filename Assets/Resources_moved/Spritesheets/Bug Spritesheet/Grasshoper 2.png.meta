@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 000d46a1ff11d6c42b78eff02ffcc474
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2686971495526287264
+    second: Grasshoper 2_0
+  - first:
+      213: 5535883840954323354
+    second: Grasshoper 2_1
+  - first:
+      213: -6571773163897720135
+    second: Grasshoper 2_2
+  - first:
+      213: 8536577232492057928
+    second: Grasshoper 2_3
+  - first:
+      213: -3871927375837695139
+    second: Grasshoper 2_4
+  - first:
+      213: 1475935218622320478
+    second: Grasshoper 2_5
+  - first:
+      213: -4103568893506308684
+    second: Grasshoper 2_6
+  - first:
+      213: -1085306288498861472
+    second: Grasshoper 2_7
+  - first:
+      213: 3872197087341695598
+    second: Grasshoper 2_8
+  - first:
+      213: 7686494642518659207
+    second: Grasshoper 2_9
+  - first:
+      213: 810808229727262988
+    second: Grasshoper 2_10
+  - first:
+      213: -4756734499185027602
+    second: Grasshoper 2_11
+  - first:
+      213: 8210736835440639932
+    second: Grasshoper 2_12
+  - first:
+      213: 3560653131343756456
+    second: Grasshoper 2_13
+  - first:
+      213: -8330054285561798939
+    second: Grasshoper 2_14
+  - first:
+      213: -4891309514748498965
+    second: Grasshoper 2_15
+  - first:
+      213: 2603125612343488485
+    second: Grasshoper 2_16
+  - first:
+      213: -5252214199548527973
+    second: Grasshoper 2_17
+  - first:
+      213: 496140954333878078
+    second: Grasshoper 2_18
+  - first:
+      213: 5913887153845456726
+    second: Grasshoper 2_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grasshoper 2_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1649
+        width: 416
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c178c65a0a4520800000000000000
+      internalID: 2686971495526287264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_1
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1649
+        width: 420
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9158e1e50963dc40800000000000000
+      internalID: 5535883840954323354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_2
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1649
+        width: 424
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b27e6d402f5cc4a0800000000000000
+      internalID: -6571773163897720135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_3
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1647
+        width: 429
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455064a3c3087670800000000000000
+      internalID: 8536577232492057928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_4
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1647
+        width: 433
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537517e096244ac0800000000000000
+      internalID: -3871927375837695139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1114
+        width: 431
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc871f2439b7410800000000000000
+      internalID: 1475935218622320478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1114
+        width: 439
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5b63f35d13d07c0800000000000000
+      internalID: -4103568893506308684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_7
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1114
+        width: 438
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a17894ea730f0f0800000000000000
+      internalID: -1085306288498861472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_8
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1114
+        width: 436
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62dd433cbeccb530800000000000000
+      internalID: 3872197087341695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_9
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1114
+        width: 435
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780944f072aebaa60800000000000000
+      internalID: 7686494642518659207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 582
+        width: 433
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095bd10ac1904b00800000000000000
+      internalID: 810808229727262988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_11
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 582
+        width: 432
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee51b3ddc2facfdb0800000000000000
+      internalID: -4756734499185027602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 582
+        width: 430
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf77a446a562f170800000000000000
+      internalID: 8210736835440639932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_13
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 582
+        width: 431
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac7026682bf96130800000000000000
+      internalID: 3560653131343756456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_14
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 582
+        width: 430
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5e5503c3b56c80800000000000000
+      internalID: -8330054285561798939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 424
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb6dee59e39e1cb0800000000000000
+      internalID: -4891309514748498965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 47
+        width: 428
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef6475d3f8202420800000000000000
+      internalID: 2603125612343488485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_17
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 47
+        width: 425
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab5af43036c17b0800000000000000
+      internalID: -5252214199548527973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_18
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 47
+        width: 419
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37189db195a2e600800000000000000
+      internalID: 496140954333878078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grasshoper 2_19
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 47
+        width: 416
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f44b68809521250800000000000000
+      internalID: 5913887153845456726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 496c8f91542afe4449f4307c26ab11af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

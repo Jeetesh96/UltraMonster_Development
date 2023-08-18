@@ -1,0 +1,2562 @@
+fileFormatVersion: 2
+guid: 86d2c5cdf97fcd64997fc08c17b038d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8048239808558526512
+    second: Monster Aweken Animation_0
+  - first:
+      213: -8747119805000880143
+    second: Monster Aweken Animation_1
+  - first:
+      213: -3318402606137011402
+    second: Monster Aweken Animation_2
+  - first:
+      213: 982752363825957429
+    second: Monster Aweken Animation_3
+  - first:
+      213: 1578922847894863242
+    second: Monster Aweken Animation_4
+  - first:
+      213: 7617469677173647870
+    second: Monster Aweken Animation_5
+  - first:
+      213: -6754052332395461257
+    second: Monster Aweken Animation_6
+  - first:
+      213: -6574893651818025427
+    second: Monster Aweken Animation_7
+  - first:
+      213: 6574441628360787556
+    second: Monster Aweken Animation_8
+  - first:
+      213: -7173314970783332887
+    second: Monster Aweken Animation_9
+  - first:
+      213: -8833994583932539975
+    second: Monster Aweken Animation_10
+  - first:
+      213: 5548458858403692562
+    second: Monster Aweken Animation_11
+  - first:
+      213: -7178186677527979871
+    second: Monster Aweken Animation_12
+  - first:
+      213: -8469263310188527916
+    second: Monster Aweken Animation_13
+  - first:
+      213: -1466961863503434114
+    second: Monster Aweken Animation_14
+  - first:
+      213: -3152835344942928329
+    second: Monster Aweken Animation_15
+  - first:
+      213: -931628958635230449
+    second: Monster Aweken Animation_16
+  - first:
+      213: 5825544133349751898
+    second: Monster Aweken Animation_17
+  - first:
+      213: 4142790952765287952
+    second: Monster Aweken Animation_18
+  - first:
+      213: -7974735438623987259
+    second: Monster Aweken Animation_19
+  - first:
+      213: -2621289320181706208
+    second: Monster Aweken Animation_20
+  - first:
+      213: -1686227457275684125
+    second: Monster Aweken Animation_21
+  - first:
+      213: -2941945678515287445
+    second: Monster Aweken Animation_22
+  - first:
+      213: -1333512929176907709
+    second: Monster Aweken Animation_23
+  - first:
+      213: -5235990520407205968
+    second: Monster Aweken Animation_24
+  - first:
+      213: 6154252329016131769
+    second: Monster Aweken Animation_25
+  - first:
+      213: -4218493878932735216
+    second: Monster Aweken Animation_26
+  - first:
+      213: -7076690311658885802
+    second: Monster Aweken Animation_27
+  - first:
+      213: 4073359566762999642
+    second: Monster Aweken Animation_28
+  - first:
+      213: -1929205579345493296
+    second: Monster Aweken Animation_29
+  - first:
+      213: 5924857730463271615
+    second: Monster Aweken Animation_30
+  - first:
+      213: -1206085916692607291
+    second: Monster Aweken Animation_31
+  - first:
+      213: 8975658240837843687
+    second: Monster Aweken Animation_32
+  - first:
+      213: -2468792088016166058
+    second: Monster Aweken Animation_33
+  - first:
+      213: -5360968274977162678
+    second: Monster Aweken Animation_34
+  - first:
+      213: -4971937008403798049
+    second: Monster Aweken Animation_35
+  - first:
+      213: 3635476676205456445
+    second: Monster Aweken Animation_36
+  - first:
+      213: -4959458864995813271
+    second: Monster Aweken Animation_37
+  - first:
+      213: 3518655178196842845
+    second: Monster Aweken Animation_38
+  - first:
+      213: 156751837002635103
+    second: Monster Aweken Animation_39
+  - first:
+      213: -8269277795665222289
+    second: Monster Aweken Animation_40
+  - first:
+      213: 4289917698398669352
+    second: Monster Aweken Animation_41
+  - first:
+      213: -5862389580742190619
+    second: Monster Aweken Animation_42
+  - first:
+      213: 2013016201140002073
+    second: Monster Aweken Animation_43
+  - first:
+      213: 4091349481715844066
+    second: Monster Aweken Animation_44
+  - first:
+      213: -3328014870107441347
+    second: Monster Aweken Animation_45
+  - first:
+      213: -5096990019628462701
+    second: Monster Aweken Animation_46
+  - first:
+      213: 5916127764011944413
+    second: Monster Aweken Animation_47
+  - first:
+      213: 6120430391565925447
+    second: Monster Aweken Animation_48
+  - first:
+      213: 1473606642637400117
+    second: Monster Aweken Animation_49
+  - first:
+      213: -7460007239709515662
+    second: Monster Aweken Animation_50
+  - first:
+      213: 4999143229328891476
+    second: Monster Aweken Animation_51
+  - first:
+      213: -1847323036536916719
+    second: Monster Aweken Animation_52
+  - first:
+      213: 5339471010074352963
+    second: Monster Aweken Animation_53
+  - first:
+      213: -8173528719654638697
+    second: Monster Aweken Animation_54
+  - first:
+      213: -9044455692882706680
+    second: Monster Aweken Animation_55
+  - first:
+      213: -7653252431776783182
+    second: Monster Aweken Animation_56
+  - first:
+      213: 3948009426820414571
+    second: Monster Aweken Animation_57
+  - first:
+      213: 5164277497841950620
+    second: Monster Aweken Animation_58
+  - first:
+      213: -4155097479324776812
+    second: Monster Aweken Animation_59
+  - first:
+      213: 7484790438247424296
+    second: Monster Aweken Animation_60
+  - first:
+      213: 457772740416881238
+    second: Monster Aweken Animation_61
+  - first:
+      213: -1723633522842195737
+    second: Monster Aweken Animation_62
+  - first:
+      213: 7134867917193364886
+    second: Monster Aweken Animation_63
+  - first:
+      213: -1842894150599515774
+    second: Monster Aweken Animation_64
+  - first:
+      213: 7789262691407021817
+    second: Monster Aweken Animation_65
+  - first:
+      213: -7536858572208124087
+    second: Monster Aweken Animation_66
+  - first:
+      213: 8011527703925646139
+    second: Monster Aweken Animation_67
+  - first:
+      213: -2174430400710416429
+    second: Monster Aweken Animation_68
+  - first:
+      213: -913472212952112007
+    second: Monster Aweken Animation_69
+  - first:
+      213: -9190691656239304080
+    second: Monster Aweken Animation_70
+  - first:
+      213: -1817388542279519727
+    second: Monster Aweken Animation_71
+  - first:
+      213: -979544781146088213
+    second: Monster Aweken Animation_72
+  - first:
+      213: -2913616420840177931
+    second: Monster Aweken Animation_73
+  - first:
+      213: 8416688458886042986
+    second: Monster Aweken Animation_74
+  - first:
+      213: 1013919792288830134
+    second: Monster Aweken Animation_75
+  - first:
+      213: -3619261320881916656
+    second: Monster Aweken Animation_76
+  - first:
+      213: -7171190113669495209
+    second: Monster Aweken Animation_77
+  - first:
+      213: 3633991012502680505
+    second: Monster Aweken Animation_78
+  - first:
+      213: -7898443003304788671
+    second: Monster Aweken Animation_79
+  - first:
+      213: 5666795804311998115
+    second: Monster Aweken Animation_80
+  - first:
+      213: -8145608849155245404
+    second: Monster Aweken Animation_81
+  - first:
+      213: -5034283007498789201
+    second: Monster Aweken Animation_82
+  - first:
+      213: 1440129132520238442
+    second: Monster Aweken Animation_83
+  - first:
+      213: 4056446342794962408
+    second: Monster Aweken Animation_84
+  - first:
+      213: 684443065546911197
+    second: Monster Aweken Animation_85
+  - first:
+      213: 7610283936220927210
+    second: Monster Aweken Animation_86
+  - first:
+      213: -261338951847598478
+    second: Monster Aweken Animation_87
+  - first:
+      213: 7813967707890157643
+    second: Monster Aweken Animation_88
+  - first:
+      213: 2566519497363229207
+    second: Monster Aweken Animation_89
+  - first:
+      213: 7275019902330183643
+    second: Monster Aweken Animation 1_0
+  - first:
+      213: -4028419309588928569
+    second: Monster Aweken Animation 1_1
+  - first:
+      213: 8137447214959488433
+    second: Monster Aweken Animation 1_2
+  - first:
+      213: 5443914326526133782
+    second: Monster Aweken Animation 1_3
+  - first:
+      213: -1423041899555620473
+    second: Monster Aweken Animation 1_4
+  - first:
+      213: -3512112291628752721
+    second: Monster Aweken Animation 1_5
+  - first:
+      213: 3141859829842251218
+    second: Monster Aweken Animation 1_6
+  - first:
+      213: -2413112103398293284
+    second: Monster Aweken Animation 1_7
+  - first:
+      213: 5327945443817312960
+    second: Monster Aweken Animation 1_8
+  - first:
+      213: 5416703524163027097
+    second: Monster Aweken Animation 1_9
+  - first:
+      213: -8077367186468486601
+    second: Monster Aweken Animation 1_10
+  - first:
+      213: 7043098239682388646
+    second: Monster Aweken Animation 1_11
+  - first:
+      213: 1226233116741479133
+    second: Monster Aweken Animation 1_12
+  - first:
+      213: -6144319426206875152
+    second: Monster Aweken Animation 1_13
+  - first:
+      213: -2891170855520968809
+    second: Monster Aweken Animation 1_14
+  - first:
+      213: -5003836033495165238
+    second: Monster Aweken Animation 1_15
+  - first:
+      213: 8135275212566346888
+    second: Monster Aweken Animation 1_16
+  - first:
+      213: -396676484581173431
+    second: Monster Aweken Animation 1_17
+  - first:
+      213: 2333933879198746450
+    second: Monster Aweken Animation 1_18
+  - first:
+      213: -2121208901743195444
+    second: Monster Aweken Animation 1_19
+  - first:
+      213: 8260751632609808528
+    second: Monster Aweken Animation 1_20
+  - first:
+      213: -3966391239950660356
+    second: Monster Aweken Animation 1_21
+  - first:
+      213: -5600695937186539257
+    second: Monster Aweken Animation 1_22
+  - first:
+      213: 6973746486402376767
+    second: Monster Aweken Animation 1_23
+  - first:
+      213: 8403322921828867392
+    second: Monster Aweken Animation 1_24
+  - first:
+      213: 3378368983414999372
+    second: Monster Aweken Animation 1_25
+  - first:
+      213: 1008019952846371862
+    second: Monster Aweken Animation 1_26
+  - first:
+      213: -133715484477130069
+    second: Monster Aweken Animation 1_27
+  - first:
+      213: -3091032447547509840
+    second: Monster Aweken Animation 1_28
+  - first:
+      213: -1975763926595379690
+    second: Monster Aweken Animation 1_29
+  - first:
+      213: 815586463486816866
+    second: Monster Aweken Animation 1_30
+  - first:
+      213: 6027903821136195508
+    second: Monster Aweken Animation 1_31
+  - first:
+      213: 7624295933971500494
+    second: Monster Aweken Animation 1_32
+  - first:
+      213: -5978479464621833667
+    second: Monster Aweken Animation 1_33
+  - first:
+      213: 7568212674478565393
+    second: Monster Aweken Animation 1_34
+  - first:
+      213: -5457145218540697113
+    second: Monster Aweken Animation 1_35
+  - first:
+      213: -1142881804444774032
+    second: Monster Aweken Animation 1_36
+  - first:
+      213: 1590687307643996683
+    second: Monster Aweken Animation 1_37
+  - first:
+      213: -954046250926164273
+    second: Monster Aweken Animation 1_38
+  - first:
+      213: -2933117207841957518
+    second: Monster Aweken Animation 1_39
+  - first:
+      213: 8562570618791116232
+    second: Monster Aweken Animation 1_40
+  - first:
+      213: 4023598735712514831
+    second: Monster Aweken Animation 1_41
+  - first:
+      213: -149393636067332535
+    second: Monster Aweken Animation 1_42
+  - first:
+      213: -5911301976643283311
+    second: Monster Aweken Animation 1_43
+  - first:
+      213: 56220129262839425
+    second: Monster Aweken Animation 1_44
+  - first:
+      213: 2496580649983928047
+    second: Monster Aweken Animation 1_45
+  - first:
+      213: -2327650654772429161
+    second: Monster Aweken Animation 1_46
+  - first:
+      213: -2529183320649923280
+    second: Monster Aweken Animation 1_47
+  - first:
+      213: 5508513322431654187
+    second: Monster Aweken Animation 1_48
+  - first:
+      213: -3518044166620465517
+    second: Monster Aweken Animation 1_49
+  - first:
+      213: 1285190932066283788
+    second: Monster Aweken Animation 1_50
+  - first:
+      213: 6007633541369473855
+    second: Monster Aweken Animation 1_51
+  - first:
+      213: -3793667653812233068
+    second: Monster Aweken Animation 1_52
+  - first:
+      213: -5016575002756838386
+    second: Monster Aweken Animation 1_53
+  - first:
+      213: 3707707650737742076
+    second: Monster Aweken Animation 1_54
+  - first:
+      213: 877065434538689229
+    second: Monster Aweken Animation 1_55
+  - first:
+      213: -1844807269824862616
+    second: Monster Aweken Animation 1_56
+  - first:
+      213: -2118697029315919040
+    second: Monster Aweken Animation 1_57
+  - first:
+      213: 3273905265945241470
+    second: Monster Aweken Animation 1_58
+  - first:
+      213: 4962233021314179465
+    second: Monster Aweken Animation 1_59
+  - first:
+      213: -3667395798105485169
+    second: Monster Aweken Animation 1_60
+  - first:
+      213: -2177193961527025522
+    second: Monster Aweken Animation 1_61
+  - first:
+      213: 1481958433247984383
+    second: Monster Aweken Animation 1_62
+  - first:
+      213: 1019965980395003696
+    second: Monster Aweken Animation 1_63
+  - first:
+      213: 5632161364683291740
+    second: Monster Aweken Animation 1_64
+  - first:
+      213: 2265927341659255525
+    second: Monster Aweken Animation 1_65
+  - first:
+      213: -7929171395246475069
+    second: Monster Aweken Animation 1_66
+  - first:
+      213: -2989179704139042162
+    second: Monster Aweken Animation 1_67
+  - first:
+      213: 1254309666052287819
+    second: Monster Aweken Animation 1_68
+  - first:
+      213: 4603667833251859090
+    second: Monster Aweken Animation 1_69
+  - first:
+      213: 3653775008158546183
+    second: Monster Aweken Animation 1_70
+  - first:
+      213: 8013733093900034044
+    second: Monster Aweken Animation 1_71
+  - first:
+      213: -2997791897010656006
+    second: Monster Aweken Animation 1_72
+  - first:
+      213: -6903396214495589581
+    second: Monster Aweken Animation 1_73
+  - first:
+      213: -8022205094021425381
+    second: Monster Aweken Animation 1_74
+  - first:
+      213: -3146949566154155199
+    second: Monster Aweken Animation 1_75
+  - first:
+      213: -86536784157371281
+    second: Monster Aweken Animation 1_76
+  - first:
+      213: 3059979518110370998
+    second: Monster Aweken Animation 1_77
+  - first:
+      213: 1852413558924547173
+    second: Monster Aweken Animation 1_78
+  - first:
+      213: 3708523988122896985
+    second: Monster Aweken Animation 1_79
+  - first:
+      213: 8040381187909127865
+    second: Monster Aweken Animation 1_80
+  - first:
+      213: 7237810144396029399
+    second: Monster Aweken Animation 1_81
+  - first:
+      213: -5044197201512390784
+    second: Monster Aweken Animation 1_82
+  - first:
+      213: -5802202716219190021
+    second: Monster Aweken Animation 1_83
+  - first:
+      213: -6806352924364678463
+    second: Monster Aweken Animation 1_84
+  - first:
+      213: -76804073390748180
+    second: Monster Aweken Animation 1_85
+  - first:
+      213: -3969334310723801468
+    second: Monster Aweken Animation 1_86
+  - first:
+      213: 4872864304228128043
+    second: Monster Aweken Animation 1_87
+  - first:
+      213: 4573257198083851131
+    second: Monster Aweken Animation 1_88
+  - first:
+      213: 5402380429462216879
+    second: Monster Aweken Animation 1_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf99447e0016f460800000000000000
+      internalID: 7275019902330183643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a0ad3bfd2818c0800000000000000
+      internalID: -4028419309588928569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde622c0250ee070800000000000000
+      internalID: 8137447214959488433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6160044ac3bac8b40800000000000000
+      internalID: 5443914326526133782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897d749ee6504ce0800000000000000
+      internalID: -1423041899555620473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06f2e8a78724fc0800000000000000
+      internalID: -3512112291628752721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd01d37ed02a9b20800000000000000
+      internalID: 3141859829842251218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0cfb1c357e28ed0800000000000000
+      internalID: -2413112103398293284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25469072aa0f940800000000000000
+      internalID: 5327945443817312960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_9
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 7200
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900853082ffb2b40800000000000000
+      internalID: 5416703524163027097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324622f65d67ef80800000000000000
+      internalID: -8077367186468486601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a276788c1eb160800000000000000
+      internalID: 7043098239682388646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_12
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2237d584740110800000000000000
+      internalID: 1226233116741479133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_13
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1486e290efabaa0800000000000000
+      internalID: -6144319426206875152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fd5bbcc6f70e7d0800000000000000
+      internalID: -2891170855520968809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6983593adce8ab0800000000000000
+      internalID: -5003836033495165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_16
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbe0b04bd46e070800000000000000
+      internalID: 8135275212566346888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_17
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d9c5c6d8be7af0800000000000000
+      internalID: -396676484581173431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_18
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25704e65f7cc36020800000000000000
+      internalID: 2333933879198746450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_19
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca43351eb3ff82e0800000000000000
+      internalID: -2121208901743195444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909f6fa7d514a270800000000000000
+      internalID: 8260751632609808528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc058e9e2c84f8c0800000000000000
+      internalID: -3966391239950660356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_22
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d50908b45642b0800000000000000
+      internalID: -5600695937186539257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_23
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3464ab1b79b7c060800000000000000
+      internalID: 6973746486402376767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_24
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd188bca99e9470800000000000000
+      internalID: 8403322921828867392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_25
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4906a8e0b062ee20800000000000000
+      internalID: 3378368983414999372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_26
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf9ef6ec43dfd00800000000000000
+      internalID: 1008019952846371862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_27
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa75cea972f42ef0800000000000000
+      internalID: -133715484477130069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_28
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b379bead527a15d0800000000000000
+      internalID: -3091032447547509840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_29
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e50434d2da494e0800000000000000
+      internalID: -1975763926595379690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262bfbf319b815b00800000000000000
+      internalID: 815586463486816866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfea0f869a67a350800000000000000
+      internalID: 6027903821136195508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd83d6b1c0fec960800000000000000
+      internalID: 7624295933971500494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328f3e2a9c280da0800000000000000
+      internalID: -5978479464621833667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11867ee4451b70960800000000000000
+      internalID: 7568212674478565393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_35
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9092146535444b0800000000000000
+      internalID: -5457145218540697113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_36
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071dfc9dd0ba320f0800000000000000
+      internalID: -1142881804444774032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_37
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac7d0bda1431610800000000000000
+      internalID: 1590687307643996683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_38
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b0425dfb82c2f0800000000000000
+      internalID: -954046250926164273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_39
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799ef590797b47d0800000000000000
+      internalID: -2933117207841957518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbd318c9c54d670800000000000000
+      internalID: 8562570618791116232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fad07bb1b6d730800000000000000
+      internalID: 4023598735712514831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_42
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea08e874f3dedf0800000000000000
+      internalID: -149393636067332535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_43
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dc12fb26d6fda0800000000000000
+      internalID: -5911301976643283311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_44
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18620f1e8ebb7c000800000000000000
+      internalID: 56220129262839425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_45
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e76bafd2a5a220800000000000000
+      internalID: 2496580649983928047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_46
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e7519df0682bfd0800000000000000
+      internalID: -2327650654772429161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_47
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03581d88b2986ecd0800000000000000
+      internalID: -2529183320649923280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_48
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ab007eab227c40800000000000000
+      internalID: 5508513322431654187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_49
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b37848756d2fc0800000000000000
+      internalID: -3518044166620465517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013d5ee75ae5d110800000000000000
+      internalID: 1285190932066283788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bac0640e66f5350800000000000000
+      internalID: 6007633541369473855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd1aa5e5f2a5bc0800000000000000
+      internalID: -3793667653812233068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_53
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c039b2d9b816ab0800000000000000
+      internalID: -5016575002756838386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_54
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a83dc67c647330800000000000000
+      internalID: 3707707650737742076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_55
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c376ad56fb2c00800000000000000
+      internalID: 877065434538689229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_56
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e703ff8de566e0800000000000000
+      internalID: -1844807269824862616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_57
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04303f4f640e892e0800000000000000
+      internalID: -2118697029315919040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_58
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7762f45e7f3f6d20800000000000000
+      internalID: 3273905265945241470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_59
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981252054a46dd440800000000000000
+      internalID: 4962233021314179465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80992bc3faca1dc0800000000000000
+      internalID: -3667395798105485169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806e0490ad09c1e0800000000000000
+      internalID: -2177193961527025522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_62
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf3a1e759f09410800000000000000
+      internalID: 1481958433247984383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_63
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f5d68b7a5a72e00800000000000000
+      internalID: 1019965980395003696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_64
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c70a3bbe4792e40800000000000000
+      internalID: 5632161364683291740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_65
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f17e69e0327f10800000000000000
+      internalID: 2265927341659255525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_66
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8352760ace5f190800000000000000
+      internalID: -7929171395246475069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_67
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823cfc75ec4486d0800000000000000
+      internalID: -2989179704139042162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_68
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da263eef3386110800000000000000
+      internalID: 1254309666052287819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_69
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8ed8c08383ef30800000000000000
+      internalID: 4603667833251859090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097d7ae201d4b230800000000000000
+      internalID: 3653775008158546183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff14b25acf763f60800000000000000
+      internalID: 8013733093900034044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_72
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca2241724b566d0800000000000000
+      internalID: -2997791897010656006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_73
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc63bf7b53230a0800000000000000
+      internalID: -6903396214495589581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_74
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17168f68f66ba090800000000000000
+      internalID: -8022205094021425381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_75
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bdf47fa0ac354d0800000000000000
+      internalID: -3146949566154155199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_76
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f649b48d04f8ccef0800000000000000
+      internalID: -86536784157371281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_77
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc80f4c82b377a20800000000000000
+      internalID: 3059979518110370998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_78
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56490dc315815b910800000000000000
+      internalID: 1852413558924547173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_79
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a84192be2577330800000000000000
+      internalID: 3708523988122896985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8e04371c259f60800000000000000
+      internalID: 8040381187909127865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_81
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda1709afdd17460800000000000000
+      internalID: 7237810144396029399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_82
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f95dade596ff9b0800000000000000
+      internalID: -5044197201512390784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_83
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d2f8fe5f6a7fa0800000000000000
+      internalID: -5802202716219190021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_84
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca5d4fa31afa81a0800000000000000
+      internalID: -6806352924364678463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_85
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcd382a132feef0800000000000000
+      internalID: -76804073390748180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_86
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea98e89771ae8c0800000000000000
+      internalID: -3969334310723801468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_87
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d2346444ef9340800000000000000
+      internalID: 4872864304228128043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_88
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7349460139777f30800000000000000
+      internalID: 4573257198083851131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Aweken Animation 1_89
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02e97a06c19fa40800000000000000
+      internalID: 5402380429462216879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

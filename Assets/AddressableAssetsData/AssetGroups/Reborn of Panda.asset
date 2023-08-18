@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Reborn of Panda
+  m_EditorClassIdentifier: 
+  m_GroupName: Reborn of Panda
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b8e22d6f0464a9a44b1386c618a76629
+  m_SerializeEntries:
+  - m_GUID: ae40dc6538bd3c6468dcb77afb5f9b65
+    m_Address: Assets/Scenes/Test 10.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8e26948cc1c11ab4e9b8bbd7e1825a50, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 85e3ec3ffaa2234479478eac43ed23f0, type: 2}
+    - {fileID: 11400000, guid: 4d732137ac427a0428db4405d5b62830, type: 2}

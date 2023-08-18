@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: 432e03e86f4021a47ab37c315ffad3dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -57033015491100369
+    second: Mermaid Peradise Animation_0
+  - first:
+      213: 890662547446789911
+    second: Mermaid Peradise Animation_1
+  - first:
+      213: -3257073640310945225
+    second: Mermaid Peradise Animation_2
+  - first:
+      213: -3071082213944160969
+    second: Mermaid Peradise Animation_3
+  - first:
+      213: -4273543807594226461
+    second: Mermaid Peradise Animation_4
+  - first:
+      213: -4403007014319378669
+    second: Mermaid Peradise Animation_5
+  - first:
+      213: 181244844467897718
+    second: Mermaid Peradise Animation_6
+  - first:
+      213: -6110471338616399358
+    second: Mermaid Peradise Animation_8
+  - first:
+      213: 1212278612234447861
+    second: Mermaid Peradise Animation_9
+  - first:
+      213: -7590976477525358613
+    second: Mermaid Peradise Animation_10
+  - first:
+      213: 1002928053591788254
+    second: Mermaid Peradise Animation_11
+  - first:
+      213: 8940685259348851091
+    second: Mermaid Peradise Animation_12
+  - first:
+      213: 8152661169432414144
+    second: Mermaid Peradise Animation_13
+  - first:
+      213: 5978203553840891050
+    second: Mermaid Peradise Animation_14
+  - first:
+      213: 3717288874577213855
+    second: Mermaid Peradise Animation_15
+  - first:
+      213: 3274548606567205782
+    second: Mermaid Peradise Animation_16
+  - first:
+      213: -4243375600765640524
+    second: Mermaid Peradise Animation_18
+  - first:
+      213: -7229788276998370739
+    second: Mermaid Peradise Animation_19
+  - first:
+      213: 4844076711994731349
+    second: Mermaid Peradise Animation_20
+  - first:
+      213: 5579888071329566710
+    second: Mermaid Peradise Animation_21
+  - first:
+      213: -7239746477234553714
+    second: Mermaid Peradise Animation_22
+  - first:
+      213: -2138035160615272436
+    second: Mermaid Peradise Animation_23
+  - first:
+      213: 7624748651540530617
+    second: Mermaid Peradise Animation_24
+  - first:
+      213: 2756726658289440627
+    second: Mermaid Peradise Animation_25
+  - first:
+      213: -3306360961354874430
+    second: Mermaid Peradise Animation_26
+  - first:
+      213: 7401966582415518123
+    second: Mermaid Peradise Animation_28
+  - first:
+      213: -6763775518416215642
+    second: Mermaid Peradise Animation_29
+  - first:
+      213: 8440195711935296670
+    second: Mermaid Peradise Animation_30
+  - first:
+      213: -7902770378398647613
+    second: Mermaid Peradise Animation_31
+  - first:
+      213: 4182447756009195783
+    second: Mermaid Peradise Animation_32
+  - first:
+      213: -1345370475772770620
+    second: Mermaid Peradise Animation_33
+  - first:
+      213: -3465266542139692966
+    second: Mermaid Peradise Animation_34
+  - first:
+      213: -6485631449602299256
+    second: Mermaid Peradise Animation_35
+  - first:
+      213: -8045319111767097004
+    second: Mermaid Peradise Animation_36
+  - first:
+      213: -6330234444855781126
+    second: Mermaid Peradise Animation_38
+  - first:
+      213: 3274462774232033145
+    second: Mermaid Peradise Animation_39
+  - first:
+      213: 1286984365599473310
+    second: Mermaid Peradise Animation_40
+  - first:
+      213: -7761202151219272327
+    second: Mermaid Peradise Animation_41
+  - first:
+      213: 8505796114730445920
+    second: Mermaid Peradise Animation_42
+  - first:
+      213: 971954504290307521
+    second: Mermaid Peradise Animation_43
+  - first:
+      213: 6838692406751816312
+    second: Mermaid Peradise Animation_44
+  - first:
+      213: 7831186949391153666
+    second: Mermaid Peradise Animation_45
+  - first:
+      213: -7340978106488206273
+    second: Mermaid Peradise Animation_46
+  - first:
+      213: 6490234892268849401
+    second: Mermaid Peradise Animation_48
+  - first:
+      213: -3220600847787701949
+    second: Mermaid Peradise Animation_49
+  - first:
+      213: 5178316104560516836
+    second: Mermaid Peradise Animation_50
+  - first:
+      213: -3132773003022708479
+    second: Mermaid Peradise Animation_51
+  - first:
+      213: -8037729123004344655
+    second: Mermaid Peradise Animation_52
+  - first:
+      213: -4116164256480831539
+    second: Mermaid Peradise Animation_53
+  - first:
+      213: -5110066258715769459
+    second: Mermaid Peradise Animation_54
+  - first:
+      213: -2895202127741238574
+    second: Mermaid Peradise Animation_55
+  - first:
+      213: -2829107572600210502
+    second: Mermaid Peradise Animation_56
+  - first:
+      213: -2699862256307063768
+    second: Mermaid Peradise Animation_58
+  - first:
+      213: -7887211967006541891
+    second: Mermaid Peradise Animation_59
+  - first:
+      213: -2411045965493713590
+    second: Mermaid Peradise Animation_60
+  - first:
+      213: 604381922283837562
+    second: Mermaid Peradise Animation_61
+  - first:
+      213: -6464360625012830237
+    second: Mermaid Peradise Animation_62
+  - first:
+      213: 1462429863013504847
+    second: Mermaid Peradise Animation_63
+  - first:
+      213: -2098379227503656100
+    second: Mermaid Peradise Animation_64
+  - first:
+      213: 2947493311528249374
+    second: Mermaid Peradise Animation_65
+  - first:
+      213: -8928545909209247689
+    second: Mermaid Peradise Animation_66
+  - first:
+      213: 4244790135110062801
+    second: Mermaid Peradise Animation_68
+  - first:
+      213: 109535146974605602
+    second: Mermaid Peradise Animation_69
+  - first:
+      213: -5534419727373170766
+    second: Mermaid Peradise Animation_70
+  - first:
+      213: -4751733608902868907
+    second: Mermaid Peradise Animation_71
+  - first:
+      213: 5546504517120428886
+    second: Mermaid Peradise Animation_72
+  - first:
+      213: -8736081137540639690
+    second: Mermaid Peradise Animation_73
+  - first:
+      213: -4188547026777065072
+    second: Mermaid Peradise Animation_74
+  - first:
+      213: -3103607260248528796
+    second: Mermaid Peradise Animation_75
+  - first:
+      213: 4860742974285854069
+    second: Mermaid Peradise Animation_76
+  - first:
+      213: 4308965140068491005
+    second: Mermaid Peradise Animation_78
+  - first:
+      213: -8542797264475515180
+    second: Mermaid Peradise Animation_79
+  - first:
+      213: 5890118739373189916
+    second: Mermaid Peradise Animation_80
+  - first:
+      213: 2461930448695514339
+    second: Mermaid Peradise Animation_81
+  - first:
+      213: 4181965801087276908
+    second: Mermaid Peradise Animation_82
+  - first:
+      213: 1176168123878544415
+    second: Mermaid Peradise Animation_83
+  - first:
+      213: 2133029663064832358
+    second: Mermaid Peradise Animation_84
+  - first:
+      213: 6220339582113764131
+    second: Mermaid Peradise Animation_85
+  - first:
+      213: -6585423223403712774
+    second: Mermaid Peradise Animation_86
+  - first:
+      213: -8965833674114852560
+    second: Mermaid Peradise Animation_88
+  - first:
+      213: 6905316360308109848
+    second: Mermaid Peradise Animation_89
+  - first:
+      213: 1656667795363796250
+    second: Mermaid Peradise Animation_7
+  - first:
+      213: -3480830102939946597
+    second: Mermaid Peradise Animation_17
+  - first:
+      213: 6323772433315970211
+    second: Mermaid Peradise Animation_27
+  - first:
+      213: -3393832932927759846
+    second: Mermaid Peradise Animation_37
+  - first:
+      213: -5745246286762300605
+    second: Mermaid Peradise Animation_47
+  - first:
+      213: 3835982354469496816
+    second: Mermaid Peradise Animation_57
+  - first:
+      213: -7113829728684831417
+    second: Mermaid Peradise Animation_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210f2b46c0653ff0800000000000000
+      internalID: -57033015491100369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177f433ed44c5c00800000000000000
+      internalID: 890662547446789911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a4af5e7cc8cc2d0800000000000000
+      internalID: -3257073640310945225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d86d96ff25165d0800000000000000
+      internalID: -3071082213944160969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec96489c8251b4c0800000000000000
+      internalID: -4273543807594226461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa0f7d27065e2c0800000000000000
+      internalID: -4403007014319378669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67541ebc939e38200800000000000000
+      internalID: 181244844467897718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a509331be333ba0800000000000000
+      internalID: -6110471338616399358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fba90399f0e2d010800000000000000
+      internalID: 1212278612234447861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be741c6cc1f67a690800000000000000
+      internalID: -7590976477525358613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edacc9140cd1bed00800000000000000
+      internalID: 1002928053591788254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_12
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3993f04afd1b31c70800000000000000
+      internalID: 8940685259348851091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_13
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c3229322142170800000000000000
+      internalID: 8152661169432414144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40aa55578d6f250800000000000000
+      internalID: 5978203553840891050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_15
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99bfa05986769330800000000000000
+      internalID: 3717288874577213855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_16
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b403ebb98817d20800000000000000
+      internalID: 3274548606567205782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0edcb9f508c15c0800000000000000
+      internalID: -4243375600765640524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8a3cfdd1aaab90800000000000000
+      internalID: -7229788276998370739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b2033ca1e993340800000000000000
+      internalID: 4844076711994731349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc90a23aebf6d40800000000000000
+      internalID: 5579888071329566710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_22
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7c80dfe0478b90800000000000000
+      internalID: -7239746477234553714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004b36695c2452e0800000000000000
+      internalID: -2138035160615272436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_24
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b546bc308c80d960800000000000000
+      internalID: 7624748651540530617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_25
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377113a3a4cd14620800000000000000
+      internalID: 2756726658289440627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_26
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4500
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1493739327d12d0800000000000000
+      internalID: -3306360961354874430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba96030b36119b660800000000000000
+      internalID: 7401966582415518123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16154800e3222a0800000000000000
+      internalID: -6763775518416215642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bdac2849912570800000000000000
+      internalID: 8440195711935296670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_31
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab1162638b35290800000000000000
+      internalID: -7902770378398647613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_32
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ce84131a0b0a30800000000000000
+      internalID: 4182447756009195783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_33
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6044c2ea8445de0800000000000000
+      internalID: -1345370475772770620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_34
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a7bf8076e8efc0800000000000000
+      internalID: -3465266542139692966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_35
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a6a561f886ef5a0800000000000000
+      internalID: -6485631449602299256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451067ec4e8495090800000000000000
+      internalID: -8045319111767097004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8dd69bf4d7628a0800000000000000
+      internalID: -6330234444855781126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97727585b8a317d20800000000000000
+      internalID: 3274462774232033145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_50
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee930baf031dd740800000000000000
+      internalID: 5178316104560516836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_51
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d5e84d872684d0800000000000000
+      internalID: -3132773003022708479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_52
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69386c2ff347090800000000000000
+      internalID: -8037729123004344655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_53
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7dc47ca6270e6c0800000000000000
+      internalID: -4116164256480831539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85898edfc56519b0800000000000000
+      internalID: -5110066258715769459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d24707110d22d7d0800000000000000
+      internalID: -2895202127741238574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_56
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbfbc7e6adfcb8d0800000000000000
+      internalID: -2829107572600210502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82435561599288ad0800000000000000
+      internalID: -2699862256307063768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_60
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45cb99f77e3a8ed0800000000000000
+      internalID: -2411045965493713590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_61
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78556af722336800800000000000000
+      internalID: 604381922283837562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_62
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef861ed24af946a0800000000000000
+      internalID: -6464360625012830237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d7dd46389b4410800000000000000
+      internalID: 1462429863013504847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_64
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c530694d53f01e2e0800000000000000
+      internalID: -2098379227503656100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_65
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e182b73ec8997e820800000000000000
+      internalID: 2947493311528249374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_66
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d0d01dce671480800000000000000
+      internalID: -8928545909209247689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_68
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25155532688ea30800000000000000
+      internalID: 4244790135110062801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_69
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22177d5c2a5258100800000000000000
+      internalID: 109535146974605602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_70
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70200a49ac133b0800000000000000
+      internalID: -5534419727373170766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_71
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504f0e55737e0eb0800000000000000
+      internalID: -4751733608902868907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 6300
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a151d7d159aadf610800000000000000
+      internalID: 1656667795363796250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5400
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9137cea67b91bfc0800000000000000
+      internalID: -3480830102939946597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb438f58d82c750800000000000000
+      internalID: 6323772433315970211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a91d5cdeea6e0d0800000000000000
+      internalID: -3393832932927759846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_40
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb90736794cd110800000000000000
+      internalID: 1286984365599473310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_41
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e39a93cbaa4490800000000000000
+      internalID: -7761202151219272327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_42
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce76e2088aa0670800000000000000
+      internalID: 8505796114730445920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_43
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8016d8731d7d00800000000000000
+      internalID: 971954504290307521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_44
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2700
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a6a90d28ae7ee50800000000000000
+      internalID: 6838692406751816312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a72200a07fdac60800000000000000
+      internalID: 7831186949391153666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc9da6e4b9f1a90800000000000000
+      internalID: -7340978106488206273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba66a11f8c440b0800000000000000
+      internalID: -5745246286762300605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_48
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c78e6f32f11a50800000000000000
+      internalID: 6490234892268849401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_49
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1800
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349ca48a7902e43d0800000000000000
+      internalID: -3220600847787701949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_57
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f722d2a0a52c3530800000000000000
+      internalID: 3835982354469496816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_59
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 900
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db77d56118efa8290800000000000000
+      internalID: -7887211967006541891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mermaid Peradise Animation_67
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d802d6d89964d90800000000000000
+      internalID: -7113829728684831417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

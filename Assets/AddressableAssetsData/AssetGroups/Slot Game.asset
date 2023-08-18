@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Slot Game
+  m_EditorClassIdentifier: 
+  m_GroupName: Slot Game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eb3682f8c12a5334a8660d3bf2099ddd
+  m_SerializeEntries:
+  - m_GUID: 1c3cd3b2c6ef5a146acbc6d70c50c319
+    m_Address: Assets/Scenes/PiggyBankGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8b4f240a9f88e614b86d1d6659d9f4e4
+    m_Address: Assets/Scenes/PhoenixGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 456681d200038054bbaee4efc31f8f3a
+    m_Address: Assets/Scenes/EgyptGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8580da17ce8b041aba71617fc591e8e7
+    m_Address: Assets/Scenes/DuofuGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5438549bc38032041a66f9983e8a32c4
+    m_Address: Assets/Scenes/ChristmasGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f904c9fe1343b84f832cb1c729828cb
+    m_Address: Assets/Scenes/VegasGame.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8e26948cc1c11ab4e9b8bbd7e1825a50, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eec560e80a01b7d4e84df1608718d04b, type: 2}
+    - {fileID: 11400000, guid: 096a63ef5d5e84042bdae9c60b5fb8be, type: 2}

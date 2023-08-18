@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: e631ca9526f97dc478563612988d7332
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4322297237324877781
+    second: Elelctric Animation_0
+  - first:
+      213: 1251857643968561769
+    second: Elelctric Animation_1
+  - first:
+      213: -3988489714338130082
+    second: Elelctric Animation_2
+  - first:
+      213: -3039419188012019182
+    second: Elelctric Animation_3
+  - first:
+      213: 9000231769042943864
+    second: Elelctric Animation_4
+  - first:
+      213: -1673644735882300933
+    second: Elelctric Animation_5
+  - first:
+      213: -6761749745366255403
+    second: Elelctric Animation_6
+  - first:
+      213: 2094415200271986802
+    second: Elelctric Animation_7
+  - first:
+      213: -6915287475180568579
+    second: Elelctric Animation_8
+  - first:
+      213: 6975963498877711617
+    second: Elelctric Animation_9
+  - first:
+      213: -465777821490527500
+    second: Elelctric Animation_10
+  - first:
+      213: -6915721492805880793
+    second: Elelctric Animation_11
+  - first:
+      213: -5038274957317436345
+    second: Elelctric Animation_12
+  - first:
+      213: 8236840784971717129
+    second: Elelctric Animation_13
+  - first:
+      213: 1091054033497964720
+    second: Elelctric Animation_14
+  - first:
+      213: -8036683218929627299
+    second: Elelctric Animation_15
+  - first:
+      213: 8972397381645068223
+    second: Elelctric Animation_16
+  - first:
+      213: 4270235995151070013
+    second: Elelctric Animation_17
+  - first:
+      213: -7980808232375068813
+    second: Elelctric Animation_18
+  - first:
+      213: -5999948400675271033
+    second: Elelctric Animation_19
+  - first:
+      213: 5289591630996758399
+    second: Elelctric Animation_20
+  - first:
+      213: -2629695933971966060
+    second: Elelctric Animation_21
+  - first:
+      213: 6577993584963171038
+    second: Elelctric Animation_22
+  - first:
+      213: 6162264276675016813
+    second: Elelctric Animation_23
+  - first:
+      213: -1767167081038643350
+    second: Elelctric Animation_24
+  - first:
+      213: 3730084605126262786
+    second: Elelctric Animation_25
+  - first:
+      213: 2309006907531574698
+    second: Elelctric Animation_26
+  - first:
+      213: -5733908918699039216
+    second: Elelctric Animation_27
+  - first:
+      213: 2634671752598979564
+    second: Elelctric Animation_28
+  - first:
+      213: -2886745758096865296
+    second: Elelctric Animation_29
+  - first:
+      213: 2270326898932215318
+    second: Elelctric Animation_30
+  - first:
+      213: 9078487754875945834
+    second: Elelctric Animation_31
+  - first:
+      213: -7796546191836188562
+    second: Elelctric Animation_32
+  - first:
+      213: 4888903299221497901
+    second: Elelctric Animation_33
+  - first:
+      213: -8619310871611835320
+    second: Elelctric Animation_34
+  - first:
+      213: -5778393772719839816
+    second: Elelctric Animation_35
+  - first:
+      213: -8833681346902331251
+    second: Elelctric Animation_36
+  - first:
+      213: 951967367118601044
+    second: Elelctric Animation_37
+  - first:
+      213: 7271335195775521338
+    second: Elelctric Animation_38
+  - first:
+      213: -7385682424705777919
+    second: Elelctric Animation_39
+  - first:
+      213: 4880302528755119323
+    second: Elelctric Animation_40
+  - first:
+      213: -2133373302727738173
+    second: Elelctric Animation_41
+  - first:
+      213: -795897515230997533
+    second: Elelctric Animation_42
+  - first:
+      213: 2328717087789623226
+    second: Elelctric Animation_43
+  - first:
+      213: -4710236060653528243
+    second: Elelctric Animation_44
+  - first:
+      213: 7561662382330811995
+    second: Elelctric Animation_45
+  - first:
+      213: 808034997013975160
+    second: Elelctric Animation_46
+  - first:
+      213: 3592587970277991048
+    second: Elelctric Animation_47
+  - first:
+      213: 6779957138563164841
+    second: Elelctric Animation_48
+  - first:
+      213: -2962234430104705684
+    second: Elelctric Animation_49
+  - first:
+      213: 693188239145546672
+    second: Elelctric Animation_50
+  - first:
+      213: -1926040279711211677
+    second: Elelctric Animation_51
+  - first:
+      213: 3197363849187317431
+    second: Elelctric Animation_52
+  - first:
+      213: -7836673720844041465
+    second: Elelctric Animation_53
+  - first:
+      213: -9215002522759366462
+    second: Elelctric Animation_54
+  - first:
+      213: 6943698605649111551
+    second: Elelctric Animation_55
+  - first:
+      213: 8778230833359981499
+    second: Elelctric Animation_56
+  - first:
+      213: 5634442871723688263
+    second: Elelctric Animation_57
+  - first:
+      213: -5710339929186174643
+    second: Elelctric Animation_58
+  - first:
+      213: -2172774651823414798
+    second: Elelctric Animation_59
+  - first:
+      213: 4230743881511839525
+    second: Elelctric Animation_60
+  - first:
+      213: -401005641636292973
+    second: Elelctric Animation_61
+  - first:
+      213: 7959573752398728168
+    second: Elelctric Animation_62
+  - first:
+      213: 6225539277992968028
+    second: Elelctric Animation_63
+  - first:
+      213: -1546019847287090249
+    second: Elelctric Animation_64
+  - first:
+      213: 5640389131535990562
+    second: Elelctric Animation_65
+  - first:
+      213: 4348747845709954748
+    second: Elelctric Animation_66
+  - first:
+      213: 859420467761769161
+    second: Elelctric Animation_67
+  - first:
+      213: -1857094943521354804
+    second: Elelctric Animation_68
+  - first:
+      213: -3999022563797310721
+    second: Elelctric Animation_69
+  - first:
+      213: -2601339094399236335
+    second: Elelctric Animation_70
+  - first:
+      213: 1159170289256946810
+    second: Elelctric Animation_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elelctric Animation_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc664df62ebfb30800000000000000
+      internalID: 4322297237324877781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628a1205ed7f5110800000000000000
+      internalID: 1251857643968561769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57939a9cb906a8c0800000000000000
+      internalID: -3988489714338130082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212990f1a50d1d5d0800000000000000
+      internalID: -3039419188012019182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_4
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7df1db1f37ec70800000000000000
+      internalID: 9000231769042943864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_5
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17885eaf406c8e0800000000000000
+      internalID: -1673644735882300933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_6
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83b5f8e607922a0800000000000000
+      internalID: -6761749745366255403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_7
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 4950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f368278bd01d10800000000000000
+      internalID: 2094415200271986802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff772a1ea6f700a0800000000000000
+      internalID: -6915287475180568579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10572bc87d99fc060800000000000000
+      internalID: 6975963498877711617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24dc50a893989f0800000000000000
+      internalID: -465777821490527500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72475cf71fb6600a0800000000000000
+      internalID: -6915721492805880793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_12
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0958ce93741ab0800000000000000
+      internalID: -5038274957317436345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_13
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a50b3ad032f4270800000000000000
+      internalID: 8236840784971717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_14
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b04761ecd3342f00800000000000000
+      internalID: 1091054033497964720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_15
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 4350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f4b5b4137f77090800000000000000
+      internalID: -8036683218929627299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7699c71eb548c70800000000000000
+      internalID: 8972397381645068223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f01e430de24b30800000000000000
+      internalID: 4270235995151070013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37755c062397e3190800000000000000
+      internalID: -7980808232375068813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec31bf7b6ebbca0800000000000000
+      internalID: -5999948400675271033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_20
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fd07c1097686940800000000000000
+      internalID: 5289591630996758399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_21
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497df441b71718bd0800000000000000
+      internalID: -2629695933971966060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_22
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed23786505ab94b50800000000000000
+      internalID: 6577993584963171038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_23
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 3750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683b47e5b2c48550800000000000000
+      internalID: 6162264276675016813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7de317e2c977e0800000000000000
+      internalID: -1767167081038643350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20044be7f2ce3c330800000000000000
+      internalID: 3730084605126262786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_26
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb75b7c8d3b0020800000000000000
+      internalID: 2309006907531574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_27
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ef7ec7301d60b0800000000000000
+      internalID: -5733908918699039216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_28
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce30b69fffb309420800000000000000
+      internalID: 2634671752598979564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_29
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f745c3170830f7d0800000000000000
+      internalID: -2886745758096865296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_30
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6ede2942d18f10800000000000000
+      internalID: 2270326898932215318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_31
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 3150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634d1f53844dfd70800000000000000
+      internalID: 9078487754875945834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60fda0eb8a1dc390800000000000000
+      internalID: -7796546191836188562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28255be5afd8d340800000000000000
+      internalID: 4888903299221497901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_34
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf9e8ed6e026880800000000000000
+      internalID: -8619310871611835320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_35
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b564bc9a750fcfa0800000000000000
+      internalID: -5778393772719839816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_36
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8074ea2e95786580800000000000000
+      internalID: -8833681346902331251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_37
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3ed2d641163d00800000000000000
+      internalID: 951967367118601044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_38
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32defad5d8f8e460800000000000000
+      internalID: 7271335195775521338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_39
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 2550
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff09b37f8c08990800000000000000
+      internalID: -7385682424705777919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b3eefa415ab340800000000000000
+      internalID: 4880302528755119323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7c95c84cb462e0800000000000000
+      internalID: -2133373302727738173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_42
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35a0f3d6764f4f0800000000000000
+      internalID: -795897515230997533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab725107ad3415020800000000000000
+      internalID: 2328717087789623226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_44
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd28c3241e1aeb0800000000000000
+      internalID: -4710236060653528243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_45
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5613429fdb60f860800000000000000
+      internalID: 7561662382330811995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_46
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701a137c87b63b00800000000000000
+      internalID: 808034997013975160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_47
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 1950
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e2c089bf6bd130800000000000000
+      internalID: 3592587970277991048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6e64881f371e50800000000000000
+      internalID: 6779957138563164841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656d2cfa7704e6d0800000000000000
+      internalID: -2962234430104705684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_50
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bfb4e703be9900800000000000000
+      internalID: 693188239145546672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_51
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f18b8f1945545e0800000000000000
+      internalID: -1926040279711211677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_52
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65c700b715f5c20800000000000000
+      internalID: 3197363849187317431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_53
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c37875ca8e3390800000000000000
+      internalID: -7836673720844041465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_54
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8799a570cbd1080800000000000000
+      internalID: -9215002522759366462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_55
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 1350
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff92711b719fc5060800000000000000
+      internalID: 6943698605649111551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb8dc21f6a82d970800000000000000
+      internalID: 8778230833359981499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_57
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741825470ff813e40800000000000000
+      internalID: 5634442871723688263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_58
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f02ec61cc0c0b0800000000000000
+      internalID: -5710339929186174643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_59
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a71d47f0c8d1e0800000000000000
+      internalID: -2172774651823414798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_60
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ab21152f96ba30800000000000000
+      internalID: 4230743881511839525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_61
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39657595e775f6af0800000000000000
+      internalID: -401005641636292973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_62
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebcf3bf726167e60800000000000000
+      internalID: 7959573752398728168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_63
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 750
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f33003dfe856650800000000000000
+      internalID: 6225539277992968028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3dfbad32f6b8ae0800000000000000
+      internalID: -1546019847287090249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_65
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f3d24f700b64e40800000000000000
+      internalID: 5640389131535990562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_66
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7941002bd95c30800000000000000
+      internalID: 4348747845709954748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_67
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae3adac564deb00800000000000000
+      internalID: 859420467761769161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_68
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4c39fcf54a36e0800000000000000
+      internalID: -1857094943521354804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_69
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e61c7a2e9088c0800000000000000
+      internalID: -3999022563797310721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_70
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174ff940ef26ebd0800000000000000
+      internalID: -2601339094399236335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elelctric Animation_71
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 150
+        width: 275
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cd85d8c33361010800000000000000
+      internalID: 1159170289256946810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

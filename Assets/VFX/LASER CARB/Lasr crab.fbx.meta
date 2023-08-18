@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 9f6f166f8a9fe3149921fcd9cbb11621
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -6637541706296831487
+    second: Crab Armature|Armature.001|Armature|ArmatureAction|Armature|ArmatureAction
+  - first:
+      74: -8434097930284849975
+    second: Crab Armature|Armature.001|Armature|Cube.001Action.001|Armature|Cube.001Actio
+  - first:
+      74: 2196798486870347728
+    second: Crab Armature|Armature.001|Armature|Cube.001Action.002|Armature|Cube.001Actio
+  - first:
+      74: 7612220775814822821
+    second: Crab Armature|Armature.001|Armature|Cube.001Action.003|Armature|Cube.001Actio
+  - first:
+      74: -6183545831873181342
+    second: Crab Armature|Armature.001|Armature|Cube.001Action.004|Armature|Cube.001Actio
+  - first:
+      74: 3863353011097636543
+    second: Crab Armature|Armature.001|Armature|Cube.001Action.005|Armature|Cube.001Actio
+  - first:
+      74: 2536994016430731173
+    second: Crab Armature|Armature.001|Armature|Cube.001Action|Armature|Cube.001Action
+  - first:
+      74: 3189593943149340011
+    second: Crab Armature|Armature.001|Armature|Cube.003Action.001|Armature|Cube.003Actio
+  - first:
+      74: 3027498444619261744
+    second: Crab Armature|Armature.001|Armature|Cube.003Action.002|Armature|Cube.003Actio
+  - first:
+      74: 1206184305614302550
+    second: Crab Armature|Armature.001|Armature|Cube.003Action.003|Armature|Cube.003Actio
+  - first:
+      74: -8428005702216886995
+    second: Crab Armature|Armature.001|Armature|Cube.003Action|Armature|Cube.003Action
+  - first:
+      74: 5590445128703912373
+    second: Crab Armature|Armature.001|Armature|Electromagnatic crab.001Action|Armature|E
+  - first:
+      74: 4253414543275141728
+    second: Crab Armature|Armature.001|Armature|Shader NodetreeAction.001|Armature|Shader
+  - first:
+      74: -9153912826987289165
+    second: Crab Armature|laser base.001|laser base|Cube.001Action.001|laser base|Cube.00
+  - first:
+      74: -459547823028594773
+    second: Crab Armature|laser base.001|laser base|Cube.001Action.002|laser base|Cube.00
+  - first:
+      74: -8015693293338450700
+    second: Crab Armature|laser base.001|laser base|Cube.001Action.003|laser base|Cube.00
+  - first:
+      74: 2124837950872156268
+    second: Crab Armature|laser base.001|laser base|Cube.001Action.004|laser base|Cube.00
+  - first:
+      74: 4836174670869847748
+    second: Crab Armature|laser base.001|laser base|Cube.001Action.005|laser base|Cube.00
+  - first:
+      74: 4933304853433775751
+    second: Crab Armature|laser base.001|laser base|Cube.001Action|laser base|Cube.001Act
+  - first:
+      74: -8112720443122618121
+    second: Crab Armature|laser base.001|laser base|Cube.003Action.001|laser base|Cube.00
+  - first:
+      74: -2696039603497438984
+    second: Crab Armature|laser base.001|laser base|Cube.003Action.002|laser base|Cube.00
+  - first:
+      74: -6679281387038195910
+    second: Crab Armature|laser base.001|laser base|Cube.003Action.003|laser base|Cube.00
+  - first:
+      74: 1407960712559129926
+    second: Crab Armature|laser base.001|laser base|Cube.003Action|laser base|Cube.003Act
+  - first:
+      74: 8659075358345490975
+    second: 'Crab Armature|laser base.001|laser base|Electromagnatic crab.001Action|laser '
+  - first:
+      74: -6058701370272009777
+    second: Crab Armature|laser base.001|laser base|Shader NodetreeAction.001|laser
+      base|
+  - first:
+      74: -254783819314226271
+    second: Crab Armature|laser.001|laser|Cube.001Action.001|laser|Cube.001Action.001
+  - first:
+      74: -1494648764918488208
+    second: Crab Armature|laser.001|laser|Cube.001Action.002|laser|Cube.001Action.002
+  - first:
+      74: -2213918173069679504
+    second: Crab Armature|laser.001|laser|Cube.001Action.003|laser|Cube.001Action.003
+  - first:
+      74: -7419309853513718574
+    second: Crab Armature|laser.001|laser|Cube.001Action.004|laser|Cube.001Action.004
+  - first:
+      74: 8004624511341317024
+    second: Crab Armature|laser.001|laser|Cube.001Action.005|laser|Cube.001Action.005
+  - first:
+      74: -4373186805634225406
+    second: Crab Armature|laser.001|laser|Cube.001Action|laser|Cube.001Action
+  - first:
+      74: 356816255065987565
+    second: Crab Armature|laser.001|laser|Cube.003Action.001|laser|Cube.003Action.001
+  - first:
+      74: 7034053361836633038
+    second: Crab Armature|laser.001|laser|Cube.003Action.002|laser|Cube.003Action.002
+  - first:
+      74: 4352203545640474317
+    second: Crab Armature|laser.001|laser|Cube.003Action.003|laser|Cube.003Action.003
+  - first:
+      74: 4047902475969256612
+    second: Crab Armature|laser.001|laser|Cube.003Action|laser|Cube.003Action
+  - first:
+      74: -4420775305490365560
+    second: Crab Armature|laser.001|laser|Electromagnatic crab.001Action|laser|Electromag
+  - first:
+      74: -1869099976076923266
+    second: Crab Armature|laser.001|laser|Shader NodetreeAction.001|laser|Shader
+      Nodetree
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 867ac428a79066c499a4efb51c89d4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_Laser Crab.001
+    second: {fileID: 2100000, guid: 29004def32561ab40bb60870bfd9b73d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Crab Armature|Armature.001|Armature|ArmatureAction|Armature|ArmatureAction
+      takeName: Crab Armature|Armature.001|Armature|ArmatureAction|Armature|ArmatureAction
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

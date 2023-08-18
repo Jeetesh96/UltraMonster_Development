@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 8b724dfb24dc2934882cad7e9947928f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4041948204617677894
+    second: Angular fish_0
+  - first:
+      213: -2873169931190993315
+    second: Angular fish_1
+  - first:
+      213: 4126850073407411163
+    second: Angular fish_2
+  - first:
+      213: 43314983303759992
+    second: Angular fish_3
+  - first:
+      213: 7971853915490083029
+    second: Angular fish_4
+  - first:
+      213: 4948778389778421655
+    second: Angular fish_5
+  - first:
+      213: -7406480001107749657
+    second: Angular fish_6
+  - first:
+      213: 626701698176727637
+    second: Angular fish_7
+  - first:
+      213: -4423875237666001709
+    second: Angular fish_8
+  - first:
+      213: 4920855180285859106
+    second: Angular fish_9
+  - first:
+      213: 1407632090331421731
+    second: Angular fish_10
+  - first:
+      213: -639380032180001271
+    second: Angular fish_11
+  - first:
+      213: 5911204158391517055
+    second: Angular fish_12
+  - first:
+      213: 1859627671745348827
+    second: Angular fish_13
+  - first:
+      213: -3221820373600983866
+    second: Angular fish_14
+  - first:
+      213: -7590427219650514226
+    second: Angular fish_15
+  - first:
+      213: 2436544349303530404
+    second: Angular fish_16
+  - first:
+      213: -3228589716826686903
+    second: Angular fish_17
+  - first:
+      213: 4283907746210542975
+    second: Angular fish_18
+  - first:
+      213: -3139544875045575937
+    second: Angular fish_19
+  - first:
+      213: 872568697503473948
+    second: Angular fish_20
+  - first:
+      213: -6959600927302726170
+    second: Angular fish_21
+  - first:
+      213: 5275373702327692659
+    second: Angular fish_22
+  - first:
+      213: -8069866038012434169
+    second: Angular fish_23
+  - first:
+      213: 5798757973313960315
+    second: Angular fish_24
+  - first:
+      213: 8884909853361697185
+    second: Angular fish_25
+  - first:
+      213: -5514251029982274928
+    second: Angular fish_26
+  - first:
+      213: 8462229200220259079
+    second: Angular fish_27
+  - first:
+      213: 3464791614430658182
+    second: Angular fish_28
+  - first:
+      213: 895751371192985391
+    second: Angular fish_29
+  - first:
+      213: -7503153404427507521
+    second: Angular fish_30
+  - first:
+      213: -397621148135094378
+    second: Angular fish_31
+  - first:
+      213: 1051812485772397728
+    second: Angular fish_32
+  - first:
+      213: 4272051707262349322
+    second: Angular fish_33
+  - first:
+      213: -7027847195224017918
+    second: Angular fish_34
+  - first:
+      213: -7033810322139939514
+    second: Angular fish_35
+  - first:
+      213: -5426761980801904472
+    second: Angular fish_36
+  - first:
+      213: -3216603716182309976
+    second: Angular fish_37
+  - first:
+      213: -2397050302106565289
+    second: Angular fish_38
+  - first:
+      213: -4025265513349846012
+    second: Angular fish_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angular fish_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1320
+        width: 332
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34c37e58d18e7c0800000000000000
+      internalID: -4041948204617677894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1320
+        width: 329
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef6089b237028d0800000000000000
+      internalID: -2873169931190993315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1320
+        width: 327
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35ebad644854930800000000000000
+      internalID: 4126850073407411163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_3
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1320
+        width: 328
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878c5417fb2e99000800000000000000
+      internalID: 43314983303759992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_4
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1320
+        width: 332
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e71246e6b1ae60800000000000000
+      internalID: 7971853915490083029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_5
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1320
+        width: 336
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975fdac9b79da440800000000000000
+      internalID: 4948778389778421655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_6
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1320
+        width: 339
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e410f12ea5e63990800000000000000
+      internalID: -7406480001107749657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_7
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1318
+        width: 346
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a35f3cfdd72b800800000000000000
+      internalID: 626701698176727637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_8
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 1317
+        width: 352
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6548f8ec3b92c0800000000000000
+      internalID: -4423875237666001709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_9
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 1317
+        width: 357
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255414f6b36a4440800000000000000
+      internalID: 4920855180285859106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 916
+        width: 363
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c15ae9de9e88310800000000000000
+      internalID: 1407632090331421731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 914
+        width: 367
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ee619f377027f0800000000000000
+      internalID: -639380032180001271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_12
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 913
+        width: 367
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffcb7fcd0d80250800000000000000
+      internalID: 5911204158391517055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_13
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 912
+        width: 369
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44ed4c389bec910800000000000000
+      internalID: 1859627671745348827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_14
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 910
+        width: 365
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a56da07bc943d0800000000000000
+      internalID: -3221820373600983866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_15
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 909
+        width: 365
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27647d8a269a690800000000000000
+      internalID: -7590427219650514226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_16
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 907
+        width: 359
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e8b32d2850d120800000000000000
+      internalID: 2436544349303530404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_17
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 907
+        width: 353
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af01322ceb133d0800000000000000
+      internalID: -3228589716826686903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_18
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 905
+        width: 349
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f757c67e56f737b30800000000000000
+      internalID: 4283907746210542975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_19
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 904
+        width: 344
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a286f1981e64d0800000000000000
+      internalID: -3139544875045575937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 503
+        width: 339
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e1d87b9cfb1c00800000000000000
+      internalID: 872568697503473948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 503
+        width: 336
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed44a584d78a6f90800000000000000
+      internalID: -6959600927302726170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_22
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 503
+        width: 335
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37deda0ae64e53940800000000000000
+      internalID: 5275373702327692659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_23
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 503
+        width: 336
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a74b2893120090800000000000000
+      internalID: -8069866038012434169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_24
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 503
+        width: 338
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b7d157a3597050800000000000000
+      internalID: 5798757973313960315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_25
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 503
+        width: 341
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1fdf6ff6a8d4b70800000000000000
+      internalID: 8884909853361697185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_26
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 503
+        width: 345
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a139b67e17973b0800000000000000
+      internalID: -5514251029982274928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_27
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 504
+        width: 351
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703011f6f90ef6570800000000000000
+      internalID: 8462229200220259079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_28
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 506
+        width: 357
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e34e6bd99651030800000000000000
+      internalID: 3464791614430658182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_29
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 506
+        width: 362
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e60f40295e6c00800000000000000
+      internalID: 895751371192985391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 366
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e5d96bb17fd790800000000000000
+      internalID: -7503153404427507521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_31
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 109
+        width: 369
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69789362cad5b7af0800000000000000
+      internalID: -397621148135094378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_32
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 110
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc8c012e9c89e00800000000000000
+      internalID: 1051812485772397728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_33
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 112
+        width: 368
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a003979b460694b30800000000000000
+      internalID: 4272051707262349322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_34
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 113
+        width: 364
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20472f80632187e90800000000000000
+      internalID: -7027847195224017918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_35
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 114
+        width: 359
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7f5b57c2e26e90800000000000000
+      internalID: -7033810322139939514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_36
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 116
+        width: 354
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a015bd0bb440b4b0800000000000000
+      internalID: -5426761980801904472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_37
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 116
+        width: 348
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a380c166f35c53d0800000000000000
+      internalID: -3216603716182309976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_38
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 119
+        width: 342
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755023a4377fbbed0800000000000000
+      internalID: -2397050302106565289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angular fish_39
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 119
+        width: 338
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ce626a7526328c0800000000000000
+      internalID: -4025265513349846012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

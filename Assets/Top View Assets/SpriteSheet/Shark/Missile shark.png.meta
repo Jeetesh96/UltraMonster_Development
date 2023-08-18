@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: 1dba7dfb6a87ff243af76970ef4ba862
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7410820589501466300
+    second: Missile shark_0
+  - first:
+      213: -8781320574554814597
+    second: Missile shark_1
+  - first:
+      213: -2911382407873132992
+    second: Missile shark_2
+  - first:
+      213: 960723610151216556
+    second: Missile shark_3
+  - first:
+      213: -3085859613502693576
+    second: Missile shark_4
+  - first:
+      213: -7395432905163897525
+    second: Missile shark_5
+  - first:
+      213: -5532383922196960267
+    second: Missile shark_6
+  - first:
+      213: 1321383622955307336
+    second: Missile shark_7
+  - first:
+      213: 6208797719818737809
+    second: Missile shark_8
+  - first:
+      213: -4834341694040945000
+    second: Missile shark_9
+  - first:
+      213: -6120105094311890282
+    second: Missile shark_10
+  - first:
+      213: 1551942005453167419
+    second: Missile shark_11
+  - first:
+      213: 1810370011724009427
+    second: Missile shark_12
+  - first:
+      213: 3473152842856892883
+    second: Missile shark_13
+  - first:
+      213: -4004778321034989123
+    second: Missile shark_14
+  - first:
+      213: -6634512032058021133
+    second: Missile shark_15
+  - first:
+      213: -8459450706304031320
+    second: Missile shark_16
+  - first:
+      213: -7837060548897018999
+    second: Missile shark_17
+  - first:
+      213: -143404111854893787
+    second: Missile shark_18
+  - first:
+      213: -2975566169229698866
+    second: Missile shark_19
+  - first:
+      213: -7408125336392477186
+    second: Missile shark_20
+  - first:
+      213: -2285392935398400091
+    second: Missile shark_21
+  - first:
+      213: 4778992475052247977
+    second: Missile shark_22
+  - first:
+      213: 5628723884873523532
+    second: Missile shark_23
+  - first:
+      213: 4994672120135388087
+    second: Missile shark_24
+  - first:
+      213: -7566095674727800474
+    second: Missile shark_25
+  - first:
+      213: -7258251520791032861
+    second: Missile shark_26
+  - first:
+      213: 7047391703666620028
+    second: Missile shark_27
+  - first:
+      213: 4778462233657852781
+    second: Missile shark_28
+  - first:
+      213: -8170536244045258605
+    second: Missile shark_29
+  - first:
+      213: -2581399449137141278
+    second: Missile shark_30
+  - first:
+      213: 2064418639079375186
+    second: Missile shark_31
+  - first:
+      213: -3780692983348693977
+    second: Missile shark_32
+  - first:
+      213: -8755248800214325501
+    second: Missile shark_33
+  - first:
+      213: -8973181573479511662
+    second: Missile shark_34
+  - first:
+      213: 1092206359037797125
+    second: Missile shark_35
+  - first:
+      213: -6390561049434315328
+    second: Missile shark_36
+  - first:
+      213: 958123824633881618
+    second: Missile shark_37
+  - first:
+      213: -7408625120993336950
+    second: Missile shark_38
+  - first:
+      213: -566665440156489649
+    second: Missile shark_39
+  - first:
+      213: 5399057101385991635
+    second: Missile shark_40
+  - first:
+      213: 9186825755667159836
+    second: Missile shark_41
+  - first:
+      213: 1232148807892492345
+    second: Missile shark_42
+  - first:
+      213: -6002808184531762938
+    second: Missile shark_43
+  - first:
+      213: -410280292933909913
+    second: Missile shark_44
+  - first:
+      213: 2533001826851709666
+    second: Missile shark_45
+  - first:
+      213: 2261796277980562867
+    second: Missile shark_46
+  - first:
+      213: -5485254606809191199
+    second: Missile shark_47
+  - first:
+      213: -6598798259772822242
+    second: Missile shark_48
+  - first:
+      213: -3879642443166405273
+    second: Missile shark_49
+  - first:
+      213: 3563616121668083702
+    second: Missile shark_50
+  - first:
+      213: -3138787884139060838
+    second: Missile shark_51
+  - first:
+      213: -7632735596751662666
+    second: Missile shark_52
+  - first:
+      213: 8089752117540778164
+    second: Missile shark_53
+  - first:
+      213: 2068446707168859678
+    second: Missile shark_54
+  - first:
+      213: 816090269379125162
+    second: Missile shark_55
+  - first:
+      213: 7566572711836447532
+    second: Missile shark_56
+  - first:
+      213: -5119102814258674375
+    second: Missile shark_57
+  - first:
+      213: -5287370075223782985
+    second: Missile shark_58
+  - first:
+      213: -6757197395518719077
+    second: Missile shark_59
+  - first:
+      213: 5123791773498828646
+    second: Missile shark_60
+  - first:
+      213: 2807448992793431532
+    second: Missile shark_61
+  - first:
+      213: -913588905283511711
+    second: Missile shark_62
+  - first:
+      213: -6883304234377388323
+    second: Missile shark_63
+  - first:
+      213: -8897021062520442963
+    second: Missile shark_64
+  - first:
+      213: 3992224676386326167
+    second: Missile shark_65
+  - first:
+      213: 8695875093693319368
+    second: Missile shark_66
+  - first:
+      213: -2280115319611188342
+    second: Missile shark_67
+  - first:
+      213: -4161751479550118702
+    second: Missile shark_68
+  - first:
+      213: -1546715691273640248
+    second: Missile shark_69
+  - first:
+      213: -562485847671657338
+    second: Missile shark_70
+  - first:
+      213: 5042611935390174621
+    second: Missile shark_71
+  - first:
+      213: 1730532019963585129
+    second: Missile shark_72
+  - first:
+      213: -8116611750729815223
+    second: Missile shark_73
+  - first:
+      213: -3620523389378238213
+    second: Missile shark_74
+  - first:
+      213: -2554149281540073042
+    second: Missile shark_75
+  - first:
+      213: 7818444773234723117
+    second: Missile shark_76
+  - first:
+      213: 2236950855121555772
+    second: Missile shark_77
+  - first:
+      213: 8967536799292061531
+    second: Missile shark_78
+  - first:
+      213: -1146396366265892779
+    second: Missile shark_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Missile shark_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3554
+        width: 248
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493d9420f9772990800000000000000
+      internalID: -7410820589501466300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3556
+        width: 249
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c4de767b722680800000000000000
+      internalID: -8781320574554814597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_2
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3559
+        width: 250
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046866d0021b897d0800000000000000
+      internalID: -2911382407873132992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3562
+        width: 254
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e466880d255d00800000000000000
+      internalID: 960723610151216556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3564
+        width: 258
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f9276f703dc25d0800000000000000
+      internalID: -3085859613502693576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_5
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 3565
+        width: 257
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45887794f42e5990800000000000000
+      internalID: -7395432905163897525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_6
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3567
+        width: 260
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb2e5472260933b0800000000000000
+      internalID: -5532383922196960267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_7
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 3567
+        width: 262
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8411542776f765210800000000000000
+      internalID: 1321383622955307336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_8
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3569
+        width: 261
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1981d0c61a41a2650800000000000000
+      internalID: 6208797719818737809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3569
+        width: 262
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e44dbb7d7f8ecb0800000000000000
+      internalID: -4834341694040945000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3069
+        width: 261
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6923b79a7d4011ba0800000000000000
+      internalID: -6120105094311890282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3069
+        width: 261
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1b0b080b998510800000000000000
+      internalID: 1551942005453167419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_12
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3067
+        width: 260
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df44d41fe9bf1910800000000000000
+      internalID: 1810370011724009427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 3066
+        width: 257
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d98f19eb1e133030800000000000000
+      internalID: 3473152842856892883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_14
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3065
+        width: 254
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13682d55b2c68c0800000000000000
+      internalID: -4004778321034989123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_15
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 3063
+        width: 251
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa602f357a7de3a0800000000000000
+      internalID: -6634512032058021133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_16
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3062
+        width: 246
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a522d7176ef99a80800000000000000
+      internalID: -8459450706304031320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_17
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 3058
+        width: 240
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be3cb04fa2d3390800000000000000
+      internalID: -7837060548897018999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_18
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 3056
+        width: 234
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250f8558b6820ef0800000000000000
+      internalID: -143404111854893787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_19
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3052
+        width: 234
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d465955aa4b6d0800000000000000
+      internalID: -2975566169229698866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2550
+        width: 235
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef551c8a14d013990800000000000000
+      internalID: -7408125336392477186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2548
+        width: 232
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af1469db37a840e0800000000000000
+      internalID: -2285392935398400091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_22
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2544
+        width: 232
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab01cbf554625240800000000000000
+      internalID: 4778992475052247977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2542
+        width: 233
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a4a01d8e3d1e40800000000000000
+      internalID: 5628723884873523532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_24
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2538
+        width: 234
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb873294d3a05540800000000000000
+      internalID: 4994672120135388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_25
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2536
+        width: 233
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ea3b1214dff690800000000000000
+      internalID: -7566095674727800474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_26
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 2534
+        width: 232
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcfcc92b2854b90800000000000000
+      internalID: -7258251520791032861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_27
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2532
+        width: 232
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7675127a6d5dc160800000000000000
+      internalID: 7047391703666620028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_28
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2532
+        width: 233
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63cbc98512805240800000000000000
+      internalID: 4778462233657852781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_29
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2532
+        width: 232
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906a3d439c6c9e80800000000000000
+      internalID: -8170536244045258605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2032
+        width: 232
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9aacab0e60d2cd0800000000000000
+      internalID: -2581399449137141278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2032
+        width: 232
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251850280d946ac10800000000000000
+      internalID: 2064418639079375186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_32
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2032
+        width: 230
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72470ba33c7488bc0800000000000000
+      internalID: -3780692983348693977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_33
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2034
+        width: 231
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076f0f7a9b1f7680800000000000000
+      internalID: -8755248800214325501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_34
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2036
+        width: 230
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994caf96ead87380800000000000000
+      internalID: -8973181573479511662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_35
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2038
+        width: 232
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503eed395eb482f00800000000000000
+      internalID: 1092206359037797125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_36
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 2040
+        width: 234
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5250d859a2057a0800000000000000
+      internalID: -6390561049434315328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_37
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 2042
+        width: 235
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214242aca80fb4d00800000000000000
+      internalID: 958123824633881618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_38
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 2046
+        width: 235
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81282d74b64f2990800000000000000
+      internalID: -7408625120993336950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_39
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2048
+        width: 240
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486bf4d8ccc228f0800000000000000
+      internalID: -566665440156489649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1552
+        width: 244
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5892a04dd4dea40800000000000000
+      internalID: 5399057101385991635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1554
+        width: 248
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b53f3d9592e7f70800000000000000
+      internalID: 9186825755667159836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_42
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1556
+        width: 252
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306ad400d8791110800000000000000
+      internalID: 1232148807892492345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_43
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1558
+        width: 255
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014d2aa2cdb1bca0800000000000000
+      internalID: -6002808184531762938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_44
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1558
+        width: 258
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c4515f346e4af0800000000000000
+      internalID: -410280292933909913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_45
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1560
+        width: 259
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e269e8bdb7072320800000000000000
+      internalID: 2533001826851709666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_46
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1560
+        width: 260
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b505573bb3836f10800000000000000
+      internalID: 2261796277980562867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_47
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1562
+        width: 262
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec209a4ff570e3b0800000000000000
+      internalID: -5485254606809191199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_48
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1562
+        width: 263
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d66c5d1fb5c64a0800000000000000
+      internalID: -6598798259772822242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_49
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1563
+        width: 262
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da98fc0cdb82ac0800000000000000
+      internalID: -3879642443166405273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1063
+        width: 261
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff91e75bf1847130800000000000000
+      internalID: 3563616121668083702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1062
+        width: 262
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916794ac09c074d0800000000000000
+      internalID: -3138787884139060838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_52
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1063
+        width: 260
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1532b2a63131690800000000000000
+      internalID: -7632735596751662666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_53
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1062
+        width: 258
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b07bf680b2944070800000000000000
+      internalID: 8089752117540778164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_54
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1062
+        width: 255
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1650a1325994bc10800000000000000
+      internalID: 2068446707168859678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_55
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1062
+        width: 252
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafdef2b6c5535b00800000000000000
+      internalID: 816090269379125162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_56
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1060
+        width: 248
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23fc20cacdd10960800000000000000
+      internalID: 7566572711836447532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_57
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1058
+        width: 242
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c863dc1b45f8b0800000000000000
+      internalID: -5119102814258674375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_58
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1056
+        width: 237
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b981462eec7f96b0800000000000000
+      internalID: -5287370075223782985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_59
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1054
+        width: 238
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b79ea15cc9932a0800000000000000
+      internalID: -6757197395518719077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_60
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 550
+        width: 237
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676772987d5b1740800000000000000
+      internalID: 5123791773498828646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 548
+        width: 238
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced0b740cff06f620800000000000000
+      internalID: 2807448992793431532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_62
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 544
+        width: 240
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a96d52bb74253f0800000000000000
+      internalID: -913588905283511711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_63
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 542
+        width: 242
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde5ef4a4479970a0800000000000000
+      internalID: -6883304234377388323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_64
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 540
+        width: 242
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafec496b7e678480800000000000000
+      internalID: -8897021062520442963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_65
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 538
+        width: 244
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7964e83013b376730800000000000000
+      internalID: 3992224676386326167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_66
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 536
+        width: 245
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c1c23354fda870800000000000000
+      internalID: 8695875093693319368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_67
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 534
+        width: 246
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b16a782376b50e0800000000000000
+      internalID: -2280115319611188342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_68
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 534
+        width: 246
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d475f9441d7e36c0800000000000000
+      internalID: -4161751479550118702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_69
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 533
+        width: 248
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ac1d0646f88ae0800000000000000
+      internalID: -1546715691273640248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 33
+        width: 249
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca85a0a16a138f0800000000000000
+      internalID: -562485847671657338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_71
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 34
+        width: 248
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d831d96d4faf540800000000000000
+      internalID: 5042611935390174621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_72
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 34
+        width: 250
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9626e5214b5140810800000000000000
+      internalID: 1730532019963585129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_73
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 36
+        width: 249
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94becf9cd900c5f80800000000000000
+      internalID: -8116611750729815223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_74
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 38
+        width: 250
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ed13e82151cdc0800000000000000
+      internalID: -3620523389378238213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_75
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 40
+        width: 250
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91c7ac2c6dd8cd0800000000000000
+      internalID: -2554149281540073042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_76
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 42
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d294aace812b08c60800000000000000
+      internalID: 7818444773234723117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_77
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 44
+        width: 250
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d68b63fe3b0f10800000000000000
+      internalID: 2236950855121555772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_78
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 48
+        width: 250
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57fb08f437137c70800000000000000
+      internalID: 8967536799292061531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Missile shark_79
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 50
+        width: 250
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504ce8249e2710f0800000000000000
+      internalID: -1146396366265892779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8fbb917a5fa739a47a54fdc6f9bc80b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

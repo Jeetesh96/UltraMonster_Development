@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: b51e52c20596203469f3d66abd634de4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4145335117784830662
+    second: Flames fragon spritesheet_0
+  - first:
+      213: 1864950714590559692
+    second: Flames fragon spritesheet_1
+  - first:
+      213: 4839928473250720404
+    second: Flames fragon spritesheet_2
+  - first:
+      213: 3452697961191023833
+    second: Flames fragon spritesheet_3
+  - first:
+      213: -751784543207063880
+    second: Flames fragon spritesheet_4
+  - first:
+      213: -4121239541173284288
+    second: Flames fragon spritesheet_5
+  - first:
+      213: 1524125248110405289
+    second: Flames fragon spritesheet_6
+  - first:
+      213: -5924406059945743785
+    second: Flames fragon spritesheet_7
+  - first:
+      213: -2745093545425628670
+    second: Flames fragon spritesheet_8
+  - first:
+      213: -1471535980085520315
+    second: Flames fragon spritesheet_9
+  - first:
+      213: 2187681370506097561
+    second: Flames fragon spritesheet_10
+  - first:
+      213: -6224791596011691354
+    second: Flames fragon spritesheet_11
+  - first:
+      213: -8043286203473768465
+    second: Flames fragon spritesheet_12
+  - first:
+      213: 8352211406639240941
+    second: Flames fragon spritesheet_13
+  - first:
+      213: 5069477638642327683
+    second: Flames fragon spritesheet_14
+  - first:
+      213: -3400553034990503450
+    second: Flames fragon spritesheet_15
+  - first:
+      213: 6453132765993597151
+    second: Flames fragon spritesheet_16
+  - first:
+      213: 4056732066032567069
+    second: Flames fragon spritesheet_17
+  - first:
+      213: -725747814818070554
+    second: Flames fragon spritesheet_18
+  - first:
+      213: -5202323840381632256
+    second: Flames fragon spritesheet_19
+  - first:
+      213: 1903224128023063406
+    second: Flames fragon spritesheet_20
+  - first:
+      213: 4169475742612398657
+    second: Flames fragon spritesheet_21
+  - first:
+      213: 2450475505907923168
+    second: Flames fragon spritesheet_22
+  - first:
+      213: -7529653719200964442
+    second: Flames fragon spritesheet_23
+  - first:
+      213: -8119303401770833378
+    second: Flames fragon spritesheet_24
+  - first:
+      213: 5723916480577601308
+    second: Flames fragon spritesheet_25
+  - first:
+      213: -8953420986172948658
+    second: Flames fragon spritesheet_26
+  - first:
+      213: -8383012107440236802
+    second: Flames fragon spritesheet_27
+  - first:
+      213: -7755549844236558786
+    second: Flames fragon spritesheet_28
+  - first:
+      213: -6320845892691619593
+    second: Flames fragon spritesheet_29
+  - first:
+      213: -7425602239021434014
+    second: Flames fragon spritesheet_30
+  - first:
+      213: -8561998652423010641
+    second: Flames fragon spritesheet_31
+  - first:
+      213: 975412067071021823
+    second: Flames fragon spritesheet_32
+  - first:
+      213: -5839208812225243666
+    second: Flames fragon spritesheet_33
+  - first:
+      213: -4717703127782676283
+    second: Flames fragon spritesheet_34
+  - first:
+      213: -1071262001913004717
+    second: Flames fragon spritesheet_35
+  - first:
+      213: 1333595121479794644
+    second: Flames fragon spritesheet_36
+  - first:
+      213: 9074755470664269491
+    second: Flames fragon spritesheet_37
+  - first:
+      213: 8181582946253825930
+    second: Flames fragon spritesheet_38
+  - first:
+      213: -2233764673249219204
+    second: Flames fragon spritesheet_39
+  - first:
+      213: 8792364558580816831
+    second: Flames fragon spritesheet_40
+  - first:
+      213: -4721672582545788016
+    second: Flames fragon spritesheet_41
+  - first:
+      213: -6199260244790477002
+    second: Flames fragon spritesheet_42
+  - first:
+      213: 7981792375948297268
+    second: Flames fragon spritesheet_43
+  - first:
+      213: -5661432464452468266
+    second: Flames fragon spritesheet_44
+  - first:
+      213: 3779827122683038841
+    second: Flames fragon spritesheet_45
+  - first:
+      213: -5779546561961215105
+    second: Flames fragon spritesheet_46
+  - first:
+      213: -1608609338237376220
+    second: Flames fragon spritesheet_47
+  - first:
+      213: -8574991880376627864
+    second: Flames fragon spritesheet_48
+  - first:
+      213: -1190194097877650677
+    second: Flames fragon spritesheet_49
+  - first:
+      213: 6234160612258633655
+    second: Flames fragon spritesheet_50
+  - first:
+      213: -4442931242916947598
+    second: Flames fragon spritesheet_51
+  - first:
+      213: -4111850634790106472
+    second: Flames fragon spritesheet_52
+  - first:
+      213: 6215383171034189216
+    second: Flames fragon spritesheet_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c25482a350378930800000000000000
+      internalID: 4145335117784830662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf7c24bc2a1e910800000000000000
+      internalID: 1864950714590559692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a686aad41ea2340800000000000000
+      internalID: 4839928473250720404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a185a0827aef20800000000000000
+      internalID: 3452697961191023833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be738ae0ff1195f0800000000000000
+      internalID: -751784543207063880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 6400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042921af87a6ec6c0800000000000000
+      internalID: -4121239541173284288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a623d686d7c62510800000000000000
+      internalID: 1524125248110405289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a23cbc31848cda0800000000000000
+      internalID: -5924406059945743785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20210bde6f777e9d0800000000000000
+      internalID: -2745093545425628670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548dbc892dd049be0800000000000000
+      internalID: -1471535980085520315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99371ca9d943c5e10800000000000000
+      internalID: 2187681370506097561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 5600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e2e616091d99a0800000000000000
+      internalID: -6224791596011691354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef452720d1806090800000000000000
+      internalID: -8043286203473768465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de692bdb50409e370800000000000000
+      internalID: 8352211406639240941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380ef089d076a5640800000000000000
+      internalID: 5069477638642327683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9b385180fcec0d0800000000000000
+      internalID: -3400553034990503450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87b7d7f022e8950800000000000000
+      internalID: 6453132765993597151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 4800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13cec012586c4830800000000000000
+      internalID: 4056732066032567069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb0452530ade5f0800000000000000
+      internalID: -725747814818070554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c18fb702adc7b0800000000000000
+      internalID: -5202323840381632256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b64ceb24c996a10800000000000000
+      internalID: 1903224128023063406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142250ad814fcd930800000000000000
+      internalID: 4169475742612398657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ff6c4d76d10220800000000000000
+      internalID: 2450475505907923168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 4000
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0e35116db418790800000000000000
+      internalID: -7529653719200964442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a24d1f290725f80800000000000000
+      internalID: -8119303401770833378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ff4d466bf6f6f40800000000000000
+      internalID: 5723916480577601308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f32a2ec0f0fb380800000000000000
+      internalID: -8953420986172948658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d93447ee89ab80800000000000000
+      internalID: -8383012107440236802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9170e180ce5490800000000000000
+      internalID: -7755549844236558786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3200
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0112e5628d748a0800000000000000
+      internalID: -6320845892691619593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b38cb2b16f2f890800000000000000
+      internalID: -7425602239021434014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa604fac69bad2980800000000000000
+      internalID: -8561998652423010641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d5676b1c598d00800000000000000
+      internalID: 975412067071021823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5dbf1d586f6fea0800000000000000
+      internalID: -5839208812225243666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8a3c0300a578eb0800000000000000
+      internalID: -4717703127782676283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2400
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df99292ec1221f0800000000000000
+      internalID: -1071262001913004717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3ff182b1e18210800000000000000
+      internalID: 1333595121479794644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef97c350200fd70800000000000000
+      internalID: 9074755470664269491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a876adb7752da8170800000000000000
+      internalID: 8181582946253825930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de92b5dd21001e0800000000000000
+      internalID: -2233764673249219204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb91f96bf0c40a70800000000000000
+      internalID: 8792364558580816831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1600
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09338ab7dcf397eb0800000000000000
+      internalID: -4721672582545788016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fff0707adc7f9a0800000000000000
+      internalID: -6199260244790477002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c15760e505ce60800000000000000
+      internalID: 7981792375948297268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1427c4b2d8e61b0800000000000000
+      internalID: -5661432464452468266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc8efddb4a47430800000000000000
+      internalID: 3779827122683038841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb873f50deacfa0800000000000000
+      internalID: -5779546561961215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 800
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292cf364521da9e0800000000000000
+      internalID: -1608609338237376220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dca4a21528ff880800000000000000
+      internalID: -8574991880376627864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037c3e16c49b7fe0800000000000000
+      internalID: -1190194097877650677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7586efb00348650800000000000000
+      internalID: 6234160612258633655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279537003998752c0800000000000000
+      internalID: -4442931242916947598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0fd712a5cfe6c0800000000000000
+      internalID: -4111850634790106472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flames fragon spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 1920
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad0f64401a714650800000000000000
+      internalID: 6215383171034189216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 293048700fa96ff4b8aa3ac3198f3de1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

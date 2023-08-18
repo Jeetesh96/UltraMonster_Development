@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 664333faf293e1545835346f99ac071e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3106257813652386393
+    second: crocodile Swim cycle_0
+  - first:
+      213: 4983771618958406156
+    second: crocodile Swim cycle_1
+  - first:
+      213: -3798454559544609475
+    second: crocodile Swim cycle_2
+  - first:
+      213: -3463075036010215683
+    second: crocodile Swim cycle_3
+  - first:
+      213: -3337798891486295637
+    second: crocodile Swim cycle_4
+  - first:
+      213: 9150528899759752818
+    second: crocodile Swim cycle_5
+  - first:
+      213: 9182522030084191197
+    second: crocodile Swim cycle_6
+  - first:
+      213: -8368454304839765023
+    second: crocodile Swim cycle_7
+  - first:
+      213: 6104060187149725867
+    second: crocodile Swim cycle_8
+  - first:
+      213: -7911582040925227793
+    second: crocodile Swim cycle_9
+  - first:
+      213: -2367343150027300893
+    second: crocodile Swim cycle_10
+  - first:
+      213: -7709761062203687416
+    second: crocodile Swim cycle_11
+  - first:
+      213: -8754685976534728924
+    second: crocodile Swim cycle_12
+  - first:
+      213: -1677292771063856335
+    second: crocodile Swim cycle_13
+  - first:
+      213: -4749058838109826989
+    second: crocodile Swim cycle_14
+  - first:
+      213: 4992041524532870694
+    second: crocodile Swim cycle_15
+  - first:
+      213: -6902816625622454692
+    second: crocodile Swim cycle_16
+  - first:
+      213: -3901739764471950234
+    second: crocodile Swim cycle_17
+  - first:
+      213: -1451277271586987289
+    second: crocodile Swim cycle_18
+  - first:
+      213: -8041735749582271152
+    second: crocodile Swim cycle_19
+  - first:
+      213: -8171249641556961258
+    second: crocodile Swim cycle_20
+  - first:
+      213: 7405474118427982391
+    second: crocodile Swim cycle_21
+  - first:
+      213: 1227340559961439602
+    second: crocodile Swim cycle_22
+  - first:
+      213: -901268309066552827
+    second: crocodile Swim cycle_23
+  - first:
+      213: -1600265400332305943
+    second: crocodile Swim cycle_24
+  - first:
+      213: -4489550242959791250
+    second: crocodile Swim cycle_25
+  - first:
+      213: 5853160606772590159
+    second: crocodile Swim cycle_26
+  - first:
+      213: -7202448225210715408
+    second: crocodile Swim cycle_27
+  - first:
+      213: 5726521204672979214
+    second: crocodile Swim cycle_28
+  - first:
+      213: 677436278072800926
+    second: crocodile Swim cycle_29
+  - first:
+      213: 4225698941512919456
+    second: crocodile Swim cycle_30
+  - first:
+      213: 8192818588628113343
+    second: crocodile Swim cycle_31
+  - first:
+      213: 7159769122037033084
+    second: crocodile Swim cycle_32
+  - first:
+      213: -7425501515444138962
+    second: crocodile Swim cycle_33
+  - first:
+      213: 7835819267147940171
+    second: crocodile Swim cycle_34
+  - first:
+      213: 8229043239766441400
+    second: crocodile Swim cycle_35
+  - first:
+      213: 4991917906829456976
+    second: crocodile Swim cycle_36
+  - first:
+      213: 8475548684729323067
+    second: crocodile Swim cycle_37
+  - first:
+      213: 1800891840057495749
+    second: crocodile Swim cycle_38
+  - first:
+      213: 2576728847252793440
+    second: crocodile Swim cycle_39
+  - first:
+      213: -3409973891416099807
+    second: crocodile Swim cycle_40
+  - first:
+      213: 4189080722374464194
+    second: crocodile Swim cycle_41
+  - first:
+      213: 3202113544876359687
+    second: crocodile Swim cycle_42
+  - first:
+      213: 7156207137052973658
+    second: crocodile Swim cycle_43
+  - first:
+      213: 4189945188344423208
+    second: crocodile Swim cycle_44
+  - first:
+      213: -661561291138168523
+    second: crocodile Swim cycle_45
+  - first:
+      213: 5568985501510024851
+    second: crocodile Swim cycle_46
+  - first:
+      213: 4009290337681389663
+    second: crocodile Swim cycle_47
+  - first:
+      213: -9023033846597887315
+    second: crocodile Swim cycle_48
+  - first:
+      213: -3855681058275767240
+    second: crocodile Swim cycle_49
+  - first:
+      213: 4673482896523252008
+    second: crocodile Swim cycle_50
+  - first:
+      213: -5857026942759418837
+    second: crocodile Swim cycle_51
+  - first:
+      213: 6552440668827964575
+    second: crocodile Swim cycle_52
+  - first:
+      213: 1833400652493714352
+    second: crocodile Swim cycle_53
+  - first:
+      213: 4822249109562313163
+    second: crocodile Swim cycle_54
+  - first:
+      213: -6876065462797035288
+    second: crocodile Swim cycle_55
+  - first:
+      213: -1332343549624206643
+    second: crocodile Swim cycle_56
+  - first:
+      213: -8961762356682961325
+    second: crocodile Swim cycle_57
+  - first:
+      213: 6939237631617713424
+    second: crocodile Swim cycle_58
+  - first:
+      213: -893069121551749961
+    second: crocodile Swim cycle_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crocodile Swim cycle_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 5477
+        width: 304
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952388b1605ab1b20800000000000000
+      internalID: 3106257813652386393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_1
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 5480
+        width: 317
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0270bdd1e9e92540800000000000000
+      internalID: 4983771618958406156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_2
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 5484
+        width: 334
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3571e204bd294bc0800000000000000
+      internalID: -3798454559544609475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_3
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 5491
+        width: 345
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df686185a9fa0ffc0800000000000000
+      internalID: -3463075036010215683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_4
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 5494
+        width: 361
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba94445b791cda1d0800000000000000
+      internalID: -3337798891486295637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_5
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 5498
+        width: 369
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27640218d853dfe70800000000000000
+      internalID: 9150528899759752818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_6
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 5504
+        width: 379
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fd51a22fde6f70800000000000000
+      internalID: 9182522030084191197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_7
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 5508
+        width: 383
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ffe0d5274ddb80800000000000000
+      internalID: -8368454304839765023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_8
+      rect:
+        serializedVersion: 2
+        x: 5741
+        y: 5511
+        width: 386
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f9a6466af5b450800000000000000
+      internalID: 6104060187149725867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_9
+      rect:
+        serializedVersion: 2
+        x: 6441
+        y: 5511
+        width: 395
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4ba471d0a643290800000000000000
+      internalID: -7911582040925227793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4431
+        width: 388
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef1b21a2f1852fd0800000000000000
+      internalID: -2367343150027300893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_11
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 4430
+        width: 386
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef538792d610590800000000000000
+      internalID: -7709761062203687416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_12
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 4431
+        width: 384
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbd881d7b118680800000000000000
+      internalID: -8754685976534728924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_13
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 4428
+        width: 372
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13388648c1f09b8e0800000000000000
+      internalID: -1677292771063856335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_14
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 4424
+        width: 362
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d809f524f71eb0800000000000000
+      internalID: -4749058838109826989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_15
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 4421
+        width: 349
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef7cd415b474540800000000000000
+      internalID: 4992041524532870694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_16
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 4417
+        width: 338
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eec180ad44430a0800000000000000
+      internalID: -6902816625622454692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_17
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 4411
+        width: 333
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66412a44b5c3ad9c0800000000000000
+      internalID: -3901739764471950234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_18
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 4407
+        width: 328
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a57cb2070cdbe0800000000000000
+      internalID: -1451277271586987289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_19
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 4404
+        width: 328
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc69451f3066090800000000000000
+      internalID: -8041735749582271152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3320
+        width: 328
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61895ff7eb3e99e80800000000000000
+      internalID: -8171249641556961258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_21
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3317
+        width: 330
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73abf3e897785c660800000000000000
+      internalID: 7405474118427982391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_22
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3317
+        width: 328
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3eee8cb3680110800000000000000
+      internalID: 1227340559961439602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_23
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 3317
+        width: 325
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a65ce7f3d0e73f0800000000000000
+      internalID: -901268309066552827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_24
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 3317
+        width: 324
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e938d2d817bac9e0800000000000000
+      internalID: -1600265400332305943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_25
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 3320
+        width: 325
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bec1737d9e1b1c0800000000000000
+      internalID: -4489550242959791250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_26
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 3324
+        width: 325
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f467dfb7f8a9a3150800000000000000
+      internalID: 5853160606772590159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_27
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 3327
+        width: 326
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23c27df73cb0c90800000000000000
+      internalID: -7202448225210715408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_28
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 3334
+        width: 355
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01664bf1b0b87f40800000000000000
+      internalID: 5726521204672979214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_29
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3341
+        width: 361
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fd78a4bcb66900800000000000000
+      internalID: 677436278072800926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2271
+        width: 376
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92f907cc2b4aa30800000000000000
+      internalID: 4225698941512919456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2278
+        width: 396
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75564591db2b170800000000000000
+      internalID: 8192818588628113343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_32
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2288
+        width: 407
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e3d8151c9c5360800000000000000
+      internalID: 7159769122037033084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_33
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2295
+        width: 417
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc3d4b6b153f890800000000000000
+      internalID: -7425501515444138962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_34
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2305
+        width: 426
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c3868b1c6ebc60800000000000000
+      internalID: 7835819267147940171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_35
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 2312
+        width: 434
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbb9b2a3f633270800000000000000
+      internalID: 8229043239766441400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_36
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 2319
+        width: 438
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563b7053ead64540800000000000000
+      internalID: 4991917906829456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_37
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 2322
+        width: 441
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e02d59f923f9570800000000000000
+      internalID: 8475548684729323067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_38
+      rect:
+        serializedVersion: 2
+        x: 5830
+        y: 2326
+        width: 444
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d685469d0ef810800000000000000
+      internalID: 1800891840057495749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_39
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 2329
+        width: 441
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06821070c3162c320800000000000000
+      internalID: 2576728847252793440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1249
+        width: 441
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12479c400d65da0d0800000000000000
+      internalID: -3409973891416099807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_41
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1249
+        width: 437
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21198e8ba922a30800000000000000
+      internalID: 4189080722374464194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_42
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1246
+        width: 431
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70082d4bd41307c20800000000000000
+      internalID: 3202113544876359687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_43
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1239
+        width: 423
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5827d974ff4360800000000000000
+      internalID: 7156207137052973658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_44
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1236
+        width: 417
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82360a313fca52a30800000000000000
+      internalID: 4189945188344423208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_45
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1229
+        width: 404
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398f84c289a1d6f0800000000000000
+      internalID: -661561291138168523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_46
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 1220
+        width: 393
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3ec0dec2094d40800000000000000
+      internalID: 5568985501510024851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_47
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 1212
+        width: 383
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58b7eae15cd3a730800000000000000
+      internalID: 4009290337681389663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_48
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 1202
+        width: 365
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad439c58eb7c280800000000000000
+      internalID: -9023033846597887315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_49
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 1195
+        width: 351
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c454a718edd7ac0800000000000000
+      internalID: -3855681058275767240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 104
+        width: 331
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d127eeeb8bd040800000000000000
+      internalID: 4673482896523252008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_51
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 97
+        width: 313
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24cee40709a7bea0800000000000000
+      internalID: -5857026942759418837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_52
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 91
+        width: 311
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94505d6212feea50800000000000000
+      internalID: 6552440668827964575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_53
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 84
+        width: 313
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b37bdefd2c817910800000000000000
+      internalID: 1833400652493714352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_54
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 77
+        width: 310
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c7e904021ce240800000000000000
+      internalID: 4822249109562313163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_55
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 74
+        width: 307
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e896ad74ee4390a0800000000000000
+      internalID: -6876065462797035288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_56
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 73
+        width: 304
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcabdd5c990928de0800000000000000
+      internalID: -1332343549624206643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_57
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 70
+        width: 304
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec1783e9c61a380800000000000000
+      internalID: -8961762356682961325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_58
+      rect:
+        serializedVersion: 2
+        x: 5816
+        y: 70
+        width: 310
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c89c3cdf1d4060800000000000000
+      internalID: 6939237631617713424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crocodile Swim cycle_59
+      rect:
+        serializedVersion: 2
+        x: 6516
+        y: 74
+        width: 304
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca90a9d5e2b93f0800000000000000
+      internalID: -893069121551749961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 34e636bf7e5a70145bfde0630ead4e79
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
